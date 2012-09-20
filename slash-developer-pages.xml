@@ -4,90 +4,6 @@ consum<?xml version="1.0"?>
   <generated>2012-08-13 17:36:18</generated>
   <api_version>1.0.1</api_version>
   <agencies>
-    <agency id="ACF">
-      <name>Administration for Children and Families</name>
-      <url>http://www.acf.hhs.gov/</url>
-    </agency>
-    <agency id="AOA">
-      <name>Administration on Aging</name>
-      <url>http://www.aoa.gov/</url>
-    </agency>
-    <agency id="ACUS">
-      <name>Administrative Conference of the United States</name>
-      <url>http://www.acus.gov</url>
-    </agency>
-    <agency id="USC">
-      <name>Administrative Office of the U.S. Courts</name>
-      <url>http://www.uscourts.gov</url>
-    </agency>
-    <agency id="ACHP">
-      <name>Advisory Council on Historic Preservation</name>
-      <url>http://www.achp.gov</url>
-    </agency>
-    <agency id="ADF">
-      <name>African Development Foundation</name>
-      <url>http://www.adf.gov</url>
-    </agency>
-    <agency id="AHRQ">
-      <name>Agency for Healthcare Research and Quality</name>
-      <url>http://www.ahrq.gov/</url>
-    </agency>
-    <agency id="AMS">
-      <name>Agricultural Marketing Service</name>
-      <url>http://www.ams.usda.gov</url>
-    </agency>
-    <agency id="ARS">
-      <name>Agricultural Research Service</name>
-      <url>http://www.ars.usda.gov</url>
-    </agency>
-    <agency id="TTB">
-      <name>Alcohol and Tobacco Tax and Trade Bureau</name>
-      <url>http://www.ttb.gov/</url>
-    </agency>
-    <agency id="AMTRAK">
-      <name>National Railroad Passenger Corporation</name>
-      <url>http://www.amtrak.com</url>
-    </agency>
-    <agency id="APHIS">
-      <name>Animal and Plant Health Inspection Service</name>
-      <url>http://www.aphis.usda.gov/</url>
-    </agency>
-    <agency id="AOC">
-      <name>Architect of the Capitol</name>
-      <url>http://www.aoc.gov</url>
-    </agency>
-    <agency id="BBG">
-      <name>Broadcasting Board of Governors, International Broadcasting Bureau</name>
-      <url>http://www.bbg.gov</url>
-    </agency>
-    <agency id="ATF">
-      <name>Bureau of Alcohol, Tobacco, Firearms and Explosives</name>
-      <url>http://www.atf.gov/</url>
-    </agency>
-    <agency id="BEA">
-      <name>Bureau of Economic Analysis</name>
-      <url>http://www.bea.gov/</url>
-    </agency>
-    <agency id="BEP">
-      <name>Bureau of Engraving and Printing</name>
-      <url>http://www.moneyfactory.gov/</url>
-    </agency>
-    <agency id="BIA">
-      <name>Bureau of Indian Affairs</name>
-      <url>http://www.bia.gov/</url>
-    </agency>
-    <agency id="BIS">
-      <name>Bureau of Industry and Security</name>
-      <url>http://www.bis.doc.gov/</url>
-    </agency>
-    <agency id="BILA">
-      <name>Bureau of International Labor Affairs</name>
-      <url>http://www.dol.gov/ilab/</url>
-    </agency>
-    <agency id="BLS">
-      <name>Bureau of Labor Statistics</name>
-      <url>http://www.bls.gov/</url>
-    </agency>
     <agency id="BLM">
       <name>Bureau of Land Management</name>
       <url>http://www.blm.gov</url>
@@ -107,6 +23,7 @@ consum<?xml version="1.0"?>
     <agency id="CENSUS">
       <name>Bureau of the Census</name>
       <url>http://www.census.gov/</url>
+      <developer_url>http://www.census.gov/developers/</developer_url>
     </agency>
     <agency id="BOPD">
       <name>Bureau of the Public Debt</name>
