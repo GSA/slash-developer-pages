@@ -1,912 +1,218 @@
-
-[[Under construction]]
-
-
-
-
-
 consum<?xml version="1.0"?>
 <agencies>
   <generator_version>1.1</generator_version>
-  <generated>2012-08-13 17:36:18</generated>
+  <generated>2012-09-24 17:36:18</generated>
   <api_version>1.0.1</api_version>
   <agencies>
-    <agency id="BLM">
-      <name>Bureau of Land Management</name>
-      <url>http://www.blm.gov</url>
+    <agency id="ED">
+      <name>Department of Education</name>
+      <url>http://www.ed.gov</url>
+      <developer_url>http://data.ed.gov/developers</developer_url>
     </agency>
-    <agency id="BOEM">
-      <name>Bureau of Ocean Energy Management</name>
-      <url>http://www.boem.gov/</url>
+    <agency id="DOE">
+      <name>Department of Energy</name>
+      <url>http://www.energy.gov</url>
+      <developer_url>http://www.energy.gov/developers</developer_url>
     </agency>
-    <agency id="USBR">
-      <name>Bureau of Reclamation</name>
-      <url>http://www.usbr.gov/</url>
-    </agency>
-    <agency id="BSEE">
-      <name>Bureau of Safety and Environmental Enforcement</name>
-      <url>http://www.bsee.gov/</url>
+    <agency id="DOL">
+      <name>Department of Labor</name>
+      <url>http://www.dol.gov</url>
+      <developer_url>http://developer.dol.gov/</developer_url>
     </agency>
     <agency id="CENSUS">
       <name>Bureau of the Census</name>
       <url>http://www.census.gov/</url>
       <developer_url>http://www.census.gov/developers/</developer_url>
     </agency>
-    <agency id="BOPD">
-      <name>Bureau of the Public Debt</name>
-      <url>http://www.publicdebt.treas.gov/</url>
-    </agency>
-    <agency id="BTS">
-      <name>Bureau of Transportation Statistics</name>
-      <url>http://www.bts.gov/</url>
-    </agency>
-    <agency id="CFBNP">
-      <name>Center for Faith-Based and Neighborhood Partnerships</name>
-      <url>http://www.dol.gov/cfbnp/</url>
-    </agency>
-    <agency id="CNPP">
-      <name>Center for Nutrition Policy and Promotion</name>
-      <url>http://www.cnpp.usda.gov</url>
-    </agency>
-    <agency id="CDC">
-      <name>Centers for Disease Control and Prevention</name>
-      <url>http://www.cdc.gov/</url>
-    </agency>
-    <agency id="CMS">
-      <name>Centers for Medicare and Medicaid Services</name>
+    <agency id="">
+      <name>Centers for Medicare &amp; Medicaid Services</name>
       <url>http://www.cms.gov/</url>
-    </agency>
-    <agency id="CIA">
-      <name>Central Intelligence Agency</name>
-      <url>http://www.cia.gov</url>
-    </agency>
-    <agency id="USCCR">
-      <name>Commission on Civil Rights</name>
-      <url>http://www.usccr.gov</url>
-    </agency>
-    <agency id="CFTC">
-      <name>Commodity Futures Trading Commission</name>
-      <url>http://www.cftc.gov</url>
-    </agency>
-    <agency id="CDFIF">
-      <name>Community Development Financial Institutions Fund</name>
-      <url>http://www.cdfifund.gov/</url>
-    </agency>
-    <agency id="CBO">
-      <name>Congressional Budget Office</name>
-      <url>http://www.cbo.gov</url>
-    </agency>
+      <developer_url>http://data.cms.gov/</developer_url>
+    </agency>    
     <agency id="CFPB">
       <name>Consumer Financial Protection Bureau</name>
       <url>http://www.consumerfinance.gov</url>
+      <developer_url>http://www.consumerfinance.gov/developers/</developer_url>
     </agency>
     <agency id="CPSC">
       <name>Consumer Product Safety Commission</name>
       <url>http://www.cpsc.gov</url>
+      <developer_url>http://www.cpsc.gov/cpscpub/prerel/api.html</developer_url>
     </agency>
-    <agency id="CNCS">
-      <name>Corporation for National and Community Service</name>
-      <url>http://www.nationalservice.gov</url>
-    </agency>
-    <agency id="CPB">
-      <name>Corporation for Public Broadcasting</name>
-      <url>http://www.cpb.org/</url>
-    </agency>
-    <agency id="CSOSA">
-      <name>Court Services and Offender Supervision Agency for the District of Columbia</name>
-      <url>http://www.csosa.gov</url>
-    </agency>
-    <agency id="DARPA">
-      <name>Defense Advanced Research Projects Agency</name>
-      <url>http://www.darpa.mil/</url>
-    </agency>
-    <agency id="DCA">
-      <name>Defense Commissary Agency</name>
-      <url>http://www.commissaries.com/</url>
-    </agency>
-    <agency id="DCAA">
-      <name>Defense Contract Audit Agency</name>
-      <url>http://www.dcaa.mil/</url>
-    </agency>
-    <agency id="DCMA">
-      <name>Defense Contract Management Agency</name>
-      <url>http://www.dcma.mil/</url>
-    </agency>
-    <agency id="DFAS">
-      <name>Defense Finance and Accounting Service</name>
-      <url>http://www.dfas.mil/</url>
-    </agency>
-    <agency id="DHRA">
-      <name>Defense Human Resources Activity</name>
-      <url>http://www.dhra.mil/</url>
-    </agency>
-    <agency id="DISA">
-      <name>Defense Information Systems Agency</name>
-      <url>http://www.disa.mil/</url>
-    </agency>
-    <agency id="DIA">
-      <name>Defense Intelligence Agency</name>
-      <url>http://www.dia.mil/</url>
-    </agency>
-    <agency id="DLA">
-      <name>Defense Logistics Agency</name>
-      <url>http://www.dla.mil</url>
-    </agency>
-    <agency id="DNFSB">
-      <name>Defense Nuclear Facilities Safety Board</name>
-      <url>http://www.dnfsb.gov</url>
-    </agency>
-    <agency id="DPMO">
-      <name>Defense Prisoner of War/Missing Personnel Office</name>
-      <url>http://www.dtic.mil/dpmo/</url>
-    </agency>
-    <agency id="DSCA">
-      <name>Defense Security Cooperation Agency</name>
-      <url>http://www.dsca.mil/</url>
-    </agency>
-    <agency id="DSS">
-      <name>Defense Security Service</name>
-      <url>http://www.dss.mil/</url>
-    </agency>
-    <agency id="DTIC">
-      <name>Defense Technical Information Center</name>
-      <url>http://www.dtic.mil/</url>
-    </agency>
-    <agency id="DTRA">
-      <name>Defense Threat Reduction Agency</name>
-      <url>http://www.dtra.mil</url>
-    </agency>
-    <agency id="USDA">
-      <name>Department of Agriculture</name>
-      <url>http://www.usda.gov</url>
-    </agency>
-    <agency id="DOC">
-      <name>Department of Commerce</name>
-      <url>http://www.commerce.gov</url>
-    </agency>
-    <agency id="DOD">
-      <name>Department of Defense</name>
-      <url>http://www.defense.gov</url>
-    </agency>
-    <agency id="DODEA">
-      <name>Department of Defense Education Activity</name>
-      <url>http://www.dodea.edu/</url>
-    </agency>
-    <agency id="ED">
-      <name>Department of Education</name>
-      <url>http://www.ed.gov</url>
-    </agency>
-    <agency id="DOE">
-      <name>Department of Energy</name>
-      <url>http://www.energy.gov</url>
-    </agency>
-    <agency id="HHS">
-      <name>Department of Health and Human Services</name>
-      <url>http://www.hhs.gov</url>
-    </agency>
-    <agency id="DHS">
-      <name>Department of Homeland Security</name>
-      <url>http://www.dhs.gov</url>
-    </agency>
-    <agency id="HUD">
-      <name>Department of Housing and Urban Development</name>
-      <url>http://www.hud.gov</url>
-    </agency>
-    <agency id="DOJ">
-      <name>Department of Justice</name>
-      <url>http://www.justice.gov</url>
-    </agency>
-    <agency id="DOL">
-      <name>Department of Labor</name>
-      <url>http://www.dol.gov</url>
-    </agency>
-    <agency id="DOS">
-      <name>Department of State</name>
-      <url>http://www.state.gov</url>
-    </agency>
-    <agency id="AF">
-      <name>Department of the Air Force</name>
-      <url>http://www.af.mil/</url>
-    </agency>
-    <agency id="ARMY">
-      <name>Department of the Army</name>
-      <url>http://www.army.mil/</url>
-    </agency>
-    <agency id="DOI">
-      <name>Department of the Interior</name>
-      <url>http://www.doi.gov</url>
-    </agency>
-    <agency id="NAVY">
-      <name>Department of the Navy</name>
-      <url>http://www.navy.mil/</url>
-    </agency>
-    <agency id="TREAS">
-      <name>Department of the Treasury</name>
-      <url>http://www.treasury.gov</url>
-    </agency>
-    <agency id="DOT">
-      <name>Department of Transportation</name>
-      <url>http://www.dot.gov</url>
-    </agency>
-    <agency id="VA">
-      <name>Department of Veterans Affairs</name>
-      <url>http://www.va.gov</url>
-    </agency>
-    <agency id="DEA">
-      <name>Drug Enforcement Administration</name>
-      <url>http://www.justice.gov/dea/</url>
-    </agency>
-    <agency id="EDA">
-      <name>Economic Development Administration</name>
-      <url>http://www.eda.gov/</url>
-    </agency>
-    <agency id="ERS">
-      <name>Economic Research Service</name>
-      <url>http://www.ers.usda.gov/</url>
-    </agency>
-    <agency id="ESA">
-      <name>Economics and Statistics Administration</name>
-      <url>http://www.esa.doc.gov/</url>
-    </agency>
-    <agency id="EAC">
-      <name>Election Assistance Commission</name>
-      <url>http://www.eac.gov</url>
-    </agency>
-    <agency id="EBSA">
-      <name>Employee Benefits Security Administration</name>
-      <url>http://www.dol.gov/ebsa/</url>
-    </agency>
-    <agency id="DOLETA">
-      <name>Employment and Training Administration</name>
-      <url>http://www.doleta.gov/</url>
+    <agency id="EIA">
+      <name>Energy Information Administration</name>
+      <url>http://www.eia.gov</url>
+      <developer_url>http://www.eia.gov/developer/</developer_url>
     </agency>
     <agency id="EPA">
       <name>Environmental Protection Agency</name>
       <url>http://www.epa.gov</url>
-    </agency>
-    <agency id="EEOC">
-      <name>Equal Employment Opportunity Commission</name>
-      <url>http://www.eeoc.gov</url>
-    </agency>
-    <agency id="EOP">
-      <name>Executive Office of the President</name>
-      <url>http://www.whitehouse.gov</url>
-    </agency>
-    <agency id="EXIM">
-      <name>Export-Import Bank of the United States</name>
-      <url>http://www.exim.gov</url>
-    </agency>
-    <agency id="FCA">
-      <name>Farm Credit Administration</name>
-      <url>http://www.fca.gov</url>
-    </agency>
-    <agency id="FSA">
-      <name>Farm Service Agency</name>
-      <url>http://www.fsa.usda.gov</url>
+      <developer_url>http://www.epa.gov/developer/</developer_url>
     </agency>
     <agency id="FAA">
       <name>Federal Aviation Administration</name>
       <url>http://www.faa.gov/</url>
-    </agency>
-    <agency id="FBI">
-      <name>Federal Bureau of Investigation</name>
-      <url>http://www.fbi.gov/</url>
-    </agency>
-    <agency id="BOP">
-      <name>Federal Bureau of Prisons</name>
-      <url>http://www.bop.gov/</url>
+      <developer_url>http://services.faa.gov/</developer_url>
     </agency>
     <agency id="FCC">
       <name>Federal Communications Commission</name>
       <url>http://www.fcc.gov</url>
-    </agency>
-    <agency id="FCG">
-      <name>Federal Consulting Group</name>
-      <url>http://www.fcg.gov/</url>
-    </agency>
-    <agency id="FDIC">
-      <name>Federal Deposit Insurance Corporation</name>
-      <url>http://www.fdic.gov</url>
-    </agency>
-    <agency id="FEC">
-      <name>Federal Election Commission</name>
-      <url>http://www.fec.gov</url>
-    </agency>
-    <agency id="FEMA">
-      <name>Federal Emergency Management Agency</name>
-      <url>http://www.fema.gov/</url>
-    </agency>
-    <agency id="FERC">
-      <name>Federal Energy Regulatory Commission</name>
-      <url>http://www.ferc.gov</url>
-    </agency>
-    <agency id="FHWA">
-      <name>Federal Highway Administration</name>
-      <url>http://www.fhwa.dot.gov/</url>
-    </agency>
-    <agency id="FHA">
-      <name>Federal Housing Administration</name>
-      <url>http://www.fha.gov/</url>
-    </agency>
-    <agency id="FHFA">
-      <name>Federal Housing Finance Agency</name>
-      <url>http://www.fhfa.gov/</url>
-    </agency>
-    <agency id="FHFB">
-      <name>Federal Housing Finance Board</name>
-      <url>http://www.fhfa.gov</url>
-    </agency>
-    <agency id="FJC">
-      <name>Federal Judicial Center</name>
-      <url>http://www.fjc.gov</url>
-    </agency>
-    <agency id="FLRA">
-      <name>Federal Labor Relations Authority</name>
-      <url>http://www.flra.gov</url>
-    </agency>
-    <agency id="FLETC">
-      <name>Federal Law Enforcement Training Center</name>
-      <url>http://www.fletc.gov/</url>
-    </agency>
-    <agency id="FMC">
-      <name>Federal Maritime Commission</name>
-      <url>http://www.fmc.gov</url>
-    </agency>
-    <agency id="FMCS">
-      <name>Federal Mediation and Conciliation Service</name>
-      <url>http://www.fmcs.gov</url>
-    </agency>
-    <agency id="FMSHRC">
-      <name>Federal Mine Safety and Health Review Commission</name>
-      <url>http://www.fmshrc.gov</url>
+      <developer_url>http://www.fcc.gov/developers</developer_url>
     </agency>
     <agency id="FMCSA">
       <name>Federal Motor Carrier Safety Administration</name>
       <url>http://www.fmcsa.dot.gov/</url>
+      <developer_url>https://mobile.fmcsa.dot.gov/developer</developer_url>
     </agency>
-    <agency id="FRA">
-      <name>Federal Railroad Administration</name>
-      <url>http://www.fra.dot.gov/</url>
-    </agency>
-    <agency id="FRS">
-      <name>Federal Reserve System</name>
-      <url>http://www.federalreserve.gov</url>
-    </agency>
-    <agency id="FRTIB">
-      <name>Federal Retirement Thrift Investment Board</name>
-      <url>http://www.frtib.gov</url>
-    </agency>
-    <agency id="FAFSA">
-      <name>Federal Student Aid</name>
-      <url>http://www.fafsa.ed.gov/</url>
-    </agency>
-    <agency id="FTC">
-      <name>Federal Trade Commission</name>
-      <url>http://www.ftc.gov</url>
-    </agency>
-    <agency id="FTA">
-      <name>Federal Transit Administration</name>
-      <url>http://www.fta.dot.gov/</url>
-    </agency>
-    <agency id="FINCEN">
-      <name>Financial Crimes Enforcement Network</name>
-      <url>http://www.fincen.gov/</url>
-    </agency>
-    <agency id="FMS">
-      <name>Financial Management Service</name>
-      <url>http://www.fms.treas.gov</url>
-    </agency>
-    <agency id="FWS">
-      <name>Fish and Wildlife Service</name>
-      <url>http://www.fws.gov/</url>
-    </agency>
-    <agency id="FDA">
-      <name>Food and Drug Administration</name>
-      <url>http://www.fda.gov/</url>
-    </agency>
-    <agency id="FNS">
-      <name>Food and Nutrition Service</name>
-      <url>http://www.fns.usda.gov/</url>
-    </agency>
-    <agency id="FSIS">
-      <name>Food Safety and Inspection Service</name>
-      <url>http://www.fsis.usda.gov/</url>
-    </agency>
-    <agency id="FAS">
-      <name>Foreign Agricultural Service</name>
-      <url>http://www.fas.usda.gov/</url>
-    </agency>
-    <agency id="FS">
-      <name>Forest Service</name>
-      <url>http://www.fs.fed.us/</url>
-    </agency>
-    <agency id="GSA">
-      <name>General Services Administration</name>
-      <url>http://www.gsa.gov</url>
-    </agency>
-    <agency id="GAO">
-      <name>Government Accountability Office</name>
-      <url>http://www.gao.gov</url>
-    </agency>
-    <agency id="GPO">
-      <name>Government Printing Office</name>
-      <url>http://www.gpo.gov</url>
-    </agency>
-    <agency id="GIPSA">
-      <name>Grain Inspection, Packers and Stockyards Administration</name>
-      <url>http://www.gipsa.usda.gov/</url>
-    </agency>
-    <agency id="HRSA">
-      <name>Health Resources and Services Administration</name>
-      <url>http://www.hrsa.gov</url>
-    </agency>
-    <agency id="HOR">
-      <name>House of Representatives</name>
-      <url>http://www.house.gov</url>
-    </agency>
-    <agency id="IHS">
-      <name>Indian Health Service</name>
-      <url>http://www.ihs.gov/</url>
-    </agency>
-    <agency id="ISE">
-      <name>Information Sharing Environment</name>
-      <url>http://www.ise.gov</url>
-    </agency>
-    <agency id="IES">
-      <name>Institute of Education Sciences</name>
-      <url>http://ies.ed.gov/</url>
-    </agency>
-    <agency id="IMLS">
-      <name>Institute of Museum and Library Services</name>
-      <url>http://www.imls.gov</url>
-    </agency>
-    <agency id="IAF">
-      <name>Inter-American Foundation</name>
-      <url>http://www.iaf.gov</url>
-    </agency>
-    <agency id="IRS">
-      <name>Internal Revenue Service</name>
-      <url>http://www.irs.gov</url>
-    </agency>
-    <agency id="TRADE">
-      <name>International Trade Administration</name>
-      <url>http://www.trade.gov/</url>
-    </agency>
-    <agency id="JC">
-      <name>Job Corps</name>
-      <url>http://www.jobcorps.gov</url>
-    </agency>
-    <agency id="JCS">
-      <name>Joint Chief of Staff</name>
-      <url>http://www.jcs.mil/</url>
-    </agency>
-    <agency id="JPML">
-      <name>Judicial Panel on Multidistrict Litigation</name>
-      <url>http://www.jpml.uscourts.gov</url>
-    </agency>
-    <agency id="LOC">
-      <name>Library of Congress</name>
-      <url>http://www.libraryofcongress.gov</url>
-    </agency>
-    <agency id="MARAD">
-      <name>Maritime Administration</name>
-      <url>http://www.marad.dot.gov/</url>
-    </agency>
-    <agency id="MSPB">
-      <name>Merit Systems Protection Board</name>
-      <url>http://www.mspb.gov</url>
-    </agency>
-    <agency id="MCC">
-      <name>Millennium Challenge Corporation</name>
-      <url>http://www.mcc.gov</url>
-    </agency>
-    <agency id="MSHA">
-      <name>Mine Safety and Health Administration</name>
-      <url>http://www.msha.gov/</url>
-    </agency>
-    <agency id="MBDA">
-      <name>Minority Business Development Agency</name>
-      <url>http://www.mbda.gov/</url>
-    </agency>
-    <agency id="MDA">
-      <name>Missile Defense Agency</name>
-      <url>http://www.mda.mil/</url>
-    </agency>
+    <agency id="FR">
+      <name>Office of the Federal Register</name>
+      <url>http://www.federalregister.gov/</url>
+      <developer_url>http://www.federalregister.gov/blog/learn/developers</developer_url>
+    </agency>    
+    <agency id="">
+      <name>Federal Reserve Bank of St. Louis</name>
+      <url>http://www.stlouisfed.org</url>
+      <developer_url>http://api.stlouisfed.org/</developer_url>
+    </agency>    
     <agency id="NASA">
       <name>National Aeronautics and Space Administration</name>
       <url>http://www.nasa.gov</url>
-    </agency>
-    <agency id="NASS">
-      <name>National Agricultural Statistics Service</name>
-      <url>http://www.nass.usda.gov/</url>
-    </agency>
+      <developer_url>http://data.nasa.gov/api-info/</developer_url>
+    </agency>    
     <agency id="NARA">
       <name>National Archives and Records Administration</name>
       <url>http://www.archives.gov</url>
+      <developer_url>http://www.archives.gov/developers/</developer_url>
+    </agency>    
+    <agency id="">
+      <name>National Institute on Drug Abuse</name>
+      <url>http://www.drugabuse.gov</url>
+      <developer_url>http://www.drugabuse.gov/developer</developer_url>
     </agency>
-    <agency id="NCPC">
-      <name>National Capital Planning Commission</name>
-      <url>http://www.ncpc.gov</url>
+    <agency id="NLM">
+      <name>National Library of Medicine</name>
+      <url>http://www.nlm.nih.gov</url>
+      <developer_url>http://www.nlm.nih.gov/api/</developer_url>
     </agency>
-    <agency id="CEMVA">
-      <name>National Cemetery Administration</name>
-      <url>http://www.cem.va.gov/</url>
+    <agency id="NREL">
+      <name>National Renewable Energy Laboratory</name>
+      <url>http://www.nrel.gov</url>
+      <developer_url>http://developer.nrel.gov/</developer_url>
     </agency>
-    <agency id="NCES">
-      <name>National Center for Education Statistics</name>
-      <url>http://nces.ed.gov/</url>
-    </agency>
-    <agency id="NCD">
-      <name>National Council on Disability</name>
-      <url>http://www.ncd.gov</url>
-    </agency>
-    <agency id="NCUA">
-      <name>National Credit Union Administration</name>
-      <url>http://www.ncua.gov</url>
-    </agency>
-    <agency id="NEA">
-      <name>National Endowment for the Arts</name>
-      <url>http://www.nea.gov</url>
-    </agency>
-    <agency id="NEH">
-      <name>National Endowment for the Humanities</name>
-      <url>http://www.neh.gov</url>
-    </agency>
-    <agency id="NGA">
-      <name>National Geospatial-Intelligence Agency</name>
-      <url>http://www.nga.mil/</url>
-    </agency>
-    <agency id="NGB">
-      <name>National Guard Bureau</name>
-      <url>http://www.nationalguard.mil/</url>
-    </agency>
-    <agency id="NHTSA">
-      <name>National Highway Traffic Safety Administration</name>
-      <url>http://www.nhtsa.gov/</url>
-    </agency>
-    <agency id="CSREES">
-      <name>National Institute of Food and Agriculture</name>
-      <url>http://www.csrees.usda.gov/</url>
-    </agency>
-    <agency id="NIST">
-      <name>National Institute of Standards and Technology</name>
-      <url>http://www.nist.gov</url>
-    </agency>
-    <agency id="NIH">
-      <name>National Institutes of Health</name>
-      <url>http://www.nih.gov/</url>
-    </agency>
-    <agency id="NLRB">
-      <name>National Labor Relations Board</name>
-      <url>http://www.nlrb.gov</url>
-    </agency>
-    <agency id="NMB">
-      <name>National Mediation Board</name>
-      <url>http://www.nmb.gov</url>
-    </agency>
-    <agency id="NNSA">
-      <name>National Nuclear Security Administration</name>
-      <url>http://nnsa.energy.gov/</url>
-    </agency>
-    <agency id="NOAA">
-      <name>National Oceanic and Atmospheric Administration</name>
-      <url>http://www.noaa.gov/</url>
-    </agency>
-    <agency id="NPS">
-      <name>National Park Service</name>
-      <url>http://www.nps.gov</url>
-    </agency>
-    <agency id="NRO">
-      <name>National Reconnaissance Office</name>
-      <url>http://www.nro.gov/</url>
-    </agency>
-    <agency id="NSF">
-      <name>National Science Foundation</name>
-      <url>http://www.nsf.gov</url>
-    </agency>
-    <agency id="NSA">
-      <name>National Security Agency</name>
-      <url>http://www.nsa.gov/</url>
-    </agency>
-    <agency id="NTIA">
-      <name>National Telecommunications and Information Administration</name>
-      <url>http://www.ntia.doc.gov/</url>
-    </agency>
-    <agency id="NTSB">
-      <name>National Transportation Safety Board</name>
-      <url>http://www.ntsb.gov</url>
-    </agency>
-    <agency id="NRCS">
-      <name>Natural Resources Conservation Service</name>
-      <url>http://www.nrcs.usda.gov</url>
-    </agency>
-    <agency id="NCIS">
-      <name>Naval Criminal Investigative Service</name>
-      <url>http://www.ncis.navy.mil</url>
-    </agency>
-    <agency id="NRC">
-      <name>Nuclear Regulatory Commission</name>
-      <url>http://www.nrc.gov</url>
-    </agency>
-    <agency id="OSHA">
-      <name>Occupational Safety and Health Administration</name>
-      <url>http://www.osha.gov/</url>
-    </agency>
-    <agency id="OSHRC">
-      <name>Occupational Safety and Health Review Commission</name>
-      <url>http://www.oshrc.gov</url>
-    </agency>
-    <agency id="OCR">
-      <name>Office for Civil Rights</name>
-      <url>http://www.ed.gov/ocr</url>
-    </agency>
-    <agency id="OOC">
-      <name>Office of Compliance</name>
-      <url>http://www.compliance.gov</url>
-    </agency>
-    <agency id="OEA">
-      <name>Office of Economic Adjustment</name>
-      <url>http://www.oea.gov/</url>
-    </agency>
-    <agency id="EOSE">
-      <name>Office of Elementary and Secondary Education</name>
-      <url>http://www.ed.gov/oese</url>
-    </agency>
-    <agency id="OFS">
-      <name>Office of Financial Stability</name>
-      <url>http://www.financialstability.gov</url>
-    </agency>
-    <agency id="USOGE">
-      <name>Office of Government Ethics</name>
-      <url>http://www.usoge.gov</url>
-    </agency>
-    <agency id="OIA">
-      <name>Office of Insular Affairs</name>
-      <url>http://www.doi.gov/oia/</url>
-    </agency>
-    <agency id="OPM">
-      <name>Office of Personnel Management</name>
-      <url>http://www.opm.gov</url>
-    </agency>
-    <agency id="OPE">
-      <name>Office of Postsecondary Education</name>
-      <url>http://www.ed.gov/ope</url>
-    </agency>
-    <agency id="OSC">
-      <name>Office of Special Counsel</name>
-      <url>http://www.osc.gov</url>
-    </agency>
-    <agency id="OSERS">
-      <name>Office of Special Education and Rehabilitative Services</name>
-      <url>http://www.ed.gov/osers</url>
-    </agency>
-    <agency id="OSMRE">
-      <name>Office of Surface Mining</name>
-      <url>http://www.osmre.gov/</url>
-    </agency>
-    <agency id="OCC">
-      <name>Office of the Comptroller of the Currency</name>
-      <url>http://www.occ.treas.gov/</url>
-    </agency>
-    <agency id="DNI">
-      <name>Office of the Director of National Intelligence</name>
-      <url>http://www.dni.gov</url>
-    </agency>
-    <agency id="NCIX">
-      <name>Office of the National Counterintelligence Executive</name>
-      <url>http://www.ncix.gov</url>
-    </agency>
-    <agency id="OVAE">
-      <name>Office of Vocational and Adult Education</name>
-      <url>http://www.ed.gov/ovae</url>
-    </agency>
-    <agency id="OPIC">
-      <name>Overseas Private Investment Corporation</name>
-      <url>http://www.opic.gov</url>
-    </agency>
-    <agency id="ACP">
-      <name>Panama Canal Authority</name>
-      <url>http://www.pancanal.com</url>
-    </agency>
-    <agency id="PTO">
-      <name>Patent and Trademark Office</name>
-      <url>http://www.uspto.gov/</url>
-    </agency>
-    <agency id="PEACE">
-      <name>Peace Corps</name>
-      <url>http://www.peacecorps.gov</url>
-    </agency>
-    <agency id="PBGC">
-      <name>Pension Benefit Guaranty Corporation</name>
-      <url>http://www.pbgc.gov</url>
-    </agency>
-    <agency id="PFPA">
-      <name>Pentagon Force Protection Agency</name>
-      <url>http://www.pfpa.mil/</url>
-    </agency>
-    <agency id="PHMSA">
-      <name>Pipeline and Hazardous Materials Safety Administration</name>
-      <url>http://www.phmsa.dot.gov/</url>
-    </agency>
-    <agency id="PRC">
-      <name>Postal Regulatory Commission</name>
-      <url>http://www.prc.gov</url>
-    </agency>
-    <agency id="RRB">
-      <name>Railroad Retirement Board</name>
-      <url>http://www.rrb.gov</url>
-    </agency>
-    <agency id="RITA">
-      <name>Research and Innovative Technology Administration</name>
-      <url>http://www.rita.dot.gov/</url>
-    </agency>
-    <agency id="RMA">
-      <name>Risk Management Agency</name>
-      <url>http://www.rma.usda.gov/</url>
-    </agency>
-    <agency id="RURDEV">
-      <name>Rural Utilities Service</name>
-      <url>http://www.rurdev.usda.gov</url>
-    </agency>
-    <agency id="SEAWAY">
-      <name>Saint Lawrence Seaway Development Corporation</name>
-      <url>http://www.seaway.dot.gov/</url>
-    </agency>
-    <agency id="SEC">
-      <name>Securities and Exchange Commission</name>
-      <url>http://www.sec.gov</url>
-    </agency>
-    <agency id="SIPC">
-      <name>Securities Investor Protection Corporation</name>
-      <url>http://www.sipc.org/</url>
-    </agency>
-    <agency id="SSS">
-      <name>Selective Service System</name>
-      <url>http://www.sss.gov</url>
+    <agency id="NWS">
+      <name>National Wether Service</name>
+      <url>http://www.weather.gov</url>
+      <developer_url>http://graphical.weather.gov/xml/</developer_url>
     </agency>
     <agency id="SBA">
       <name>Small Business Administration</name>
       <url>http://www.sba.gov</url>
-    </agency>
+      <developer_url>http://www.sba.gov/api/</developer_url>
+    </agency>    
     <agency id="SSA">
       <name>Social Security Administration</name>
       <url>http://www.ssa.gov</url>
+      <developer_url>http://www.ssa.gov/edds</developer_url>
     </agency>
     <agency id="SAMHSA">
       <name>Substance Abuse and Mental Health Services Administration</name>
       <url>http://www.samhsa.gov/</url>
-    </agency>
-    <agency id="SCOTUS">
-      <name>Supreme Court</name>
-      <url>http://www.supremecourt.gov</url>
-    </agency>
-    <agency id="STB">
-      <name>Surface Transportation Board</name>
-      <url>http://www.stb.dot.gov</url>
-    </agency>
-    <agency id="TVA">
-      <name>Tennessee Valley Authority</name>
-      <url>http://www.tva.gov</url>
-    </agency>
-    <agency id="TSA">
-      <name>Transportation Security Administration</name>
-      <url>http://www.tsa.gov/</url>
-    </agency>
-    <agency id="TMA">
-      <name>TRICARE Management Activity</name>
-      <url>http://www.tricare.mil/tma/</url>
-    </agency>
-    <agency id="CAFC">
-      <name>U.S. Court of Appeals</name>
-      <url>http://www.cafc.uscourts.gov</url>
-    </agency>
-    <agency id="ARMFOR">
-      <name>U.S. Court of Appeals for the Armed Forces</name>
-      <url>http://www.armfor.uscourts.gov</url>
-    </agency>
-    <agency id="CAVC">
-      <name>U.S. Court of Appeals for Veterans Claims</name>
-      <url>http://www.uscourts.cavc.gov</url>
-    </agency>
-    <agency id="USCFC">
-      <name>U.S. Court of Federal Claims</name>
-      <url>http://www.uscfc.uscourts.gov</url>
-    </agency>
-    <agency id="USCIT">
-      <name>U.S. Court of International Trade</name>
-      <url>http://www.cit.uscourts.gov</url>
-    </agency>
-    <agency id="EIA">
-      <name>U.S. Energy Information Administration</name>
-      <url>http://www.eia.gov</url>
-    </agency>
-    <agency id="SENATE">
-      <name>U.S. Senate</name>
-      <url>http://www.senate.gov</url>
-    </agency>
-    <agency id="USSC">
-      <name>U.S. Sentencing Commission</name>
-      <url>http://www.ussc.gov</url>
-    </agency>
-    <agency id="TAX">
-      <name>U.S. Tax Court</name>
-      <url>http://www.ustaxcourt.gov</url>
-    </agency>
-    <agency id="USTDA">
-      <name>U.S. Trade and Development Agency</name>
-      <url>http://www.ustda.gov</url>
-    </agency>
-    <agency id="USAID">
-      <name>United States Agency for International Development</name>
-      <url>http://www.usaid.gov</url>
-    </agency>
-    <agency id="USBG">
-      <name>United States Botanic Garden</name>
-      <url>http://www.usbg.gov</url>
-    </agency>
-    <agency id="USCIS">
-      <name>United States Citizenship and Immigration Services</name>
-      <url>http://www.uscis.gov/portal/site/uscis</url>
-    </agency>
-    <agency id="USCG">
-      <name>United States Coast Guard </name>
-      <url>http://www.uscg.mil/</url>
-    </agency>
-    <agency id="CBP">
-      <name>United States Customs and Border Protection</name>
-      <url>http://www.cbp.gov/</url>
+      <developer_url>http://store.samhsa.gov/developer</developer_url>
     </agency>
     <agency id="USGS">
       <name>United States Geological Survey</name>
       <url>http://www.usgs.gov/</url>
+      <developer_url>http://data.usgs.gov/</developer_url>
     </agency>
-    <agency id="ICE">
-      <name>United States Immigration and Customs Enforcement</name>
-      <url>http://www.ice.gov/</url>
+    <agency id="EOP">
+      <name>Executive Office of the President</name>
+      <url>http://www.whitehouse.gov</url>
+      <developer_url>http://www.whitehouse.gov/developers</developer_url>
     </agency>
-    <agency id="USITC">
-      <name>United States International Trade Commission</name>
-      <url>http://www.usitc.gov</url>
+    <agency id="">
+      <name>BusinessUSA</name>
+      <url>http://business.usa.gov/</url>
+      <developer_url>http://business.usa.gov/apis</developer_url>
     </agency>
-    <agency id="MARSHAL">
-      <name>United States Marshals</name>
-      <url>http://www.usmarshals.gov/</url>
+    <agency id="">
+      <name>Commerce - Automated Export System</name>
+      <url>http://www.aesdirect.gov/</url>
+      <developer_url>http://www.aesdirect.gov/developers</developer_url>
+    </agency>    
+    <agency id="">
+      <name>DATA.gov</name>
+      <url>http://www.data.gov/</url>
+      <developer_url>http://www.data.gov/developers</developer_url>
     </agency>
-    <agency id="MINT">
-      <name>United States Mint</name>
-      <url>http://www.usmint.gov/</url>
+    <agency id="">
+      <name>DEA - E-Commerce Program</name>
+      <url>http://www.deaecom.gov</url>
+      <developer_url>http://www.deaecom.gov/developer.html</developer_url>
     </agency>
-    <agency id="USPS">
-      <name>United States Postal Service</name>
-      <url>http://www.usps.com</url>
+    <agency id="">
+      <name>FOIA.gov</name>
+      <url>http://www.foia.gov/</url>
+      <developer_url>http://www.foia.gov/developer.html</developer_url>
     </agency>
-    <agency id="USSS">
-      <name>United States Secret Service</name>
-      <url>http://www.secretservice.gov/</url>
+    <agency id="">
+      <name>Healthdata.gov</name>
+      <url>http://www.healthdata.gov/</url>
+      <developer_url>http://www.healthdata.gov/developer</developer_url>
     </agency>
-    <agency id="VBA">
-      <name>Veterans Benefits Administration</name>
-      <url>http://www.vba.va.gov/</url>
+    <agency id="">
+      <name>Healthfinder.gov</name>
+      <url>http://www.healthfinder.gov/</url>
+      <developer_url>http://healthfinder.gov/developers/</developer_url>
+    </agency>   
+    <agency id="">
+      <name>HHS - Health Indicator Warehouse</name>
+      <url>http://www.healthindicators.gov/</url>
+      <developer_url>http://healthindicators.gov/Developers/</developer_url>
+    </agency>    
+    <agency id="">
+      <name>HHS - Medicare</name>
+      <url>http://www.medicare.gov/</url>
+      <developer_url>http://data.medicare.gov/</developer_url>
     </agency>
-    <agency id="VHA">
-      <name>Veterans Health Administration</name>
-      <url>http://www.va.gov/health</url>
-    </agency>
-    <agency id="VETS">
-      <name>Veterans' Employment and Training Service</name>
-      <url>http://www.dol.gov/vets/</url>
-    </agency>
-    <agency id="WHD">
-      <name>Wage and Hour Division</name>
-      <url>http://www.dol.gov/whd/</url>
-    </agency>
-    <agency id="WHS">
-      <name>Washington Headquarters Services</name>
-      <url>http://www.whs.mil/</url>
-    </agency>
-    <agency id="WB">
-      <name>Women's Bureau</name>
-      <url>http://www.dol.gov/wb/</url>
+    <agency id="">
+      <name>ITDashboard.gov</name>
+      <url>http://www.itdashboard.gov/</url>
+      <developer_url>http://www.itdashboard.gov/data_feeds</developer_url>
+    </agency>    
+    <agency id="">
+      <name>National Broadband Map</name>
+      <url>http://www.broadbandmap.gov/</url>
+      <developer_url>http://www.broadbandmap.gov/developer/</developer_url>
+    </agency>    
+    <agency id="">
+      <name>National Information Exchange Model</name>
+      <url>http://www.niem.gov/</url>
+      <developer_url>https://www.niem.gov/developers</developer_url>
+    </agency>    
+    <agency id="">
+      <name>National Resource Directory</name>
+      <url>http://www.nrd.gov/</url>
+      <developer_url>https://www.nrd.gov/home/api</developer_url>
+    </agency>    
+    <agency id="">
+      <name>Performance.gov</name>
+      <url>http://www.performance.gov/</url>
+      <developer_url>http://permits.performance.gov/developers-api</developer_url>
+    </agency>    
+    <agency id="">
+      <name>USA.gov</name>
+      <url>http://www.usa.gov/</url>
+      <developer_url>http://www.usa.gov/developer</developer_url>
+    </agency>    
+    <agency id="">
+      <name>USASpending.gov</name>
+      <url>http://www.usaspending.gov/</url>
+      <developer_url>http://www.usaspending.gov/data?tab=API</developer_url>
+    </agency>    
+    <agency id="">
+      <name>U.S. Courts - PACER</name>
+      <url>http://www.pacer.gov/</url>
+      <developer_url>http://www.pacer.gov/cmecf/developer/</developer_url>
     </agency>
   </agencies>
 </agencies>
