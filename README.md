@@ -1,4 +1,4 @@
-A running list of API hubs for U.S. Federal agencies and initiatives.  Suggest more <a href="https://github.com/gbinal/slash-developer-pages/issues">in the issues section</a>.  
+A running list of API hubs for U.S. Federal agencies and initiatives.  Suggest more <a href="https://github.com/gsa/slash-developer-pages/issues">in the issues section</a>.  
 
 More and more .gov developer hubs are also linking to each other in the fashion of the <a href="http://www.fcc.gov/developer">FCC</a>, <a href="http://developer.dol.gov">Dept. of Labor</a>, and <a href="http://www.epa.gov/developer">EPA</a>.  HTML for this purpose can be found <a href="https://github.com/gbinal/slash-developer-pages/blob/master/slash-developer-pages.html">here</a>, with <a href="https://github.com/GSA/slash-developer-pages/blob/master/slash-developer-pages.xml">xml here</a> and json coming soon.  
 
