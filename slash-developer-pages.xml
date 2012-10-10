@@ -74,6 +74,11 @@ consum<?xml version="1.0"?>
       <url>http://www.stlouisfed.org</url>
       <developer_url>http://api.stlouisfed.org/</developer_url>
     </agency>    
+    <agency id="GSA">
+      <name>General Services Administration</name>
+      <url>http://www.gsa.gov</url>
+      <developer_url>http://www.gsa.gov/developer</developer_url>
+    </agency>
     <agency id="NASA">
       <name>National Aeronautics and Space Administration</name>
       <url>http://www.nasa.gov</url>
