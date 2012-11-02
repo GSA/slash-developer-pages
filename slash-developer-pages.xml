@@ -1,8 +1,4 @@
 consum<?xml version="1.0"?>
-<agencies>
-  <generator_version>1.1</generator_version>
-  <generated>2012-09-24 17:36:18</generated>
-  <api_version>1.0.1</api_version>
   <agencies>
     <agency id="ED">
       <name>Department of Education</name>
@@ -220,4 +216,3 @@ consum<?xml version="1.0"?>
       <developer_url>http://www.pacer.gov/cmecf/developer/</developer_url>
     </agency>
   </agencies>
-</agencies>
