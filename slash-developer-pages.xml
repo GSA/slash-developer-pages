@@ -156,6 +156,11 @@ consum<?xml version="1.0"?>
       <developer_url>http://www.deaecom.gov/developer.html</developer_url>
     </agency>
     <agency id="">
+      <name>EnergyStar.gov</name>
+      <url>http://www.energystar.gov</url>
+      <developer_url>https://data.energystar.gov/developers</developer_url>
+    </agency>
+    <agency id="">
       <name>FOIA.gov</name>
       <url>http://www.foia.gov/</url>
       <developer_url>http://www.foia.gov/developer.html</developer_url>
