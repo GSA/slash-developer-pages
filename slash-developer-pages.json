@@ -102,6 +102,11 @@
          "developer_url": "http:\/\/www.archives.gov\/developers\/"
        },
        {
+         "name": "National Climate Data Center",
+         "url": "http:\/\/www.ncdc.noaa.gov",
+         "developer_url": "http:\/\/www.ncdc.noaa.gov\/cdo-web\/"
+       },
+       {
          "name": "National Institute on Drug Abuse",
          "url": "http:\/\/www.drugabuse.gov",
          "developer_url": "http:\/\/www.drugabuse.gov\/developer"
