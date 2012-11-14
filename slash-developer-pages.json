@@ -180,6 +180,11 @@
          "developer_url": "http:\/\/www.deaecom.gov\/developer.html"
        },
        {
+         "name": "EnergyStar.gov",
+         "url": "http:\/\/www.energystar.gov",
+         "developer_url": "https:\/\/data.energystar.gov\/developers"
+       },
+       {
          "name": "FOIA.gov",
          "url": "http:\/\/www.foia.gov\/",
          "developer_url": "http:\/\/www.foia.gov\/developer.html"
