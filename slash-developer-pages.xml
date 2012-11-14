@@ -86,6 +86,11 @@ consum<?xml version="1.0"?>
       <developer_url>http://www.archives.gov/developers/</developer_url>
     </agency>    
     <agency id="">
+      <name>National Climate Data Center</name>
+      <url>http://www.ncdc.noaa.gov/</url>
+      <developer_url>http://www.ncdc.noaa.gov/cdo-web/</developer_url>
+    </agency>   
+    <agency id="">
       <name>National Institute on Drug Abuse</name>
       <url>http://www.drugabuse.gov</url>
       <developer_url>http://www.drugabuse.gov/developer</developer_url>
