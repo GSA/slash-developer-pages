@@ -3,7 +3,7 @@ consum<?xml version="1.0"?>
     <agency id="ED">
       <name>Department of Education</name>
       <url>http://www.ed.gov</url>
-      <developer_url>http://data.ed.gov/developers</developer_url>
+      <developer_url>http://www.ed.gov/developers</developer_url>
     </agency>
     <agency id="DOE">
       <name>Department of Energy</name>
@@ -74,6 +74,11 @@ consum<?xml version="1.0"?>
       <name>General Services Administration</name>
       <url>http://www.gsa.gov</url>
       <developer_url>http://www.gsa.gov/developer</developer_url>
+    </agency>
+    <agency id="MCC">
+      <name>Millenium Challenge Corporation</name>
+      <url>http://www.mcc.gov</url>
+      <developer_url>http://data.mcc.gov/developer/</developer_url>
     </agency>
     <agency id="NASA">
       <name>National Aeronautics and Space Administration</name>
