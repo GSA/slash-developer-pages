@@ -47,7 +47,7 @@ More and more .gov developer hubs are also linking to each other in the fashion 
 <li><a href="https://www.niem.gov/developers">National Information Exchange Model</a></li>
 <li><a href="https://www.nrd.gov/home/api">National Resource Directory</a></li>
 <li><a href="http://permits.performance.gov/developers-api">Performance.gov</a></li>
-<li><a href="http://http://www.sbir.gov/apis">Small Business Innovation Research</a></li>
+<li><a href="http://www.sbir.gov/apis">Small Business Innovation Research</a></li>
 <li><a href="http://www.usa.gov/developer">USA.gov</a></li>
 <li><a href="http://www.usaspending.gov/data?tab=API">USASpending.gov</a></li>
 <li><a href="http://www.pacer.gov/cmecf/developer/">U.S. Courts - PACER</a></li>  
