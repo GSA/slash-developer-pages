@@ -3,35 +3,35 @@ _(Under construction)_
 
 
 
-www.fws.gov/data/
-www.dhs.gov/data
-https://openpv.nrel.gov/data
-http://www.ahrq.gov/data/
-http://www.chbr.noaa.gov/data/
-http://www.arc.gov/data
-http://www.samhsa.gov/data/
-http://www.opm.gov/data/
-http://water.usgs.gov/data/
-http://nhd.usgs.gov/data.html
-http://www.bls.gov/data/
-http://studentaid.ed.gov/data-center
-http://earthdata.nasa.gov/data
-http://gapanalysis.usgs.gov/data/
-http://www.fcc.gov/data
-http://optn.transplant.hrsa.gov/data/
-http://www.hrsa.gov/data-statistics/index.html
-http://www.coral.noaa.gov/data.html
-http://aviris.jpl.nasa.gov/data/
-http://airs.jpl.nasa.gov/data/skewT_tool/
-http://ledaps.nascom.nasa.gov/data/
-http://www.osti.gov/data/
-http://www.jem.gov/Data
-http://www.fec.gov/data/
-http://www.foia.gov/data.html
-http://www.manufacturing.gov/data.html
-http://geomag.usgs.gov/data/
-http://www.ioos.gov/data
-http://open.commerce.gov/data-sets
-http://ndar.nih.gov/data_from_labs.html
-http://www.arm.gov/data
-http://data.mcc.gov/
+* www.fws.gov/data/
+* www.dhs.gov/data
+* https://openpv.nrel.gov/data
+* http://www.ahrq.gov/data/
+* http://www.chbr.noaa.gov/data/
+* http://www.arc.gov/data
+* http://www.samhsa.gov/data/
+* http://www.opm.gov/data/
+* http://water.usgs.gov/data/
+* http://nhd.usgs.gov/data.html
+* http://www.bls.gov/data/
+* http://studentaid.ed.gov/data-center
+* http://earthdata.nasa.gov/data
+* http://gapanalysis.usgs.gov/data/
+* http://www.fcc.gov/data
+* http://optn.transplant.hrsa.gov/data/
+* http://www.hrsa.gov/data-statistics/index.html
+* http://www.coral.noaa.gov/data.html
+* http://aviris.jpl.nasa.gov/data/
+* http://airs.jpl.nasa.gov/data/skewT_tool/
+* http://ledaps.nascom.nasa.gov/data/
+* http://www.osti.gov/data/
+* http://www.jem.gov/Data
+* http://www.fec.gov/data/
+* http://www.foia.gov/data.html
+* http://www.manufacturing.gov/data.html
+* http://geomag.usgs.gov/data/
+* http://www.ioos.gov/data
+* http://open.commerce.gov/data-sets
+* http://ndar.nih.gov/data_from_labs.html
+* http://www.arm.gov/data
+* http://data.mcc.gov/
