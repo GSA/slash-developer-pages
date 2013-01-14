@@ -92,6 +92,8 @@ http://www.nps.gov/npmap/support/api.html
 # Department of Veterans Affairs
 
 
-# Independent Agencies and Government Corporations
+# Other Agencies and Government Corporations
 
 
+## Social Security Administration
+* (Consent Based Social Security Number Verification Service)[http://www.ssa.gov/cbsv/webservice.html]
