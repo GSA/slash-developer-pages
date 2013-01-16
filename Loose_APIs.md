@@ -16,7 +16,7 @@ Under construction
 # Department of Agriculture
 
 ## Animal and Plant Health Inspection Service
-* (Animal Identification Management System)[https://nais.aphis.usda.gov/ainmngt/HelpGetAnonymous.do]
+* [Animal Identification Management System](https://nais.aphis.usda.gov/ainmngt/HelpGetAnonymous.do)
 
 
 
@@ -71,8 +71,7 @@ United States Geological Survey
 
 
 ## National Park Service
-* ()[]
-http://www.nps.gov/npmap/support/api.html
+* [NPMap API](http://www.nps.gov/npmap/support/api.html)
 
 # Department of Justice
 
@@ -95,5 +94,9 @@ http://www.nps.gov/npmap/support/api.html
 # Other Agencies and Government Corporations
 
 
+## Consumer Product Safety Commission
+* [SaferProducts.gov API](http://www.saferproducts.gov/faq-developers.aspx)
+
+
 ## Social Security Administration
-* (Consent Based Social Security Number Verification Service)[http://www.ssa.gov/cbsv/webservice.html]
+* [Consent Based Social Security Number Verification Service](http://www.ssa.gov/cbsv/webservice.html)
