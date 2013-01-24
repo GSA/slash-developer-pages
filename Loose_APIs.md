@@ -10,8 +10,6 @@ Under construction
 * [Policy Snapshots JSON Feed](http://www.whitehouse.gov/developers/policy-snapshots-json-feed)
 
 ## Office of Management and Budget
-* ()[]
-* ()[]
 
 # Department of Agriculture
 
@@ -39,11 +37,10 @@ Under construction
 ## National Oceanic and Atmospheric Administration
 * []()
 
-Patent and Trademark Office
+## Patent and Trademark Office
 * []()
 
-United States Geological Survey
-
+## United States Geological Survey
 
 * http://earthquake.usgs.gov/hazards/apps/vs30/documentation.php
 * [Water Services](http://waterservices.usgs.gov/)
@@ -69,7 +66,6 @@ United States Geological Survey
 
 
 # Department of Housing and Urban Development
-
 
 * [IMAX system](http://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/mfh/trx/trxdocs)
 
