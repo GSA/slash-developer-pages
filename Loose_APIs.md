@@ -48,9 +48,10 @@ United States Geological Survey
 # Department of Defense
 
 
-* []()
-* []()
-* []()
+* [IUID Registry API](http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html)
+* [Proteus API](http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html)
+* [ADL 3d repository](http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html)
+
 
 # Department of Education
 
