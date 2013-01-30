@@ -1,6 +1,5 @@
 {
-   "agencies": {
-     "agency": [
+   "agencies": [
        {
          "id": "ED",
          "name": "Department of Education",
@@ -262,4 +261,3 @@
        }
      ]
    }
- }
