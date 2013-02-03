@@ -1,5 +1,4 @@
-Under construction
-==============
+[Suggest more...](https://github.com/GSA/slash-developer-pages/issues)
 -------------------------
 
 
