@@ -1,8 +1,6 @@
 [Suggest more...](https://github.com/GSA/slash-developer-pages/issues)
 -------------------------
 
-
-
 # Executive Office of the President
 
 ## White House
@@ -22,7 +20,14 @@
 * [Food consumption data (inactive?)](http://www.programmableweb.com/api/ersusda-per-capita-food-availability-data)
 * [Content API](http://ers.usda.gov/developer/website-content-api.aspx)
 
+## Farm Service Agency
+* [National Agriculture Imagery Program Status Web Service](http://www.fsa.usda.gov/Internet/FSA_File/usage_guide_naipstatus_final.pdf)
+
+## National Agricultural Statistics Service
+* [Cropland Data Layer](http://www.nass.usda.gov/research/Cropland/sarsfaqs2.html#_Cropscape1.2)
+
 ## National Resources Conservation Service
+* [National Water and Climate Center AWDB database](http://www.wcc.nrcs.usda.gov/web_service/AWDB_Web_Service_Tutorial.htm)
 * [Soil Data Mart](http://sdmdataaccess.nrcs.usda.gov/)
 
 ## US Forest Service
@@ -92,6 +97,10 @@
 ## Food and Drug Administration
 * [Tobacco Content API](http://tools.fda.gov/CSStorefront/register/api.aspx)
 
+## Health Resources and Services Administration
+* [Data Warehouse Data Web Service](http://datawarehouse.hrsa.gov/webServices_NEW.aspx)
+* [Data Warehouse Online Map Service](http://datawarehouse.hrsa.gov/HGDWFeatureService.aspx)
+
 ## National Insitutes of Health
 
 ### National Cancer Insitute
@@ -99,6 +108,7 @@
 
 ### National Institute of Allergy and Infectious Diseases
 * [Content API](http://tools.niaid.nih.gov/register/api.aspx)
+* [DAVID API](http://david.abcc.ncifcrf.gov/content.jsp?file=WS.html)
 
 ### National Institute on Drug Abuse
 * [Drug Use Screening Tool API](http://www.drugabuse.gov/developer)
@@ -172,6 +182,8 @@
 # Department of the Treasury
 
 # Department of Veterans Affairs
+* [VetSuccess API](http://www.vetsuccess.gov/assets/VetSuccess-Web_Service_Integration_Manual.pdf)
+
 
 --------------------------
 
@@ -234,12 +246,15 @@
 
 ## US Postal Service
 * [eCommerce APIs](https://www.usps.com/business/webtools.htm)
+* [Several](https://ribbs.usps.gov/intelligentmail_guides/documents/tech_guides/xmlspec/wsdls/wsdls.htm)
 
 --------------------------
 
 # Other Programs
 
 * [Integrated Taxonomic Information System](http://www.itis.gov/ws_description.html)
+* [Federal Financial Institutions Examination Council - Central Data Repository](https://cdr.ffiec.gov/public/PWS/Default.aspx)
 * [Federal Financial Institutions Examination Council - Appraisal Subcommittee](https://www.asc.gov/wsvc/ASCQuerySvc.asmx)
+* [Federal Geographic Data Committee - Service Status Checker](http://registry.fgdc.gov/statuschecker/developers.php)
 * [National Resource Directory](https://www.nrd.gov/home/api)
 
