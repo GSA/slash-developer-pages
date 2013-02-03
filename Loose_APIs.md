@@ -24,6 +24,7 @@ Under construction
 * [Content API](http://ers.usda.gov/developer/website-content-api.aspx)
 
 ## US Forest Service
+* [Recreation Information Database](https://ridb.recreation.gov/RIDBWeb/Controller.jpf)
 
 # Department of Commerce
 
