@@ -1,6 +1,12 @@
 {
    "agencies": [
        {
+         "id": "USDA",
+         "name": "Department of Agriculture",
+         "url": "http:\/\/www.usda.gov",
+         "developer_url": "http:\/\/www.usda.gov\/developers"
+       },
+       {
          "id": "ED",
          "name": "Department of Education",
          "url": "http:\/\/www.ed.gov",
@@ -86,7 +92,7 @@
          "id": "GSA",
          "name": "General Services Administration",
          "url": "http:\/\/www.gsa.gov",
-         "developer_url": "http:\/\/www.gsa.gov\/developer"
+         "developer_url": "http:\/\/www.gsa.gov\/developers"
        },
        {
          "id": "GSA",
@@ -215,6 +221,11 @@
          "developer_url": "http:\/\/data.medicare.gov\/"
        },
        {
+         "name": "Integrated Taxonomic Information System",
+         "url": "http:\/\/www.itis.gov\/",
+         "developer_url": "http:\/\/www.itis.gov\/ws_description.html"
+       },
+       {
          "name": "ITDashboard.gov",
          "url": "http:\/\/www.itdashboard.gov\/",
          "developer_url": "http:\/\/www.itdashboard.gov\/data_feeds"
@@ -235,7 +246,7 @@
          "developer_url": "https:\/\/www.nrd.gov\/home\/api"
        },
        {
-         "name": "Performance.gov",
+         "name": "Performance.gov Permits",
          "url": "http:\/\/www.performance.gov\/",
          "developer_url": "http:\/\/permits.performance.gov\/developers-api"
        },
