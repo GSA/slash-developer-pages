@@ -10,6 +10,9 @@ Under construction
 * [Policy Snapshots JSON Feed](http://www.whitehouse.gov/developers/policy-snapshots-json-feed)
 
 ## Office of Management and Budget
+* [ITDashboard.gov](http://www.itdashboard.gov/data_feeds)
+* [Performance.gov Permits API](http://permits.performance.gov/developers-api)
+* [USASpending.gov APIs](http://www.usaspending.gov/data?tab=API)
 
 # Department of Agriculture
 
@@ -25,7 +28,6 @@ Under construction
 # Department of Commerce
 
 ## Census Bureau
-
 * [Census Bureau APIs](http://www.census.gov/developers/)
 * [Automated Export System](http://www.aesdirect.gov/developers)
 
@@ -35,6 +37,8 @@ Under construction
 
 ## National Oceanic and Atmospheric Administration
 * [Meteorological Assimilation Data Ingest System](http://madis.noaa.gov/madis_api.html)
+* [National Climate Data Center](http://www.ncdc.noaa.gov/cdo-web/)
+* [National Weather Service](http://graphical.weather.gov/xml/)
 * (more)
 
 ## Patent and Trademark Office
@@ -51,11 +55,14 @@ Under construction
 * [Proteus API](http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html)
 * [ADL 3d repository](http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html)
 
-
 # Department of Education
-
+* [Several](http://www.ed.gov/developers)
 
 # Department of Energy
+* [Several](http://www.energy.gov/developers)
+
+## Energy Information Administration
+* [Several](http://www.eia.gov/developer/)
 
 ## National Renewable Energy Laboratory
 * [Several](developer.nrel.gov)
@@ -69,8 +76,8 @@ Under construction
 ## Office of Scientific and Technical Information
 * [Green Energy Data](http://www.osti.gov/GreenEnergyXMLManual.pdf)
 
-
 # Department of Health and Human Services
+* [Centers for Medicare & Medicaid Services](http://data.cms.gov/)
 
 ## Centers for Disease Control
 * [Wonder Data](http://wonder.cdc.gov/wonder/help/WONDER-API.html)
@@ -89,7 +96,11 @@ Under construction
 ### National Institute of Allergy and Infectious Diseases
 * [Content API](http://tools.niaid.nih.gov/register/api.aspx)
 
+### National Institute on Drug Abuse
+* [Drug Use Screening Tool API](http://www.drugabuse.gov/developer)
+
 ### National Library of Medicine
+* [Several](http://www.nlm.nih.gov/api/)
 * [ND-RFT API](http://rxnav.nlm.nih.gov/NdfrtAPI.html)
 
 ## Substance Abuse and Mental Health Services Administration
@@ -130,7 +141,6 @@ Under construction
 
 # Department of State
 
-
 # Department of Transportation
 
 ## Federal Aviation Administration
@@ -151,22 +161,32 @@ Under construction
 
 # Other Agencies and Government Corporations
 
+## Consumer Financial Protection Bureau
+* [Consumer Complaint Database](http://www.consumerfinance.gov/complaintdatabase/)
+
 ## Consumer Product Safety Commission
+* [Several](http://www.epa.gov/developer/)
 * [Recalls API](http://www.cpsc.gov/cpscpub/prerel/api.html)
 * [SaferProducts.gov API](http://www.saferproducts.gov/faq-developers.aspx)
 
 ## Enviromental Protection Agency
+* [EnergyStar APIs](https://data.energystar.gov/developers)
 * [EnergyStar ABS](http://www.energystar.gov/index.cfm?c=spp_res.pt_host_preview_doc)
 * [EnergyStar 3rd-Party Certification](http://www.energystar.gov/index.cfm?c=third_party_certification.tpc_xml_forms)
 
 ## Federal Communications Commission
 * [Several](http://www.fcc.gov/developer)
+* [National Broadband Map APIs](http://www.broadbandmap.gov/developer/)
+
+## Federal Reserve
+* Federal Register API - [FRED](http://www.federalregister.gov/blog/learn/developers)
 
 ## Federal Reserve
 * Federal Reserve Bank of St. Louis - [FRED](http://research.stlouisfed.org/fred2), ALFRED
 
 ## General Services Administration
 * [Several](http://www.usa.gov/developer)
+* [BusinessUSA](http://business.usa.gov/apis)
 * [FedBizOpps Documentation](https://www.fbo.gov/?s=generalinfo&mode=list&tab=list&tabmode=list&static=documentation)
 * [Federal Procurement Data System - FPDS API](https://www.fpds.gov/downloads/FPDS-Specifications-WebServices_Integration_Specifications_V1.4.doc)
 * [Federal Procurement Data System - FAADS API](https://www.fpds.gov/downloads/FAADS/FAADS-Specifications-WebServices_Integration_Specifications_V2.doc)
@@ -174,29 +194,27 @@ Under construction
 * [Jobscenter](http://jobcenter.usa.gov/apis)
 * [USA.gov Featured Content](http://answers.usa.gov/system/egss_json.jsp?jsoncallback=)
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## International Trade Commission 
 * [ITC Documents](https://edis.usitc.gov/edis3-external/app)
 
+## Millenium Challenge Corporation
+* [MCC API](http://data.mcc.gov/developer/)
+
 ## National Aeronautics and Space Administration
-* Several
+* [Several](http://data.nasa.gov/api-info/)
+
+## Small Business Administration
+* [Several](http://www.sba.gov/api/)
+* [Small Business Innovation Research](http://www.sbir.gov/about/api)
 
 ## Social Security Administration
 * [Consent Based Social Security Number Verification Service](http://www.ssa.gov/cbsv/webservice.html)
 
-US Postal Service
-[eCommerce APIs](https://www.usps.com/business/webtools.htm)
+## US Courts
+* [PACER API](http://www.pacer.gov/cmecf/developer/)
+
+## US Postal Service
+* [eCommerce APIs](https://www.usps.com/business/webtools.htm)
 
 --------------------------
 
@@ -204,4 +222,5 @@ US Postal Service
 
 * [Integrated Taxonomic Information System(http://www.itis.gov/ws_description.html)
 * [Federal Financial Institutions Examination Council - Appraisal Subcommittee](https://www.asc.gov/wsvc/ASCQuerySvc.asmx)
+* [National Resource Directory](https://www.nrd.gov/home/api)
 
