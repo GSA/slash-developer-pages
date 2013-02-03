@@ -44,11 +44,6 @@ Under construction
 ## Patent and Trademark Office
 * [Trademark Status & Document Retrieval](http://tsdr.uspto.gov/)
 
-## United States Geological Survey
-
-* http://earthquake.usgs.gov/hazards/apps/vs30/documentation.php
-* [Water Services](http://waterservices.usgs.gov/)
-
 # Department of Defense
 
 * [IUID Registry API](http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html)
@@ -220,7 +215,7 @@ Under construction
 
 # Other Programs
 
-* [Integrated Taxonomic Information System(http://www.itis.gov/ws_description.html)
+* [Integrated Taxonomic Information System](http://www.itis.gov/ws_description.html)
 * [Federal Financial Institutions Examination Council - Appraisal Subcommittee](https://www.asc.gov/wsvc/ASCQuerySvc.asmx)
 * [National Resource Directory](https://www.nrd.gov/home/api)
 
