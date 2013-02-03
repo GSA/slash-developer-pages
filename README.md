@@ -5,6 +5,7 @@ More and more .gov developer hubs are also linking to each other in the fashion 
 ==========================
 
 <ul>
+<li><a href="http://www.usda.gov/developers">Department of Agriculture</a></li>
 <li><a href="http://www.ed.gov/developers">Department of Education</a></li>
 <li><a href="http://www.energy.gov/developers">Department of Energy</a></li>
 <li><a href="http://developer.dol.gov/">Department of Labor</a></li>
@@ -19,7 +20,7 @@ More and more .gov developer hubs are also linking to each other in the fashion 
 <li><a href="https://mobile.fmcsa.dot.gov/developer">Federal Motor Carrier Safety Administration</a></li>
 <li><a href="http://www.federalregister.gov/blog/learn/developers">Federal Register</a></li>
 <li><a href="http://api.stlouisfed.org/">Federal Reserve Bank of St. Louis</a></li>
-<li><a href="http://www.gsa.gov/developer/">General Services Administration</a></li>
+<li><a href="http://www.gsa.gov/developers/">General Services Administration</a></li>
 <li><a href="http://data.mcc.gov/developer/">Millenium Challenge Corporation</a></li>
 <li><a href="http://data.nasa.gov/api-info/">National Aeronautics &amp; Space Administration</a></li>
 <li><a href="http://www.archives.gov/developers/">National Archives &amp; Records Administration</a></li>
@@ -43,11 +44,12 @@ More and more .gov developer hubs are also linking to each other in the fashion 
 <li><a href="http://healthfinder.gov/developers/">HealthFinder.gov</a></li>
 <li><a href="http://healthindicators.gov/Developers/">HHS - Health Indicator Warehouse</a></li>
 <li><a href="http://data.medicare.gov/">HHS - Medicare</a></li>
+<li><a href="http://www.itis.gov/ws_description.html">Integrated Taxonomic Information System</a></li>
 <li><a href="http://www.itdashboard.gov/data_feeds">ITDashboard.gov</a></li>
 <li><a href="http://www.broadbandmap.gov/developer/">National Broadband Map</a></li>
 <li><a href="https://www.niem.gov/developers">National Information Exchange Model</a></li>
 <li><a href="https://www.nrd.gov/home/api">National Resource Directory</a></li>
-<li><a href="http://permits.performance.gov/developers-api">Performance.gov</a></li>
+<li><a href="http://permits.performance.gov/developers-api">Performance.gov Permits</a></li>
 <li><a href="http://www.sbir.gov/apis">Small Business Innovation Research</a></li>
 <li><a href="http://www.usa.gov/developer">USA.gov</a></li>
 <li><a href="http://www.usaspending.gov/data?tab=API">USASpending.gov</a></li>
