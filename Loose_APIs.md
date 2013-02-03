@@ -96,49 +96,112 @@ Under construction
 * [Several](http://store.samhsa.gov/developer)
 * [Information Tools](https://info.samhsa.gov/), [Documentation](http://info.samhsa.gov/api/docs)
 
-
-
 # Department of Homeland Security
+* [National Terrorism Advisory System](http://www.dhs.gov/ntas-api-documentation)
 
+## Federal Emergency Management Agency
+* [FEMA Enterprise GIS Services](http://gis.fema.gov/)
 
 # Department of Housing and Urban Development
-
 * [IMAX system](http://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/mfh/trx/trxdocs)
 
 # Department of the Interior
 
+## Bureau of Land Management
+* [Geocommunicator](http://www.blm.gov/nils/GeoComm/home_services.html)
+
+## National Park Service
+* [NPMap](http://www.nps.gov/npmap/support/api.html)
+
+## US Geological Survey
+* [Water Services](http://waterservices.usgs.gov/)
+* [...more](http://www.programmableweb.com/apis/directory/1?company=USGS)
 
 ## National Park Service
 * [NPMap API](http://www.nps.gov/npmap/support/api.html)
 
 # Department of Justice
 
+## Drug Enforcement Agency
+* [E-Commerce API](http://www.deaecom.gov/developer.html)
 
 # Department of Labor
-
+* [Several](http://developer.dol.gov)
 
 # Department of State
 
 
 # Department of Transportation
 
+## Federal Aviation Administration
+* [Airport Status](http://services.faa.gov/)
+
+## Federal Railroad Administration
+* [Rail Equipment Accident/Incident Report (Form 54) API](https://safetydata.fra.dot.gov/MasterWebService/FRASafetyDataAPIs.aspx)
+* [Highway-Rail Grade Crossing Accident/Incident Report (Form 57) API](https://safetydata.fra.dot.gov/MasterWebService/FRASafetyDataAPIs.aspx)
+
+## Federal Motor Carrier Safety Administration
+* [SaferBus](https://mobile.fmcsa.dot.gov/developer/home.page)
 
 # Department of the Treasury
 
-
-
 # Department of Veterans Affairs
 
+--------------------------
 
 # Other Agencies and Government Corporations
 
-
 ## Consumer Product Safety Commission
+* [Recalls API](http://www.cpsc.gov/cpscpub/prerel/api.html)
 * [SaferProducts.gov API](http://www.saferproducts.gov/faq-developers.aspx)
+
+## Enviromental Protection Agency
+* [EnergyStar ABS](http://www.energystar.gov/index.cfm?c=spp_res.pt_host_preview_doc)
+* [EnergyStar 3rd-Party Certification](http://www.energystar.gov/index.cfm?c=third_party_certification.tpc_xml_forms)
+
+## Federal Communications Commission
+* [Several](http://www.fcc.gov/developer)
 
 ## Federal Reserve
 * Federal Reserve Bank of St. Louis - [FRED](http://research.stlouisfed.org/fred2), ALFRED
 
+## General Services Administration
+* [Several](http://www.usa.gov/developer)
+* [FedBizOpps Documentation](https://www.fbo.gov/?s=generalinfo&mode=list&tab=list&tabmode=list&static=documentation)
+* [Federal Procurement Data System - FPDS API](https://www.fpds.gov/downloads/FPDS-Specifications-WebServices_Integration_Specifications_V1.4.doc)
+* [Federal Procurement Data System - FAADS API](https://www.fpds.gov/downloads/FAADS/FAADS-Specifications-WebServices_Integration_Specifications_V2.doc)
+* [Go.USA.gov](http://go.usa.gov/api)
+* [Jobscenter](http://jobcenter.usa.gov/apis)
+* [USA.gov Featured Content](http://answers.usa.gov/system/egss_json.jsp?jsoncallback=)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## International Trade Commission 
+* [ITC Documents](https://edis.usitc.gov/edis3-external/app)
+
+## National Aeronautics and Space Administration
+* Several
 
 ## Social Security Administration
 * [Consent Based Social Security Number Verification Service](http://www.ssa.gov/cbsv/webservice.html)
+
+US Postal Service
+[eCommerce APIs](https://www.usps.com/business/webtools.htm)
+
+--------------------------
+
+# Other Programs
+
+* [Integrated Taxonomic Information System(http://www.itis.gov/ws_description.html)
+* [Federal Financial Institutions Examination Council - Appraisal Subcommittee](https://www.asc.gov/wsvc/ASCQuerySvc.asmx)
+
