@@ -23,6 +23,9 @@ Under construction
 * [Food consumption data (inactive?)](http://www.programmableweb.com/api/ersusda-per-capita-food-availability-data)
 * [Content API](http://ers.usda.gov/developer/website-content-api.aspx)
 
+## National Resources Conservation Service
+* [Soil Data Mart](http://sdmdataaccess.nrcs.usda.gov/)
+
 ## US Forest Service
 * [Recreation Information Database](https://ridb.recreation.gov/RIDBWeb/Controller.jpf)
 
@@ -40,19 +43,22 @@ Under construction
 * [Meteorological Assimilation Data Ingest System](http://madis.noaa.gov/madis_api.html)
 * [National Climate Data Center](http://www.ncdc.noaa.gov/cdo-web/)
 * [National Weather Service](http://graphical.weather.gov/xml/)
-* (more)
+* [more](http://xreg2.nist.gov/cda-validation/webservice.html)
 
 ## Patent and Trademark Office
 * [Trademark Status & Document Retrieval](http://tsdr.uspto.gov/)
+* [more](http://usgovxml.com/dataservice.aspx?ds=USPTOPABD)
 
 # Department of Defense
 
 * [IUID Registry API](http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html)
 * [Proteus API](http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html)
 * [ADL 3d repository](http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html)
+* [OMNI Data](http://www2.mvr.usace.army.mil/OMNI/ws/OMNIdataWebService.cfm)
 
 # Department of Education
 * [Several](http://www.ed.gov/developers)
+* [more](http://usgovxml.com/dataservice.aspx?ds=AOB)
 
 # Department of Energy
 * [Several](http://www.energy.gov/developers)
@@ -73,6 +79,9 @@ Under construction
 * [Green Energy Data](http://www.osti.gov/GreenEnergyXMLManual.pdf)
 
 # Department of Health and Human Services
+* [Several](http://www.healthdata.gov)
+* [more](http://usgovxml.com/dataservice.aspx?ds=CABIO)
+
 * [Centers for Medicare & Medicaid Services](http://data.cms.gov/)
 
 ## Centers for Disease Control
@@ -106,23 +115,33 @@ Under construction
 # Department of Homeland Security
 * [National Terrorism Advisory System](http://www.dhs.gov/ntas-api-documentation)
 
+## Coast Guard
+* [more](http://usgovxml.com/dataservice.aspx?ds=CGMIXED)
+
 ## Federal Emergency Management Agency
 * [FEMA Enterprise GIS Services](http://gis.fema.gov/)
+* [more](http://usgovxml.com/dataservice.aspx?ds=DMOPEN)
 
 # Department of Housing and Urban Development
 * [IMAX system](http://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/mfh/trx/trxdocs)
+* [Housing Counseling Information](http://usgovxml.com/dataservice.aspx?ds=HCSARM)*
 
 # Department of the Interior
 
 ## Bureau of Land Management
 * [Geocommunicator](http://www.blm.gov/nils/GeoComm/home_services.html)
+* [more](http://usgovxml.com/dataservice.aspx?ds=VOLOPTS)
+
+## Fish and Wildlife Service
+* [more](http://usgovxml.com/dataservice.aspx?ds=Proximity)
+
 
 ## National Park Service
 * [NPMap](http://www.nps.gov/npmap/support/api.html)
 
 ## US Geological Survey
 * [Water Services](http://waterservices.usgs.gov/)
-* [...more](http://www.programmableweb.com/apis/directory/1?company=USGS)
+* [...more](http://www.programmableweb.com/apis/directory/1?company=USGS), and [this](http://usgovxml.com/dataservice.aspx?ds=DOIBCT)
 
 ## National Park Service
 * [NPMap API](http://www.nps.gov/npmap/support/api.html)
@@ -141,10 +160,12 @@ Under construction
 
 ## Federal Aviation Administration
 * [Airport Status](http://services.faa.gov/)
+* [more](http://usgovxml.com/dataservice.aspx?ds=FNS)
 
 ## Federal Railroad Administration
 * [Rail Equipment Accident/Incident Report (Form 54) API](https://safetydata.fra.dot.gov/MasterWebService/FRASafetyDataAPIs.aspx)
 * [Highway-Rail Grade Crossing Accident/Incident Report (Form 57) API](https://safetydata.fra.dot.gov/MasterWebService/FRASafetyDataAPIs.aspx)
+* [more](http://usgovxml.com/dataservice.aspx?ds=FRACCM)?
 
 ## Federal Motor Carrier Safety Administration
 * [SaferBus](https://mobile.fmcsa.dot.gov/developer/home.page)
@@ -166,9 +187,11 @@ Under construction
 * [SaferProducts.gov API](http://www.saferproducts.gov/faq-developers.aspx)
 
 ## Enviromental Protection Agency
+* [Several](www.epa.gov/developer/)
 * [EnergyStar APIs](https://data.energystar.gov/developers)
 * [EnergyStar ABS](http://www.energystar.gov/index.cfm?c=spp_res.pt_host_preview_doc)
 * [EnergyStar 3rd-Party Certification](http://www.energystar.gov/index.cfm?c=third_party_certification.tpc_xml_forms)
+* [more](http://usgovxml.com/dataservice.aspx?ds=ENVFACTS)?
 
 ## Federal Communications Commission
 * [Several](http://www.fcc.gov/developer)
@@ -205,6 +228,7 @@ Under construction
 
 ## Social Security Administration
 * [Consent Based Social Security Number Verification Service](http://www.ssa.gov/cbsv/webservice.html)
+* [more](http://usgovxml.com/dataservice.aspx?ds=EREWS)
 
 ## US Courts
 * [PACER API](http://www.pacer.gov/cmecf/developer/)
