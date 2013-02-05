@@ -146,6 +146,7 @@
 
 
 ## National Park Service
+* [ArcGIS Server REST API](http://mapservices.nps.gov/arcgis/sdk/rest/index.html?query.html)
 * [NPMap](http://www.nps.gov/npmap/support/api.html)
 
 ## US Geological Survey
