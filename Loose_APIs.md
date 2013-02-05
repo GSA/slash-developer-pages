@@ -193,8 +193,8 @@
 * [Consumer Complaint Database](http://www.consumerfinance.gov/complaintdatabase/)
 
 ## Consumer Product Safety Commission
-* [Several](http://www.epa.gov/developer/)
-* [Recalls API](http://www.cpsc.gov/cpscpub/prerel/api.html)
+* [Several]()
+* [Recalls API](http://www.cpsc.gov/cgibin/CPSCUpcWS/CPSCUpcSvc.asmx)
 * [SaferProducts.gov API](http://www.saferproducts.gov/faq-developers.aspx)
 
 ## Enviromental Protection Agency
