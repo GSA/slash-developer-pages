@@ -217,6 +217,7 @@
 
 ## General Services Administration
 * [Several](http://www.usa.gov/developer)
+* [Per Diem API](http://gsa.gov/portal/content/162379)
 * [BusinessUSA](http://business.usa.gov/apis)
 * [FedBizOpps Documentation](https://www.fbo.gov/?s=generalinfo&mode=list&tab=list&tabmode=list&static=documentation)
 * [Federal Procurement Data System - FPDS API](https://www.fpds.gov/downloads/FPDS-Specifications-WebServices_Integration_Specifications_V1.4.doc)
