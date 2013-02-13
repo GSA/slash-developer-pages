@@ -135,6 +135,12 @@
          "developer_url": "http:\/\/developer.nrel.gov\/"
        },
        {
+         "id": "NHTSA",
+         "name": "National Highway Traffic Safety Administration",
+         "url": "http:\/\/www.nhtsa.gov",
+         "developer_url": "http:\/\/www.nhtsa.gov\/webapi\/Default.aspx"
+       },       
+       {
          "id": "NWS",
          "name": "National Wether Service",
          "url": "http:\/\/www.weather.gov",
