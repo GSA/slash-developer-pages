@@ -115,6 +115,11 @@ consum<?xml version="1.0"?>
       <url>http://www.nrel.gov</url>
       <developer_url>http://developer.nrel.gov/</developer_url>
     </agency>
+    <agency id="NHTSA">
+      <name>National Highway Traffic Safety Administration</name>
+      <url>http://www.nhtsa.gov</url>
+      <developer_url>http://www.nhtsa.gov/webapi/Default.aspx</developer_url>
+    </agency>    
     <agency id="NWS">
       <name>National Wether Service</name>
       <url>http://www.weather.gov</url>
