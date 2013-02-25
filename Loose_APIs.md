@@ -89,10 +89,12 @@
 ## Administration on Aging
 * [Eldercare.gov](http://eldercare.gov/Eldercare.NET/Public/Site_Utilities/API_Reg/API_Registration.aspx)
 
-## [Centers for Medicare & Medicaid Services](http://data.cms.gov/)
+## Centers for Medicare & Medicaid Services
+* [Several](http://data.cms.gov/)
 
 ## Centers for Disease Control
 * [Wonder Data](http://wonder.cdc.gov/wonder/help/WONDER-API.html)
+* [Content API](https://tools.cdc.gov/syndication/api.aspx)
 
 ## Agency for Healthcare Research and Quality
 * [Meaningful Use API](http://ushik.ahrq.gov/help/MeaningfulUse/api?system=mu)
