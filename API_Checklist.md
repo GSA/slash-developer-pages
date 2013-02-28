@@ -27,22 +27,20 @@
   * Have you made available code samples?
   * Have you provided interactive documentation?
   * Have you made SDKs available?
-  * If you employ API keys, have you made sure that the developer can receive a key on demand and without delay?  
+  * If you employ API keys, have you made sure that the developer can receive a key on demand and without delay?
 * For your developer hub:
-  * Have you created a unified Terms of Service for your APIs? 
+  * Have you created a unified Terms of Service for your APIs?
   * Have you made an FAQ section available, including a means for the public to request new questions?
   * Have you created an Apps Gallery to showcase mashups and applications that utilize your APIs?
   * Have you created a status dashboard for your APIs?
-
-* Have you created a public data hub? 
+* Have you created a public data hub?
 * Have you identified a data/API point person?
-* Have you identified a data/API working group that covers the organization? 
+* Have you identified a data/API working group that covers the organization?
 * For sub-cabinet agencies, have you ensured that your APIs are being shared on your department's developer hub?
-* Have you registered your API at PW, etc.  
+* Have you registered your API at PW, etc?
 * Have you reviewed your most important data/services and low hanging fruit for consideration for your next APIs?
-* Have you reached out to projects currently in development in order to request that they integrate API production into their requirements.
+* Have you reached out to projects currently in development in order to request that they integrate API production into their requirements?
  
-
 ## Advanced
 
 * Have you developed a plan for systematically API-enabling your current systems and data?
