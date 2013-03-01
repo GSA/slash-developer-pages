@@ -74,7 +74,6 @@
 
 # Department of Energy
 * [Several](http://www.energy.gov/developers)
-* [Fueleconomy.com](http://www.fueleconomy.gov/feg/ws/index.shtml)
 
 ## Energy Information Administration
 * [Several](http://www.eia.gov/developer/)
@@ -114,6 +113,9 @@
 ## Health Resources and Services Administration
 * [Data Warehouse Data Web Service](http://datawarehouse.hrsa.gov/webServices_NEW.aspx)
 * [Data Warehouse Online Map Service](http://datawarehouse.hrsa.gov/HGDWFeatureService.aspx)
+
+## Indian Health Service
+* [ArcGIS Web Service](https://gis.ihs.gov/ArcGIS/rest/services/public/)
 
 ## National Insitutes of Health
 
@@ -156,8 +158,8 @@
 * [more](http://usgovxml.com/dataservice.aspx?ds=VOLOPTS)
 
 ## Fish and Wildlife Service
+* [Environmental Conservation Online System web services](http://ecos.fws.gov/tat_services/)
 * [more](http://usgovxml.com/dataservice.aspx?ds=Proximity)
-
 
 ## National Park Service
 * [ArcGIS Server REST API](http://mapservices.nps.gov/arcgis/sdk/rest/index.html?query.html)
@@ -251,6 +253,10 @@
 
 ## National Aeronautics and Space Administration
 * [Several](http://data.nasa.gov/api-info/)
+* [Satellite Situation Center API](http://sscweb.gsfc.nasa.gov/WebServices/)
+
+## National Science Foundation
+* [Application Submission Web Services](http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_asws)
 
 ## Small Business Administration
 * [Several](http://www.sba.gov/api/)
@@ -276,4 +282,3 @@
 * [Federal Financial Institutions Examination Council - Appraisal Subcommittee](https://www.asc.gov/wsvc/ASCQuerySvc.asmx)
 * [Federal Geographic Data Committee - Service Status Checker](http://registry.fgdc.gov/statuschecker/developers.php)
 * [National Resource Directory](https://www.nrd.gov/home/api)
-
