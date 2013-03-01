@@ -33,7 +33,6 @@
 * [National Water and Climate Center AWDB database](http://www.wcc.nrcs.usda.gov/web_service/AWDB_Web_Service_Tutorial.htm)
 * [Soil Data Mart](http://sdmdataaccess.nrcs.usda.gov/)
 
-
 # Department of Commerce
 
 ## Census Bureau
@@ -47,8 +46,17 @@
 ## National Oceanic and Atmospheric Administration
 * [Meteorological Assimilation Data Ingest System](http://madis.noaa.gov/madis_api.html)
 * [National Climate Data Center](http://www.ncdc.noaa.gov/cdo-web/)
-* [National Weather Service](http://graphical.weather.gov/xml/)
-* [more](http://xreg2.nist.gov/cda-validation/webservice.html)
+* [Environmental Research Division's Data Access Program](http://coastwatch.pfeg.noaa.gov/erddap/rest.html)
+* [Center for Operational Oceanographic Products and Services](http://opendap.co-ops.nos.noaa.gov/axis/)
+* [CO-OPS Open Geospatial Consortium Sensor Observation Service](http://opendap.co-ops.nos.noaa.gov/ioos-dif-sos/)
+* [National Digital Forecast Database SOAP Web Service](http://graphical.weather.gov/xml/)
+* [NCDC CDO Web Services](http://www.ncdc.noaa.gov/cdo-web/webservices)
+* [General NCDC THREDDS Data Server](http://www.ncdc.noaa.gov/thredds)
+* [GIS Map Services](http://gis.ncdc.noaa.gov/)
+* [Legacy RESTful Services](http://www7.ncdc.noaa.gov/rest/)
+* [NOMADS THREDDS Data Server](http://nomads.ncdc.noaa.gov/thredds)
+* [Severe Weather Data Inventory Web Service](http://www.ncdc.noaa.gov/swdiws/)
+* [Space Physics Interactive Data Resource Web Services](http://spidr.ngdc.noaa.gov/spidr/docs/SPIDR.REST.WSGuide.en.pdf)
 
 ## Patent and Trademark Office
 * [Trademark Status & Document Retrieval](http://tsdr.uspto.gov/)
