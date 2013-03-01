@@ -74,6 +74,7 @@
 
 # Department of Energy
 * [Several](http://www.energy.gov/developers)
+* [Fueleconomy.com](http://www.fueleconomy.gov/feg/ws/index.shtml)
 
 ## Energy Information Administration
 * [Several](http://www.eia.gov/developer/)
