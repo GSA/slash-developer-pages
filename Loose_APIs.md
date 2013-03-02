@@ -70,10 +70,10 @@
 
 # Department of Education
 * [Several](http://www.ed.gov/developers)
-* [more](http://usgovxml.com/dataservice.aspx?ds=AOB)
 
 # Department of Energy
 * [Several](http://www.energy.gov/developers)
+* [more](http://usgovxml.com/dataservice.aspx?ds=AOB)
 
 ## Energy Information Administration
 * [Several](http://www.eia.gov/developer/)
