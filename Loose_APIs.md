@@ -155,6 +155,7 @@
 
 ## Bureau of Land Management
 * [Geocommunicator](http://www.blm.gov/nils/GeoComm/home_services.html)
+* [Geocommunicator Map Services](http://www.geocommunicator.gov/GeoComm/services.htm)
 * [more](http://usgovxml.com/dataservice.aspx?ds=VOLOPTS)
 
 ## Fish and Wildlife Service
