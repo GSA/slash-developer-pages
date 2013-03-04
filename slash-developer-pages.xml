@@ -236,6 +236,16 @@ consum<?xml version="1.0"?>
       <developer_url>http://permits.performance.gov/developers-api</developer_url>
     </agency>    
     <agency id="">
+      <name>Performance.gov Permits</name>
+      <url>http://www.performance.gov/</url>
+      <developer_url>http://permits.performance.gov/developers-api</developer_url>
+    </agency>        
+    <agency id="">
+      <name>Regulations.gov</name>
+      <url>http://www.regulations.gov/</url>
+      <developer_url>http://www.regulations.gov</developer_url>
+    </agency>        
+    <agency id="">
       <name>Small Business Innovation Research</name>
       <url>http://www.sbir.gov/</url>
       <developer_url>http://www.sbir.gov/apis</developer_url>
