@@ -160,6 +160,7 @@
 
 ## Fish and Wildlife Service
 * [Environmental Conservation Online System web services](http://ecos.fws.gov/tat_services/)
+* [Critical Habitat Portal](http://criticalhabitat.fws.gov/)
 * [more](http://usgovxml.com/dataservice.aspx?ds=Proximity)
 
 ## National Park Service
