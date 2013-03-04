@@ -168,7 +168,7 @@ consum<?xml version="1.0"?>
     <agency id="">
       <name>DATA.gov</name>
       <url>http://www.data.gov/</url>
-      <developer_url>http://www.data.gov/developers</developer_url>
+      <developer_url>http://developer.data.gov</developer_url>
     </agency>
     <agency id="">
       <name>DEA - E-Commerce Program</name>
