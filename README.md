@@ -41,6 +41,7 @@ More and more .gov developer hubs are also linking to each other in the fashion 
 <li><a href="http://www.deaecom.gov/developer.html">DEA - E-Commerce Program</a></li>
 <li><a href="https://data.energystar.gov/developers">EnergyStar.gov</a></li>
 <li><a href="http://www.foia.gov/developer.html">FOIA.gov</a></li>
+<li><a href="http://www.fueleconomy.gov/ws">FuelEconomy.gov</a></li>
 <li><a href="http://www.healthdata.gov/developer">HealthData.gov</a></li>
 <li><a href="http://healthfinder.gov/developers/">HealthFinder.gov</a></li>
 <li><a href="http://healthindicators.gov/Developers/">HHS - Health Indicator Warehouse</a></li>
