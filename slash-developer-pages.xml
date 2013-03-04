@@ -186,6 +186,11 @@ consum<?xml version="1.0"?>
       <developer_url>http://www.foia.gov/developer.html</developer_url>
     </agency>
     <agency id="">
+      <name>FuelEconomy.gov</name>
+      <url>http://www.fueleconomy.gov/</url>
+      <developer_url>http://www.fueleconomy.gov/ws</developer_url>
+    </agency>
+    <agency id="">
       <name>Healthdata.gov</name>
       <url>http://www.healthdata.gov/</url>
       <developer_url>http://www.healthdata.gov/developer</developer_url>
