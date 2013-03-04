@@ -40,6 +40,11 @@ consum<?xml version="1.0"?>
       <url>http://www.cpsc.gov</url>
       <developer_url>http://www.cpsc.gov/cpscpub/prerel/api.html</developer_url>
     </agency>
+    <agency id="ERS">
+      <name>Economic Research Service</name>
+      <url>http://www.ers.usda.gov</url>
+      <developer_url>http://www.ers.usda.gov/developer.aspx</developer_url>
+    </agency>
     <agency id="EIA">
       <name>Energy Information Administration</name>
       <url>http://www.eia.gov</url>
