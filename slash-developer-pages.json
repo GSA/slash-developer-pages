@@ -213,6 +213,13 @@
          "developer_url": "http:\/\/www.foia.gov\/developer.html"
        },
        {
+         "name": "FuelEconomy.gov",
+         "url": "http:\/\/www.fueleconomy.gov\/",
+         "developer_url": "http:\/\/www.fueleconomy.gov\/ws"
+       },
+       
+       
+       {
          "name": "Healthdata.gov",
          "url": "http:\/\/www.healthdata.gov\/",
          "developer_url": "http:\/\/www.healthdata.gov\/developer"
