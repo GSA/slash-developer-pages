@@ -38,7 +38,7 @@ consum<?xml version="1.0"?>
     <agency id="CPSC">
       <name>Consumer Product Safety Commission</name>
       <url>http://www.cpsc.gov</url>
-      <developer_url>http://www.cpsc.gov/cpscpub/prerel/api.html</developer_url>
+      <developer_url>http://www.cpsc.gov/en/Recalls/CPSC-Recalls-Application-Program-Interface-API-Information</developer_url>
     </agency>
     <agency id="ERS">
       <name>Economic Research Service</name>
