@@ -263,6 +263,11 @@
          "developer_url": "http:\/\/permits.performance.gov\/developers-api"
        },
        {
+         "name": "Regulations.gov",
+         "url": "http:\/\/www.regulations.gov\/",
+         "developer_url": "http:\/\/www.regulations.gov\/#!developers"
+       },       
+       {
          "name": "Small Business Innovation Research",
          "url": "http:\/\/www.sbir.gov\/",
          "developer_url": "http:\/\/www.sbir.gov\/apis"
