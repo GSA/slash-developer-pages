@@ -13,6 +13,7 @@ More and more .gov developer hubs are also linking to each other in the fashion 
 <li><a href="http://data.cms.gov/">Centers for Medicare &amp; Medicaid Services</a></li>
 <li><a href="http://www.consumerfinance.gov/developers/">Consumer Financial Protection Bureau</a></li>
 <li><a href="http://www.cpsc.gov/cpscpub/prerel/api.html">Consumer Product Safety Commission</a></li>
+<li><a href="http://www.ers.usda.gov/developer.aspx">Economic Research Service</a></li>
 <li><a href="http://www.eia.gov/developer/">Energy Information Administration</a></li>
 <li><a href="http://www.epa.gov/developer/">Environmental Protection Agency</a></li>
 <li><a href="http://services.faa.gov/">Federal Aviation Administration</a></li>
