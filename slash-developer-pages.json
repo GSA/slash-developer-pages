@@ -48,6 +48,12 @@
          "developer_url": "http:\/\/www.cpsc.gov\/cpscpub\/prerel\/api.html"
        },
        {
+         "id": "ERS",
+         "name": "Economic Research Service",
+         "url": "http:\/\/www.ers.usda.gov",
+         "developer_url": "http:\/\/www.ers.usda.gov\/developer.aspx\/"
+       },
+       {
          "id": "EIA",
          "name": "Energy Information Administration",
          "url": "http:\/\/www.eia.gov",
