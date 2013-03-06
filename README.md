@@ -48,6 +48,7 @@ More and more .gov developer hubs are also linking to each other in the fashion 
 <li><a href="http://data.medicare.gov/">HHS - Medicare</a></li>
 <li><a href="http://www.itis.gov/ws_description.html">Integrated Taxonomic Information System</a></li>
 <li><a href="http://www.itdashboard.gov/data_feeds">ITDashboard.gov</a></li>
+<li><a href="https://my.usa.gov/developer/">My.USA.gov</a></li>
 <li><a href="http://www.broadbandmap.gov/developer/">National Broadband Map</a></li>
 <li><a href="https://www.niem.gov/developers">National Information Exchange Model</a></li>
 <li><a href="https://www.nrd.gov/home/api">National Resource Directory</a></li>
