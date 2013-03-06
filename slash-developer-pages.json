@@ -250,6 +250,11 @@
          "developer_url": "http:\/\/www.itdashboard.gov\/data_feeds"
        },
        {
+         "name": "My.USA.gov",
+         "url": "http:\/\/my.usa.gov\/",
+         "developer_url": "https:\/\/my.usa.gov\/developer"
+       },
+       {
          "name": "National Broadband Map",
          "url": "http:\/\/www.broadbandmap.gov\/",
          "developer_url": "http:\/\/www.broadbandmap.gov\/developer\/"
