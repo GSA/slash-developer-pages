@@ -244,11 +244,6 @@ consum<?xml version="1.0"?>
       <name>Performance.gov Permits</name>
       <url>http://www.performance.gov/</url>
       <developer_url>http://permits.performance.gov/developers-api</developer_url>
-    </agency>    
-    <agency id="">
-      <name>Performance.gov Permits</name>
-      <url>http://www.performance.gov/</url>
-      <developer_url>http://permits.performance.gov/developers-api</developer_url>
     </agency>        
     <agency id="">
       <name>Regulations.gov</name>
