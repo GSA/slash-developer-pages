@@ -215,11 +215,16 @@ consum<?xml version="1.0"?>
       <url>http://www.itis.gov/</url>
       <developer_url>http://www.itis.gov/ws_description.html</developer_url>
     </agency>
-        <agency id="">
+    <agency id="">
       <name>ITDashboard.gov</name>
       <url>http://www.itdashboard.gov/</url>
       <developer_url>http://www.itdashboard.gov/data_feeds</developer_url>
     </agency>    
+    <agency id="">
+      <name>My.USA.gov</name>
+      <url>http://my.usa.gov/</url>
+      <developer_url>http://my.usa.gov/developer</developer_url>
+    </agency> 
     <agency id="">
       <name>National Broadband Map</name>
       <url>http://www.broadbandmap.gov/</url>
