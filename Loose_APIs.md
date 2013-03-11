@@ -92,6 +92,7 @@
 
 # Department of Health and Human Services
 * [Several](http://www.healthdata.gov)
+* [Content API](https://syndication.hhs.gov/storefront/apiDoc)
 * [more](http://usgovxml.com/dataservice.aspx?ds=CABIO)
 
 ## Administration on Aging
