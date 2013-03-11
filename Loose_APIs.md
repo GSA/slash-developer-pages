@@ -129,6 +129,9 @@
 ### National Institute on Drug Abuse
 * [Drug Use Screening Tool API](http://www.drugabuse.gov/developer)
 
+### National Institute of Neurological Disorders and Stroke 
+* [Research Services Branch's Developer Resources](http://rsb.info.nih.gov/ij/developer/)
+
 ### National Library of Medicine
 * [Several](http://www.nlm.nih.gov/api/)
 * [ND-RFT API](http://rxnav.nlm.nih.gov/NdfrtAPI.html)
