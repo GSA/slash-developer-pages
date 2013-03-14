@@ -64,9 +64,17 @@
 # Department of Defense
 
 * [IUID Registry API](http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html)
-* [Proteus API](http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html)
-* [ADL 3d repository](http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html)
+* [ADL 3d repository](http://3dr.adlnet.gov/blog/?p=78)
+
+
+## US Army Corps of Engineers
+* [Proteus API](https://adh.usace.army.mil/proteus/api/index.html#)
 * [OMNI Data](http://www2.mvr.usace.army.mil/OMNI/ws/OMNIdataWebService.cfm)
+* [ARCGIS Services](http://maps.usace.army.mil:8399/arcgis/rest/services)
+* [Coastal Inlets Research Program (CIRP) Wiki API](http://cirp.usace.army.mil/CIRPwiki/api.php?action=patrol&token=123abc&rcid=230672766)
+* [PyADH API](https://adh.usace.army.mil/pyadh/api/index.html)
+* [Hydrologic Engineering Center Data Storage System](http://www.hec.usace.army.mil/software/hec-dss/documents/Ch7-Scripting.pdf)
+
 
 # Department of Education
 * [Several](http://www.ed.gov/developers)
