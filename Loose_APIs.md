@@ -103,6 +103,7 @@
 # Department of Health and Human Services
 * [Several](http://healthdata.gov/dataset/search?f[0]=sm_ckan_media_format%3AAPI)
 * [Content API](https://syndication.hhs.gov/storefront/apiDoc)
+* [Cancer.gov SEER API](https://api.seer.cancer.gov/home.do)
 * [Finder.Healthcare.gov](http://finder.healthcare.gov/services)
 * [more](http://usgovxml.com/dataservice.aspx?ds=CABIO)
 
@@ -115,6 +116,7 @@
 ## Centers for Disease Control
 * [Wonder Data](http://wonder.cdc.gov/wonder/help/WONDER-API.html)
 * [Content API](https://tools.cdc.gov/syndication/api.aspx)
+* [PHIN VADS API](https://phinvads.cdc.gov/vads/developersGuide.action)
 
 ## Agency for Healthcare Research and Quality
 * [Meaningful Use API](http://ushik.ahrq.gov/help/MeaningfulUse/api?system=mu)
@@ -164,7 +166,7 @@
 
 # Department of Housing and Urban Development
 * [IMAX system](http://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/mfh/trx/trxdocs)
-* [Housing Counseling Information](http://usgovxml.com/dataservice.aspx?ds=HCSARM)*
+* [Housing Counseling Information](http://usgovxml.com/dataservice.aspx?ds=HCSARM)
 
 # Department of the Interior
 
