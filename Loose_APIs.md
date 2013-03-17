@@ -45,7 +45,7 @@
 
 ## National Oceanic and Atmospheric Administration
 * [Meteorological Assimilation Data Ingest System](http://madis.noaa.gov/madis_api.html)
-* [National Climatic Data Center](http://www.ncdc.noaa.gov/cdo-web/webservices/ncdcwebservices)
+* [National Climatic Data Center Web Services](http://www.ncdc.noaa.gov/cdo-web/webservices/ncdcwebservices)
 * [Environmental Research Division's Data Access Program](http://coastwatch.pfeg.noaa.gov/erddap/rest.html)
 * [Center for Operational Oceanographic Products and Services](http://opendap.co-ops.nos.noaa.gov/axis/)
 * [CO-OPS Open Geospatial Consortium Sensor Observation Service](http://opendap.co-ops.nos.noaa.gov/ioos-dif-sos/)
