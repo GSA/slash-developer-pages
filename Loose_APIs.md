@@ -98,8 +98,9 @@
 * [Green Energy Data](http://www.osti.gov/GreenEnergyXMLManual.pdf)
 
 # Department of Health and Human Services
-* [Several](http://www.healthdata.gov)
+* [Several](http://healthdata.gov/dataset/search?f[0]=sm_ckan_media_format%3AAPI)
 * [Content API](https://syndication.hhs.gov/storefront/apiDoc)
+* [Finder.Healthcare.gov](http://finder.healthcare.gov/services)
 * [more](http://usgovxml.com/dataservice.aspx?ds=CABIO)
 
 ## Administration on Aging
@@ -285,6 +286,9 @@
 ## US Postal Service
 * [eCommerce APIs](https://www.usps.com/business/webtools.htm)
 * [Several](https://ribbs.usps.gov/intelligentmail_guides/documents/tech_guides/xmlspec/wsdls/wsdls.htm)
+
+## US Agency for International Development
+* [GIS APIs](http://www.arcgis.com/home/group.html?owner=usaidgeocenter&title=USAID%20GeoCenter)
 
 --------------------------
 
