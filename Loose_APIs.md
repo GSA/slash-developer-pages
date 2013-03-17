@@ -54,8 +54,11 @@
 * [General National Climatatic Data Center THREDDS Data Server](http://www.ncdc.noaa.gov/thredds)
 * [GIS Map Services](http://gis.ncdc.noaa.gov/)
 * [Legacy National Climatatic Data Center RESTful Services](http://www7.ncdc.noaa.gov/rest/)
+* [Ocean Service's nowCOAST's Map Services](http://nowcoast.noaa.gov/help/mapservices.shtml?name=mapservices)
 * [Severe Weather Data Inventory Web Service](http://www.ncdc.noaa.gov/swdiws/)
 * [Space Physics Interactive Data Resource Web Services](http://spidr.ngdc.noaa.gov/spidr/docs/SPIDR.REST.WSGuide.en.pdf)
+
+
 
 ## Patent and Trademark Office
 * [Trademark Status & Document Retrieval](http://tsdr.uspto.gov/)
