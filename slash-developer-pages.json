@@ -275,6 +275,11 @@
          "developer_url": "http:\/\/permits.performance.gov\/developers-api"
        },
        {
+         "name": "Recovery.gov",
+         "url": "http:\/\/www.recovery.gov\/",
+         "developer_url": "http:\/\/www.recovery.gov\/FAQ\/Developer\/"
+       },
+       {
          "name": "Regulations.gov",
          "url": "http:\/\/www.regulations.gov\/",
          "developer_url": "http:\/\/www.regulations.gov\/#!developers"
