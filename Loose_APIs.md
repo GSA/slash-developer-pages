@@ -45,7 +45,7 @@
 
 ## National Oceanic and Atmospheric Administration
 * [Meteorological Assimilation Data Ingest System](http://madis.noaa.gov/madis_api.html)
-* [National Climate Data Center](http://www.ncdc.noaa.gov/cdo-web/)
+* [National Climatic Data Center](http://www.ncdc.noaa.gov/cdo-web/webservices/ncdcwebservices)
 * [Environmental Research Division's Data Access Program](http://coastwatch.pfeg.noaa.gov/erddap/rest.html)
 * [Center for Operational Oceanographic Products and Services](http://opendap.co-ops.nos.noaa.gov/axis/)
 * [CO-OPS Open Geospatial Consortium Sensor Observation Service](http://opendap.co-ops.nos.noaa.gov/ioos-dif-sos/)
@@ -58,8 +58,6 @@
 * [Severe Weather Data Inventory Web Service](http://www.ncdc.noaa.gov/swdiws/)
 * [Space Physics Interactive Data Resource Web Services](http://spidr.ngdc.noaa.gov/spidr/docs/SPIDR.REST.WSGuide.en.pdf)
 
-
-
 ## Patent and Trademark Office
 * [Trademark Status & Document Retrieval](http://tsdr.uspto.gov/)
 * [more](http://usgovxml.com/dataservice.aspx?ds=USPTOPABD)
@@ -67,7 +65,6 @@
 # Department of Defense
 * [IUID Registry API](http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html)
 * [ADL 3d repository](http://3dr.adlnet.gov/blog/?p=78)
-
 
 ## US Army Corps of Engineers
 * [ARCGIS Services](http://maps.usace.army.mil:8399/arcgis/rest/services)
