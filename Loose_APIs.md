@@ -99,6 +99,7 @@
 
 # Department of Health and Human Services
 * [Several](http://healthdata.gov/dataset/search?f[0]=sm_ckan_media_format%3AAPI)
+* [AIDS.gov HIV/AIDS Service Provider Locator API](http://locator.aids.gov/data-how-to.html)
 * [Content API](https://syndication.hhs.gov/storefront/apiDoc)
 * [Cancer.gov SEER API](https://api.seer.cancer.gov/home.do)
 * [Finder.Healthcare.gov](http://finder.healthcare.gov/services)
