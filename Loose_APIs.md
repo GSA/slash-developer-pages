@@ -167,6 +167,7 @@
 
 # Department of Housing and Urban Development
 * [IMAX system](http://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/mfh/trx/trxdocs)
+* [ArcGIS Services](http://egis.hud.gov/ArcGIS/rest/services)
 * [Housing Counseling Information](http://usgovxml.com/dataservice.aspx?ds=HCSARM)
 
 # Department of the Interior
