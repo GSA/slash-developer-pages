@@ -8,7 +8,9 @@ More and more .gov developer hubs are also linking to each other in the fashion 
 <li><a href="http://www.usda.gov/developers">Department of Agriculture</a></li>
 <li><a href="http://www.ed.gov/developers">Department of Education</a></li>
 <li><a href="http://www.energy.gov/developers">Department of Energy</a></li>
+<li><a href="http://www.hhs.gov/developer">Department of Health &amp; Human Services</a></li>
 <li><a href="http://developer.dol.gov/">Department of Labor</a></li>
+<li><a href="http://www.dot.gov/developer">Department of Transportation</a></li>
 <li><a href="http://www.census.gov/developers/">Census Bureau</a></li>
 <li><a href="http://data.cms.gov/">Centers for Medicare &amp; Medicaid Services</a></li>
 <li><a href="http://www.consumerfinance.gov/developers/">Consumer Financial Protection Bureau</a></li>
@@ -58,6 +60,7 @@ More and more .gov developer hubs are also linking to each other in the fashion 
 <li><a href="http://www.regulations.gov/#!developers">Regulations.gov</a></li>
 <li><a href="http://www.sbir.gov/apis">Small Business Innovation Research</a></li>
 <li><a href="http://www.usa.gov/developer">USA.gov</a></li>
+<li><a href="http://usasearch.howto.gov/developer/">USASearch</a></li>
 <li><a href="http://www.usaspending.gov/data?tab=API">USASpending.gov</a></li>
 <li><a href="http://www.pacer.gov/cmecf/developer/">U.S. Courts - PACER</a></li>  
 </ul>
