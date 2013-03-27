@@ -15,10 +15,20 @@ consum<?xml version="1.0"?>
       <url>http://www.energy.gov</url>
       <developer_url>http://www.energy.gov/developers</developer_url>
     </agency>
+    <agency id="HHS">
+      <name>Department of Health &amp; Human Services</name>
+      <url>http://www.hhs.gov</url>
+      <developer_url>http://www.hhs.gov/developer</developer_url>
+    </agency>
     <agency id="DOL">
       <name>Department of Labor</name>
       <url>http://www.dol.gov</url>
       <developer_url>http://developer.dol.gov/</developer_url>
+    </agency>
+    <agency id="DOT">
+      <name>Department of Transportation</name>
+      <url>http://www.dot.gov</url>
+      <developer_url>http://www.dot.gov/developer</developer_url>
     </agency>
     <agency id="CENSUS">
       <name>Bureau of the Census</name>
@@ -260,6 +270,11 @@ consum<?xml version="1.0"?>
       <url>http://www.usa.gov/</url>
       <developer_url>http://www.usa.gov/developer</developer_url>
     </agency>    
+    <agency id="">
+      <name>USASearch</name>
+      <url>http://usasearch.howto.gov/</url>
+      <developer_url>http://usasearch.howto.gov/developer</developer_url>
+    </agency> 
     <agency id="">
       <name>USASpending.gov</name>
       <url>http://www.usaspending.gov/</url>
