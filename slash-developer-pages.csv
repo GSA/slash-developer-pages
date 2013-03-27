@@ -2,7 +2,9 @@ agency id,agency name,url,developer url
 USDA,Department of Agriculture,http://www.usda.gov,http://www.usda.gov/developers
 ED,Department of Education,http://www.ed.gov,http://www.ed.gov/developers
 DOE,Department of Energy,http://www.energy.gov,http://www.energy.gov/developers
+HHS,Department of Health &amp; Human Services,http://www.hhs.gov,http://www.hhs.gov/developer
 DOL,Department of Labor,http://www.dol.gov,http://developer.dol.gov/
+DOT,Department of Transportation,http://www.dot.gov,http://www.dot.gov/developer
 CENSUS,Bureau of the Census,http://www.census.gov/,http://www.census.gov/developers/
 ,Centers for Medicare &amp; Medicaid Services,http://www.cms.gov/,http://data.cms.gov/
 CFPB,Consumer Financial Protection Bureau,http://www.consumerfinance.gov,http://www.consumerfinance.gov/developers/
