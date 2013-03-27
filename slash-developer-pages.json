@@ -19,10 +19,22 @@
          "developer_url": "http:\/\/www.energy.gov\/developers"
        },
        {
+         "id": "HHS",
+         "name": "Department of Health &amp; Human Services",
+         "url": "http:\/\/www.hhs.gov",
+         "developer_url": "http:\/\/www.hhs.gov\/developer"
+       },
+       {
          "id": "DOL",
          "name": "Department of Labor",
          "url": "http:\/\/www.dol.gov",
          "developer_url": "http:\/\/developer.dol.gov\/"
+       },
+       {
+         "id": "DOT",
+         "name": "Department of Transportation",
+         "url": "http:\/\/www.dot.gov",
+         "developer_url": "http:\/\/www.dot.gov\/developer"
        },
        {
          "id": "CENSUS",
@@ -293,6 +305,11 @@
          "name": "USA.gov",
          "url": "http:\/\/www.usa.gov\/",
          "developer_url": "http:\/\/www.usa.gov\/developer"
+       },
+       {
+         "name": "USASearch",
+         "url": "http:\/\/usasearch.howto.gov\/",
+         "developer_url": "http:\/\/usasearch.howto.gov\/developer"
        },
        {
          "name": "USASpending.gov",
