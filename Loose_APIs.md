@@ -123,7 +123,7 @@
 * [PHIN VADS API](https://phinvads.cdc.gov/vads/developersGuide.action)
 
 ## Food and Drug Administration
-* [Tobacco Content API](http://tools.fda.gov/CSStorefront/register/api.aspx)
+* [Tobacco Content API](http://tools.fda.gov/CSStorefront/api.aspx)
 
 ## Health Resources and Services Administration
 * [Data Warehouse Data Web Service](http://datawarehouse.hrsa.gov/webServices_NEW.aspx)
