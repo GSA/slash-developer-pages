@@ -105,6 +105,9 @@
 * [Finder.Healthcare.gov](http://finder.healthcare.gov/services)
 * [more](http://usgovxml.com/dataservice.aspx?ds=CABIO)
 
+## Agency for Healthcare Research and Quality
+* [Meaningful Use API](http://ushik.ahrq.gov/help/MeaningfulUse/api?system=mu)
+
 ## Administration on Aging
 * [Eldercare.gov](http://eldercare.gov/Eldercare.NET/Public/Site_Utilities/API_Reg/API_Registration.aspx)
 
@@ -118,9 +121,6 @@
 * [Wonder Data](http://wonder.cdc.gov/wonder/help/WONDER-API.html)
 * [Content API](https://tools.cdc.gov/syndication/api.aspx)
 * [PHIN VADS API](https://phinvads.cdc.gov/vads/developersGuide.action)
-
-## Agency for Healthcare Research and Quality
-* [Meaningful Use API](http://ushik.ahrq.gov/help/MeaningfulUse/api?system=mu)
 
 ## Food and Drug Administration
 * [Tobacco Content API](http://tools.fda.gov/CSStorefront/register/api.aspx)
