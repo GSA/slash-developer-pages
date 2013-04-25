@@ -65,6 +65,7 @@
 # Department of Defense
 * [IUID Registry API](http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html)
 * [ADL 3d repository](http://3dr.adlnet.gov/blog/?p=78)
+* [Clause Logic Service](http://www.acq.osd.mil/dpap/pdi/eb/clause_logic_service.html)
 
 ## US Army Corps of Engineers
 * [ARCGIS Services](http://maps.usace.army.mil:8399/arcgis/rest/services)
