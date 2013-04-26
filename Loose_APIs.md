@@ -95,9 +95,6 @@
 * [Home Energy Saver](http://homeenergysaver.lbl.gov/consumer/licensing)
 * [Colt API](http://acs.lbl.gov/software/colt/)
 
-## Office of Scientific and Technical Information
-* [Green Energy Data](http://www.osti.gov/GreenEnergyXMLManual.pdf)
-
 # Department of Health and Human Services
 * [Several](http://healthdata.gov/dataset/search?f[0]=sm_ckan_media_format%3AAPI)
 * [AIDS.gov HIV/AIDS Service Provider Locator API](http://locator.aids.gov/data-how-to.html)
