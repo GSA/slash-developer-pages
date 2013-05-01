@@ -131,10 +131,13 @@
 * [ArcGIS Web Service](https://gis.ihs.gov/ArcGIS/rest/services/public/)
 
 ## National Insitutes of Health
+* [NIH Enterprise Web Services](https://federation.nih.gov/webServices.asp)
 
 ### National Cancer Insitute
 * [caIntegrator](http://caintegrator-info.nci.nih.gov/developers/)
 * [Cancer.gov SEER API](https://api.seer.cancer.gov/home.do)
+* [Biological DataBase Network web services](http://biodbnet.abcc.ncifcrf.gov/webServices/)
+
 
 ### National Institute of Allergy and Infectious Diseases
 * [Content API](http://tools.niaid.nih.gov/register/api.aspx)
@@ -153,6 +156,7 @@
 ## Substance Abuse and Mental Health Services Administration
 * [Several](http://store.samhsa.gov/developer)
 * [Information Tools](https://info.samhsa.gov/), [Documentation](http://info.samhsa.gov/api/docs)
+* [RecoveryMonth.gov web services](recoverymonth.gov/webservices/events.asmx)
 
 # Department of Homeland Security
 * [National Terrorism Advisory System](http://www.dhs.gov/ntas-api-documentation)
@@ -186,6 +190,8 @@
 * [NPMap](http://www.nps.gov/npmap/support/api.html)
 
 ## US Geological Survey
+* [Eastern Geographic Science Center Map Web Services](http://sscweb.gsfc.nasa.gov/WebServices/)
+* [Streamstats web services](http://streamstatsags.cr.usgs.gov/webservices/wsui.htm)
 * [Water Services](http://waterservices.usgs.gov/)
 * [...more](http://www.programmableweb.com/apis/directory/1?company=USGS), and [this](http://usgovxml.com/dataservice.aspx?ds=DOIBCT)
 
@@ -242,6 +248,7 @@
 * [EnergyStar APIs](https://data.energystar.gov/developers)
 * [EnergyStar ABS](http://www.energystar.gov/index.cfm?c=spp_res.pt_host_preview_doc)
 * [EnergyStar 3rd-Party Certification](http://www.energystar.gov/index.cfm?c=third_party_certification.tpc_xml_forms)
+* [EnergyStar Portfolio APIs](http://portfoliomanager.energystar.gov/webservices)
 * [more](http://usgovxml.com/dataservice.aspx?ds=ENVFACTS)?
 
 ## Federal Communications Commission
@@ -274,6 +281,7 @@
 ## National Aeronautics and Space Administration
 * [Several](http://data.nasa.gov/api-info/)
 * [Satellite Situation Center API](http://sscweb.gsfc.nasa.gov/WebServices/)
+* [Coordinated Data Analysis System (CDAS) Web services](http://cdaweb.gsfc.nasa.gov/WebServices/)
 
 ## National Science Foundation
 * [Application Submission Web Services](http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_asws)
