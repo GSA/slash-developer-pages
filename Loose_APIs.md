@@ -194,7 +194,7 @@
 * [ScienceBase API](https://www.sciencebase.gov/confluence/display/sciencebase/ScienceBase+Item+Services)
 * [Streamstats web services](http://streamstatsags.cr.usgs.gov/webservices/wsui.htm)
 * [Water Services](http://waterservices.usgs.gov/)
-* [...more](http://www.programmableweb.com/apis/directory/1?company=USGS), and [this](http://usgovxml.com/dataservice.aspx?ds=DOIBCT)
+* [Many more](https://www.sciencebase.gov/catalog/items?filter0=browseCategory%3DData),  [...and more](http://www.programmableweb.com/apis/directory/1?company=USGS), and [this](http://usgovxml.com/dataservice.aspx?ds=DOIBCT)
 
 ## National Park Service
 * [NPMap API](http://www.nps.gov/npmap/support/api.html)
