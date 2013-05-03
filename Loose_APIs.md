@@ -191,6 +191,7 @@
 
 ## US Geological Survey
 * [Eastern Geographic Science Center Map Web Services](http://sscweb.gsfc.nasa.gov/WebServices/)
+* [ScienceBase API](https://www.sciencebase.gov/confluence/display/sciencebase/ScienceBase+Item+Services)
 * [Streamstats web services](http://streamstatsags.cr.usgs.gov/webservices/wsui.htm)
 * [Water Services](http://waterservices.usgs.gov/)
 * [...more](http://www.programmableweb.com/apis/directory/1?company=USGS), and [this](http://usgovxml.com/dataservice.aspx?ds=DOIBCT)
