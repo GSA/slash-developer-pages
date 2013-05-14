@@ -177,13 +177,22 @@
 
 ## Bureau of Land Management
 * [Geocommunicator](http://www.blm.gov/nils/GeoComm/home_services.html)
-* [Geocommunicator Map Services](http://www.geocommunicator.gov/GeoComm/services.htm)
+* [Geocommunicator Map and Web Services](http://www.geocommunicator.gov/GeoComm/services.htm)
+* [General Land Office Web Services](http://www.glorecords.blm.gov/WebServices/glorecords.asmx)
+* [Landscape ARCGIS Server](http://www.landscape.blm.gov/ArcGIS/rest/services)
 * [more](http://usgovxml.com/dataservice.aspx?ds=VOLOPTS)
+
+
+##Bureau of Ocean Energy Management
+* [BOEM ARCGIS Server](http://gis.boemre.gov/arcgis/sdk/rest/)
+
 
 ## Fish and Wildlife Service
 * [Environmental Conservation Online System web services](http://ecos.fws.gov/tat_services/)
+* [Fish & Wildlife Service ARCGIS Service](http://gis.fws.gov/arcgis/)
 * [Critical Habitat Portal](http://criticalhabitat.fws.gov/)
 * [more](http://usgovxml.com/dataservice.aspx?ds=Proximity)
+
 
 ## National Park Service
 * [ArcGIS Server REST API](http://mapservices.nps.gov/arcgis/sdk/rest/index.html?query.html)
@@ -191,13 +200,23 @@
 
 ## US Geological Survey
 * [Eastern Geographic Science Center Map Web Services](http://sscweb.gsfc.nasa.gov/WebServices/)
+* [Grand Canyon Monitoring and Research Center](http://www.gcmrc.gov/WebService.asmx)
+* [Map-A-Planet: Web Map Service](http://www.mapaplanet.gov/explorer/help/wmsUserDoc.html)
+* [National Atlas Web Map Services](http://nationalatlas.gov/infodocs/webservices.html)
+* [NationalMap.gov Web Services](http://services.nationalmap.gov/)
 * [ScienceBase API](https://www.sciencebase.gov/confluence/display/sciencebase/ScienceBase+Item+Services)
 * [Streamstats web services](http://streamstatsags.cr.usgs.gov/webservices/wsui.htm)
+* [Water Quality Portal Web Services](http://www.waterqualitydata.us/webservices_documentation.jsp)
 * [Water Services](http://waterservices.usgs.gov/)
 * [Many more](https://www.sciencebase.gov/catalog/items?filter0=browseCategory%3DData),  [...and more](http://www.programmableweb.com/apis/directory/1?company=USGS), and [this](http://usgovxml.com/dataservice.aspx?ds=DOIBCT)
 
+
 ## National Park Service
 * [NPMap API](http://www.nps.gov/npmap/support/api.html)
+
+##OFFICE OF SURFACE MINING RECLAMATION AND ENFORCEMENT
+* [OSMRE ARCGIS Server](http://geomine.osmre.gov/ArcGIS/rest)
+
 
 # Department of Justice
 
