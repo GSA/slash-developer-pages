@@ -4,21 +4,22 @@
 # Executive Office of the President
 
 ## White House
-* [Policy Snapshots JSON Feed](http://www.whitehouse.gov/developers/policy-snapshots-json-feed)
+* [Policy Snapshots](http://www.whitehouse.gov/developers/policy-snapshots-json-feed)
 * [We The People API](https://petitions.whitehouse.gov/developers)
 
 ## Office of Management and Budget
-* [ITDashboard.gov](http://www.itdashboard.gov/data_feeds)
-* [Performance.gov Permits API](http://permits.performance.gov/developers-api)
-* [USASpending.gov APIs](http://www.usaspending.gov/data?tab=API)
+* [Performance.gov Permits Developers API](http://permits.performance.gov/developers-api)
+* [USASpending.gov API](http://www.usaspending.gov/data?tab=API)
 
 # Department of Agriculture
+
+## Agricultural Marketing Service
+* [Farmers Market Directory API](http://search.ams.usda.gov/farmersmarkets/v1/svcdesc.html)
 
 ## Animal and Plant Health Inspection Service
 * [Animal Identification Management System](https://nais.aphis.usda.gov/ainmngt/HelpGetAnonymous.do)
 
 ## Economic Research Service
-* [Food consumption data (inactive?)](http://www.programmableweb.com/api/ersusda-per-capita-food-availability-data)
 * [Content API](http://ers.usda.gov/developer/website-content-api.aspx)
 
 ## Farm Service Agency
@@ -37,15 +38,15 @@
 # Department of Commerce
 
 ## Bureau of Economic Analysis
-* []()
+* [Data API](http://www.bea.gov/API/)
 
 ## Census Bureau
 * [Census Bureau APIs](http://www.census.gov/developers/)
-* [Automated Export System](http://www.aesdirect.gov/developers)
+* [Automated Export System AESWebLink Submission API](http://www.aesdirect.gov/developers)
+* [Automated Export System AESWebLink Inquiry API](http://www.aesdirect.gov/developers)
 
 ## National Institute of Standards and Technology
 * [CDA Guideline Validation Tool](http://xreg2.nist.gov/cda-validation/webservice.html)
-* (more deep within site...)
 
 ## National Oceanic and Atmospheric Administration
 * [Meteorological Assimilation Data Ingest System](http://madis.noaa.gov/madis_api.html)
@@ -64,7 +65,6 @@
 
 ## Patent and Trademark Office
 * [Trademark Status & Document Retrieval](http://tsdr.uspto.gov/)
-* [more](http://usgovxml.com/dataservice.aspx?ds=USPTOPABD)
 
 # Department of Defense
 * [IUID Registry API](http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html)
@@ -86,12 +86,15 @@
 
 # Department of Energy
 * [Several](http://www.energy.gov/developers)
-* [more](http://usgovxml.com/dataservice.aspx?ds=AOB)
 
 ## Energy Information Administration
-* [Several](http://www.eia.gov/developer/)
+* [Energy Information Administration API](http://www.eia.gov/developer/)
 
 ## National Renewable Energy Laboratory
+* []()
+* []()
+* []()
+* []()
 * [Several](developer.nrel.gov)
 
 ## Lawrence Berkeley National Laboratory
@@ -357,6 +360,9 @@
 * Health Indicator Warehouse
 * NIEM?
 * Recovery.gov
+* Export.gov
+* 
+
 
 * [Integrated Taxonomic Information System](http://www.itis.gov/ws_description.html)
 * [Federal Financial Institutions Examination Council - Central Data Repository](https://cdr.ffiec.gov/public/PWS/Default.aspx)
