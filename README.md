@@ -4,7 +4,7 @@ More and more .gov developer hubs are also linking to each other in the fashion 
 
 ==========================
 
-
+* [White House](http://www.whitehouse.gov/developers)
 * [Department of Agriculture](http://www.usda.gov/developers)
 * [Department of Commerce](http://www.commerce.gov/developer)
 * [Department of Defense](http://www.defense.gov/developer/)
@@ -22,7 +22,7 @@ More and more .gov developer hubs are also linking to each other in the fashion 
 * [Department of Veterans Affairs](http://www.va.gov/developer)
 * [Bureau of Economic Analysis](http://www.bea.gov/api)
 * [Census Bureau](http://www.census.gov/developers/)
-* [Centers for Medicare &amp; Medicaid Services](http://data.cms.gov/)
+  * [Centers for Medicare &amp; Medicaid Services](http://data.cms.gov/)
 * [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/developers/)
 * [Consumer Product Safety Commission](http://www.cpsc.gov/en/Recalls/CPSC-Recalls-Application-Program-Interface-API-Information/)
 * [Economic Research Service](http://www.ers.usda.gov/developer.aspx)
@@ -53,7 +53,6 @@ More and more .gov developer hubs are also linking to each other in the fashion 
 * [Substance Abuse &amp; Mental Health Services Administration](http://store.samhsa.gov/developer)
 * [U.S. Agency for International Development](http://www.usaid.gov/developer)
 * [U.S. Geological Survey](http://data.usgs.gov/)
-* [White House](http://www.whitehouse.gov/developers)
 * [BusinessUSA](http://business.usa.gov/apis)
 * [Commerce - Automated Export System](http://www.aesdirect.gov/developers)
 * [Data.gov](http://developer.data.gov)
