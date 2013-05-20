@@ -91,20 +91,29 @@
 * [Energy Information Administration API](http://www.eia.gov/developer/)
 
 ## National Renewable Energy Laboratory
-* []()
-* []()
-* []()
-* []()
-* [Several](developer.nrel.gov)
+* [Building Components Library](https://bcl.nrel.gov/developer)
+* [Electricity APIs](http://developer.nrel.gov/doc/electricity)
+* [Solar APIs](http://developer.nrel.gov/doc/solar)
+* [Alternative Fuel Stations](http://developer.nrel.gov/doc/alt-fuel-stations-v1)
 
 ## Lawrence Berkeley National Laboratory
 * [National Energy Research Scientific Computing Center's NEWT](https://newt.nersc.gov/)
-* [Buildings API](https://developers.buildingsapi.lbl.gov/)
+* [Buildings APIs](https://developers.buildingsapi.lbl.gov/)
 * [Home Energy Saver](http://homeenergysaver.lbl.gov/consumer/licensing)
 * [Colt API](http://acs.lbl.gov/software/colt/)
 
 ## Office of Scientific & Technical Information
-* []()
+* [Conference Information](http://www.osti.gov/XMLServices)
+* [DOepatents Database Data](http://www.osti.gov/XMLServices)
+* [DOE Data Explorer](http://www.osti.gov/XMLServices)
+* [Energy Citations Database Data](http://www.osti.gov/XMLServices)
+* [FreedomCAR/FCVT Data](http://www.osti.gov/XMLServices)
+* [Geothermal/Geothermal Legacy Data](http://www.osti.gov/XMLServices)
+* [Green Energy Data Service](http://www.osti.gov/XMLServices)
+* [Hydropower Data](http://www.osti.gov/XMLServices)
+* [Information Bridge Data](http://www.osti.gov/XMLServices)
+* [R&D Accomplishments](http://www.osti.gov/XMLServices)
+* [SciTech Connect Data](http://www.osti.gov/XMLServices)
 
 # Department of Health and Human Services
 * [Several](http://healthdata.gov/dataset/search?f[0]=sm_ckan_media_format%3AAPI)
@@ -172,16 +181,14 @@
 * [National Terrorism Advisory System](http://www.dhs.gov/ntas-api-documentation)
 
 ## Coast Guard
-* [more](http://usgovxml.com/dataservice.aspx?ds=CGMIXED)
 
 ## Federal Emergency Management Agency
 * [FEMA Enterprise GIS Services](http://gis.fema.gov/)
-* [more](http://usgovxml.com/dataservice.aspx?ds=DMOPEN)
 
 # Department of Housing and Urban Development
-* [IMAX system](http://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/mfh/trx/trxdocs)
 * [ArcGIS Services](http://egis.hud.gov/ArcGIS/rest/services)
-* [Housing Counseling Information](http://usgovxml.com/dataservice.aspx?ds=HCSARM)
+* [Housing Counseling Information](http://data.hud.gov/housing_counseling.html)
+* [IMAX system](http://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/mfh/trx/trxdocs)
 
 # Department of the Interior
 
@@ -190,16 +197,14 @@
 * [Geocommunicator Map and Web Services](http://www.geocommunicator.gov/GeoComm/services.htm)
 * [General Land Office Web Services](http://www.glorecords.blm.gov/WebServices/glorecords.asmx)
 * [Landscape ARCGIS Server](http://www.landscape.blm.gov/ArcGIS/rest/services)
-* [more](http://usgovxml.com/dataservice.aspx?ds=VOLOPTS)
 
 ##Bureau of Ocean Energy Management
 * [BOEM ARCGIS Server](http://gis.boemre.gov/arcgis/sdk/rest/)
 
 ## Fish and Wildlife Service
+* [Critical Habitat Portal](http://criticalhabitat.fws.gov/)
 * [Environmental Conservation Online System web services](http://ecos.fws.gov/tat_services/)
 * [Fish & Wildlife Service ARCGIS Service](http://gis.fws.gov/arcgis/)
-* [Critical Habitat Portal](http://criticalhabitat.fws.gov/)
-* [more](http://usgovxml.com/dataservice.aspx?ds=Proximity)
 
 ## National Park Service
 * [ArcGIS Server REST API](http://mapservices.nps.gov/arcgis/sdk/rest/index.html?query.html)
@@ -212,57 +217,63 @@
 * [National Atlas Web Map Services](http://nationalatlas.gov/infodocs/webservices.html)
 * [NationalMap.gov Web Services](http://services.nationalmap.gov/)
 * [ScienceBase API](https://www.sciencebase.gov/confluence/display/sciencebase/ScienceBase+Item+Services)
+* [ScienceBase Web Services](https://www.sciencebase.gov/catalog/items?filter0=browseCategory%3DData)
 * [Streamstats web services](http://streamstatsags.cr.usgs.gov/webservices/wsui.htm)
 * [Water Quality Portal Web Services](http://www.waterqualitydata.us/webservices_documentation.jsp)
 * [Water Services](http://waterservices.usgs.gov/)
-* [Many more](https://www.sciencebase.gov/catalog/items?filter0=browseCategory%3DData),  [...and more](http://www.programmableweb.com/apis/directory/1?company=USGS), and [this](http://usgovxml.com/dataservice.aspx?ds=DOIBCT)
-
-## National Park Service
-* [NPMap API](http://www.nps.gov/npmap/support/api.html)
 
 ##Office of Surface Mining Reclamation and Enforcement
 * [OSMRE ARCGIS Server](http://geomine.osmre.gov/ArcGIS/rest)
 
 # Department of Justice
 
+## Bureau of Justice Statistics
+* [National Crime Victimization Survey API](http://www.bjs.gov/developer/ncvs/index.cfm)
+
 ## Drug Enforcement Agency
 * [E-Commerce API](http://www.deaecom.gov/developer.html)
 
 # Department of Labor
-* [Several](http://developer.dol.gov)
+* [Developer.DOL.gov APIs](http://developer.dol.gov)
 
 # Department of State
-
-
-## Office of the Historian
-* []()
+* [Foreign Per Diem Rates API](https://explore.data.gov/developers/docs/foreign-per-diem-rates-by-location)
+* [Office of the Historian eBook Catalog API](http://history.state.gov/developer/catalog)
 
 # Department of Transportation
 
 ## Federal Aviation Administration
-* [Airport Status](http://services.faa.gov/)
-* [more](http://usgovxml.com/dataservice.aspx?ds=FNS)
+* [Airport Status](http://services.faa.gov/docs/services/airport/)
 
 ## Federal Railroad Administration
-* [Rail Equipment Accident/Incident Report (Form 54) API](https://safetydata.fra.dot.gov/MasterWebService/FRASafetyDataAPIs.aspx)
-* [Highway-Rail Grade Crossing Accident/Incident Report (Form 57) API](https://safetydata.fra.dot.gov/MasterWebService/FRASafetyDataAPIs.aspx)
-* [more](https://safetydata.fra.dot.gov/MASTERWEBSERVICE/)?
+* [Highway-Rail Grade Crossing Accident/Incident Report (Form 57) API](https://safetydata.fra.dot.gov/MASTERWEBSERVICE/DatadownloadService.asmx?op=GetAccident57DataByRailroad)
+* [Rail Equipment Accident/Incident Report (Form 54) API](https://safetydata.fra.dot.gov/MASTERWEBSERVICE/DatadownloadService.asmx?op=GetAccident54DataByRailroad)
 
 ## Federal Motor Carrier Safety Administration
-* [SaferBus](https://mobile.fmcsa.dot.gov/developer/home.page)
+* [SaferBus](https://mobile.fmcsa.dot.gov/developer/apidoc.page?cid=48)
 
 ## National Highway Traffic Safety Administration
-* [Several](http://www.nhtsa.gov/webapi/Default.aspx)
+* [Child Safety Seat Inspection Station Locator API](http://www.nhtsa.gov/webapi/Default.aspx?CSSIStations/API/80)
+* [Civil Penalty Payments API](http://www.nhtsa.gov/webapi/Default.aspx?CivilPenalties/API/251)
+* [New Car Assessment Program - 5 Star Safety Ratings API](http://www.nhtsa.gov/webapi/Default.aspx?SafetyRatings/API/5)
+* [Office of Defects Investigation Complaints API](http://www.nhtsa.gov/webapi/Default.aspx?Complaints/API/81)
+* [Office of Defects Investigation Recalls](http://www.nhtsa.gov/webapi/Default.aspx?Recalls/API/83)
 
 # Department of the Treasury
 
 ## Bureau of Engraving and Printing
-* []()
+* [Annual Currency Production by Denomination API](https://explore.data.gov/developers/docs/annual-production-figures-of-united-states-currency)
 
 ## Internal Revenue Service
-* []()
+* [SOI County-to-County Outflow Migration Data API](https://explore.data.gov/developers/docs/irs-county-to-county-annual-migration-data-outflow-2004-2010)
+* [SOI County-to-County Inflow Migration Data API](https://explore.data.gov/developers/docs/irs-county-to-county-annual-migration-data-inflow-2004-2010)
 
 # Department of Veterans Affairs
+* [Email Utilities API](http://www1.va.gov/webservices/email/documentation/utilities.cfm)
+* [Nationwide Gravesite Locations API](https://explore.data.gov/developers/docs/veterans-burial-sites)
+* [Posttraumatic Stress Disorder Programs API](http://www.va.gov/webservices/PTSD/documentation/PTSD.cfm)
+* [Press Release API](http://www.va.gov/webservices/press/documentation/releases.cfm)
+* [VA Facilities API](http://www1.va.gov/webservices/fandl/documentation/fandl.cfm)
 * [VetSuccess API](http://www.vetsuccess.gov/assets/VetSuccess-Web_Service_Integration_Manual.pdf)
 
 --------------------------
