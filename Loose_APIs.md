@@ -5,6 +5,7 @@
 
 ## White House
 * [Policy Snapshots JSON Feed](http://www.whitehouse.gov/developers/policy-snapshots-json-feed)
+* [We The People API](https://petitions.whitehouse.gov/developers)
 
 ## Office of Management and Budget
 * [ITDashboard.gov](http://www.itdashboard.gov/data_feeds)
