@@ -218,7 +218,7 @@ em {
 
 table {
   width: 100%;
-  border: 1px solid #ebebeb;
+  border: 0px solid #ebebeb;
 }
 
 th {
@@ -227,7 +227,7 @@ th {
 
 td {
   border: 1px solid #ebebeb;
-  text-align: center; 
+  text-align: left; 
   font-weight: 300;
 }
 
