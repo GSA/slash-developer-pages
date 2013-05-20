@@ -36,6 +36,9 @@
 
 # Department of Commerce
 
+## Bureau of Economic Analysis
+* []()
+
 ## Census Bureau
 * [Census Bureau APIs](http://www.census.gov/developers/)
 * [Automated Export System](http://www.aesdirect.gov/developers)
@@ -97,6 +100,9 @@
 * [Home Energy Saver](http://homeenergysaver.lbl.gov/consumer/licensing)
 * [Colt API](http://acs.lbl.gov/software/colt/)
 
+## Office of Scientific & Technical Information
+* []()
+
 # Department of Health and Human Services
 * [Several](http://healthdata.gov/dataset/search?f[0]=sm_ckan_media_format%3AAPI)
 * [AIDS.gov HIV/AIDS Service Provider Locator API](http://locator.aids.gov/data-how-to.html)
@@ -115,6 +121,7 @@
 
 ## Centers for Medicare & Medicaid Services
 * [Several](http://data.cms.gov/)
+* [Medicare.gov](http://data.medicare.gov)
 
 ## Centers for Disease Control
 * [Wonder Data](http://wonder.cdc.gov/wonder/help/WONDER-API.html)
@@ -138,7 +145,6 @@
 * [caIntegrator](http://caintegrator-info.nci.nih.gov/developers/)
 * [Cancer.gov SEER API](https://api.seer.cancer.gov/home.do)
 * [Biological DataBase Network web services](http://biodbnet.abcc.ncifcrf.gov/webServices/)
-
 
 ### National Institute of Allergy and Infectious Diseases
 * [Content API](http://tools.niaid.nih.gov/register/api.aspx)
@@ -183,17 +189,14 @@
 * [Landscape ARCGIS Server](http://www.landscape.blm.gov/ArcGIS/rest/services)
 * [more](http://usgovxml.com/dataservice.aspx?ds=VOLOPTS)
 
-
 ##Bureau of Ocean Energy Management
 * [BOEM ARCGIS Server](http://gis.boemre.gov/arcgis/sdk/rest/)
-
 
 ## Fish and Wildlife Service
 * [Environmental Conservation Online System web services](http://ecos.fws.gov/tat_services/)
 * [Fish & Wildlife Service ARCGIS Service](http://gis.fws.gov/arcgis/)
 * [Critical Habitat Portal](http://criticalhabitat.fws.gov/)
 * [more](http://usgovxml.com/dataservice.aspx?ds=Proximity)
-
 
 ## National Park Service
 * [ArcGIS Server REST API](http://mapservices.nps.gov/arcgis/sdk/rest/index.html?query.html)
@@ -211,13 +214,11 @@
 * [Water Services](http://waterservices.usgs.gov/)
 * [Many more](https://www.sciencebase.gov/catalog/items?filter0=browseCategory%3DData),  [...and more](http://www.programmableweb.com/apis/directory/1?company=USGS), and [this](http://usgovxml.com/dataservice.aspx?ds=DOIBCT)
 
-
 ## National Park Service
 * [NPMap API](http://www.nps.gov/npmap/support/api.html)
 
-##OFFICE OF SURFACE MINING RECLAMATION AND ENFORCEMENT
+##Office of Surface Mining Reclamation and Enforcement
 * [OSMRE ARCGIS Server](http://geomine.osmre.gov/ArcGIS/rest)
-
 
 # Department of Justice
 
@@ -228,6 +229,10 @@
 * [Several](http://developer.dol.gov)
 
 # Department of State
+
+
+## Office of the Historian
+* []()
 
 # Department of Transportation
 
@@ -248,12 +253,16 @@
 
 # Department of the Treasury
 
+## Bureau of Engraving and Printing
+* []()
+
+## Internal Revenue Service
+* []()
+
 # Department of Veterans Affairs
 * [VetSuccess API](http://www.vetsuccess.gov/assets/VetSuccess-Web_Service_Integration_Manual.pdf)
 
-
 --------------------------
-
 # Other Agencies and Government Corporations
 
 ## Consumer Financial Protection Bureau
@@ -270,14 +279,15 @@
 * [EnergyStar ABS](http://www.energystar.gov/index.cfm?c=spp_res.pt_host_preview_doc)
 * [EnergyStar 3rd-Party Certification](http://www.energystar.gov/index.cfm?c=third_party_certification.tpc_xml_forms)
 * [EnergyStar Portfolio APIs](http://portfoliomanager.energystar.gov/webservices)
+* [Regulations.gov](http://www.regulations.gov/#!developers)
 * [more](http://usgovxml.com/dataservice.aspx?ds=ENVFACTS)?
 
 ## Federal Communications Commission
 * [Several](http://www.fcc.gov/developer)
 * [National Broadband Map APIs](http://www.broadbandmap.gov/developer/)
 
-## Federal Reserve
-* Federal Register API - [FRED](http://www.federalregister.gov/blog/learn/developers)
+## Federal Register
+* [Federal Register API](http://www.federalregister.gov/blog/learn/developers)
 
 ## Federal Reserve
 * Federal Reserve Bank of St. Louis - [FRED](http://research.stlouisfed.org/fred2), ALFRED
@@ -291,7 +301,10 @@
 * [Federal Procurement Data System - FAADS API](https://www.fpds.gov/downloads/FAADS/FAADS-Specifications-WebServices_Integration_Specifications_V2.doc)
 * [Go.USA.gov](http://go.usa.gov/api)
 * [Jobscenter](http://jobcenter.usa.gov/apis)
+* [My.USA.gov](My.USA.gov/developer)
+* [USA.gov](http://www.usa.gov/developer)
 * [USA.gov Featured Content](http://answers.usa.gov/system/egss_json.jsp?jsoncallback=)
+* [USASearch](http://usasearch.howto.gov/developer/)
 
 ## International Trade Commission 
 * [ITC Documents](https://edis.usitc.gov/edis3-external/app)
@@ -304,8 +317,17 @@
 * [Satellite Situation Center API](http://sscweb.gsfc.nasa.gov/WebServices/)
 * [Coordinated Data Analysis System (CDAS) Web services](http://cdaweb.gsfc.nasa.gov/WebServices/)
 
+## National Archives & Records Administration
+* []()
+
 ## National Science Foundation
 * [Application Submission Web Services](http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_asws)
+
+## Nuclear Regulatory Commission
+* []()
+
+## Office of Personnel Management
+* []()
 
 ## Small Business Administration
 * [Several](http://www.sba.gov/api/)
@@ -327,7 +349,14 @@
 
 --------------------------
 
-# Other Programs
+# Programs
+
+
+* FOIA.gov
+* FuelEconomy.gov
+* Health Indicator Warehouse
+* NIEM?
+* Recovery.gov
 
 * [Integrated Taxonomic Information System](http://www.itis.gov/ws_description.html)
 * [Federal Financial Institutions Examination Council - Central Data Repository](https://cdr.ffiec.gov/public/PWS/Default.aspx)
