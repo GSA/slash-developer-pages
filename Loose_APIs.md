@@ -57,6 +57,7 @@
 * [National Digital Forecast Database SOAP Web Service](http://graphical.weather.gov/xml/)
 * [National Climatatic Data Center Climate Data Online Web Services Web Services](http://www.ncdc.noaa.gov/cdo-web/webservices)
 * [General National Climatatic Data Center THREDDS Data Server](http://www.ncdc.noaa.gov/thredds)
+* [National Climatatic Data Center NOMADS THREDDS Data Server](http://nomads.ncdc.noaa.gov/thredds)
 * [GIS Map Services](http://gis.ncdc.noaa.gov/)
 * [Legacy National Climatatic Data Center RESTful Services](http://www7.ncdc.noaa.gov/rest/)
 * [Ocean Service's nowCOAST's Map Services](http://nowcoast.noaa.gov/help/mapservices.shtml?name=mapservices)
@@ -85,7 +86,6 @@
 * [Several](http://www.ed.gov/developers)
 
 # Department of Energy
-* [Several](http://www.energy.gov/developers)
 
 ## Energy Information Administration
 * [Energy Information Administration API](http://www.eia.gov/developer/)
@@ -116,35 +116,44 @@
 * [SciTech Connect Data](http://www.osti.gov/XMLServices)
 
 # Department of Health and Human Services
-* [Several](http://healthdata.gov/dataset/search?f[0]=sm_ckan_media_format%3AAPI)
-* [AIDS.gov HIV/AIDS Service Provider Locator API](http://locator.aids.gov/data-how-to.html)
-* [Content API](https://syndication.hhs.gov/storefront/apiDoc)
-* [Finder.Healthcare.gov](http://finder.healthcare.gov/services)
-* [more](http://usgovxml.com/dataservice.aspx?ds=CABIO)
+* [HIV/AIDS Service Provider Locator API](http://locator.aids.gov/data-how-to.html)
+* [Content Syndication API](https://syndication.hhs.gov/storefront/apiDoc)
+* [Health Indicators Warehouse API](http://healthindicators.gov/Developers/)
+* [Health Topics A-to-Z API](http://healthfinder.gov/developer/How_to_Use.aspx)
+* [Healthcare Finder API](http://finder.healthcare.gov/services)
+* [HealthData.gov Catalog API](http://healthdata.gov/catalog-api)
+* [HealthData.gov Data API](http://healthdata.gov/data-api)
 
 ## Agency for Healthcare Research and Quality
 * [Meaningful Use API](http://ushik.ahrq.gov/help/MeaningfulUse/api?system=mu)
 
 ## Administration on Aging
-* [Eldercare.gov](http://eldercare.gov/Eldercare.NET/Public/Site_Utilities/API_Reg/API_Registration.aspx)
+* [Eldercare.gov Locator API](http://eldercare.gov/Eldercare.NET/Public/Site_Utilities/API_Reg/API_Registration.aspx)
 
 ## Administration for Children and Families
 * [AChecker Web Service](https://achecker.grantsolutions.gov/documentation/web_service_api.php)
 
 ## Centers for Medicare & Medicaid Services
-* [Several](http://data.cms.gov/)
-* [Medicare.gov](http://data.medicare.gov)
+* [Healthcare Associated Infections API](https://data.medicare.gov/developers/docs/healthcare-associated-infections)
+* [Inpatient Prospective Payment System (IPPS) Provider Summary for the Top 100 Diagnosis-Related Groups (DRG)](https://data.cms.gov/developers/docs/inpatient-charge-data-FY2011)
+* [Nursing Home Compare - Provider Ratings API](https://data.medicare.gov/developers/docs/nursing-home-compare-provider-ratings)
+* [Spending Breakdown by Claim API](https://data.medicare.gov/developers/docs/spending-breakdown-by-claim)
 
 ## Centers for Disease Control
-* [Wonder Data](http://wonder.cdc.gov/wonder/help/WONDER-API.html)
 * [Content API](https://tools.cdc.gov/syndication/api.aspx)
-* [PHIN VADS API](https://phinvads.cdc.gov/vads/developersGuide.action)
+* [Health Indicators Warehouse API](http://healthindicators.gov/Developers/)
+* [Public Health Infomation Network Vocabulary Access and Distribution System API](https://phinvads.cdc.gov/vads/developersGuide.action)
+* [Wonder Data](http://wonder.cdc.gov/wonder/help/WONDER-API.html)
 
 ## Food and Drug Administration
 * [Tobacco Content API](http://tools.fda.gov/CSStorefront/api.aspx)
 
 ## Health Resources and Services Administration
-* [Data Warehouse Data Web Service](http://datawarehouse.hrsa.gov/webServices_NEW.aspx)
+* [Ryan White HIV/AIDS Medical Care Providers API](http://datawarehouse.hrsa.gov/HDWDataServiceExternal/HdwDataWebServiceExternal.asmx?op=FindHIVAIDSCareProvidersAroundALocation)
+* [Health Centers Location API](http://datawarehouse.hrsa.gov/HDWDataServiceExternal/HdwDataWebServiceExternal.asmx?op=FindHealthCentersAroundALocation)
+* [Health Centers Area API](http://datawarehouse.hrsa.gov/HDWDataServiceExternal/HdwDataWebServiceExternal.asmx?op=FindHealthCentersByArea)
+* [Infant Mortality API](http://datawarehouse.hrsa.gov/HDWDataServiceExternal/HdwDataWebServiceExternal.asmx?op=FindInfantMortalityByFIPSCode)
+* [Infant Mortality 2 API](http://datawarehouse.hrsa.gov/HDWDataServiceExternal/HdwDataWebServiceExternal.asmx?op=FindInfantMortalityByFIPSCodeInXmlDoc)
 * [Data Warehouse Online Map Service](http://datawarehouse.hrsa.gov/HGDWFeatureService.aspx)
 
 ## Indian Health Service
@@ -155,8 +164,8 @@
 
 ### National Cancer Insitute
 * [caIntegrator](http://caintegrator-info.nci.nih.gov/developers/)
-* [Cancer.gov SEER API](https://api.seer.cancer.gov/home.do)
-* [Biological DataBase Network web services](http://biodbnet.abcc.ncifcrf.gov/webServices/)
+* [Cancer.gov Surveillance, Epidemiology, and End Results API](https://api.seer.cancer.gov/home.do)
+* [Biological DataBase Network Web Services](http://biodbnet.abcc.ncifcrf.gov/webServices/)
 
 ### National Institute of Allergy and Infectious Diseases
 * [Content API](http://tools.niaid.nih.gov/register/api.aspx)
@@ -169,13 +178,36 @@
 * [Research Services Branch's Developer Resources](http://rsb.info.nih.gov/ij/developer/)
 
 ### National Library of Medicine
-* [Several](http://www.nlm.nih.gov/api/)
-* [ND-RFT API](http://rxnav.nlm.nih.gov/NdfrtAPI.html)
+* [AIDSinfo API](http://aidsinfo.nih.gov/api)
+* [Basic Local Alignment Search Tool API](http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=DeveloperInfo)
+* [ChemSpell API](http://chemspell.nlm.nih.gov/spell/)
+* [ClinicalTrials.gov API](http://clinicaltrials.gov/ct2/info/linking)
+* [DailyMed API](http://dailymed.nlm.nih.gov/dailymed/help.cfm)
+* [Digital Collections Web Service](http://collections.nlm.nih.gov/web_service.html)
+* [Directory of Information Resources Online API](http://dirline.nlm.nih.gov/dirlineapi/DIRLINEWebService.html)
+* [Entrez Programming Utilities API](http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=helpeutils)
+* [Genetics Home Reference API](http://ghr.nlm.nih.gov/LinkingTo)
+* [MedlinePlus Connect API](http://www.nlm.nih.gov/medlineplus/connect/service.html)
+* [MedlinePlus Health Topics API](http://www.nlm.nih.gov/medlineplus/webservices.html)
+* [MetaMap API](http://metamap.nlm.nih.gov/#MetaMapJavaApi)
+* [National Drug File-Reference Terminology API](http://rxnav.nlm.nih.gov/NdfrtAPI.html)
+* [Pillbox API](http://pillbox.nlm.nih.gov/API-documentation.html)
+* [PubChem Power User Gateway API](http://pubchem.ncbi.nlm.nih.gov/pug/pughelp.html)
+* [RxMix API](http://mor.nlm.nih.gov/RxMix/)
+* [RxNorm API](http://rxnav.nlm.nih.gov/RxNormAPI.html)
+* [RxTerms API](http://rxnav.nlm.nih.gov/RxTermsAPI.html)
+* [Semantic Knowledge Representation API](http://skr.nlm.nih.gov/SKR_API/)
+* [TOXNET API](http://toxnet.nlm.nih.gov/toxnetapi/TOXNETWebService.html)
+* [Unified Medical Language System (UMLS) Terminology Services API](https://uts.nlm.nih.gov/home.html#apidocumentation)
+* [Value Set Authority Center (VSAC) API](https://vsac.nlm.nih.gov/)
+* [Voyager API](http://www.nlm.nih.gov/services/lpz3950.html)
 
 ## Substance Abuse and Mental Health Services Administration
-* [Several](http://store.samhsa.gov/developer)
+* [Content Repository APIs](http://store.samhsa.gov/developer)
+* [RecoveryMonth.gov web services](http://recoverymonth.gov/webservices/events.asmx)
+* [Store Developer APIs](http://store.samhsa.gov/developer)
+
 * [Information Tools](https://info.samhsa.gov/), [Documentation](http://info.samhsa.gov/api/docs)
-* [RecoveryMonth.gov web services](recoverymonth.gov/webservices/events.asmx)
 
 # Department of Homeland Security
 * [National Terrorism Advisory System](http://www.dhs.gov/ntas-api-documentation)
@@ -193,10 +225,22 @@
 # Department of the Interior
 
 ## Bureau of Land Management
-* [Geocommunicator](http://www.blm.gov/nils/GeoComm/home_services.html)
-* [Geocommunicator Map and Web Services](http://www.geocommunicator.gov/GeoComm/services.htm)
+* [Areas of Critical Environmental Concern ARCGIS Server](http://www.geocommunicator.gov/ARCGIS/REST/services/ACEC/MapServer)
+* [Administrative Areas ARCGIS Server](http://www.geocommunicator.gov/ARCGIS/REST/services/Basemaps/MapServer)
+* [Geocommunicator Map Services](http://www.blm.gov/nils/GeoComm/home_services.html#Map)
 * [General Land Office Web Services](http://www.glorecords.blm.gov/WebServices/glorecords.asmx)
+* [Land Description Services](http://www.blm.gov/nils/GeoComm/home_services.html#Data)
 * [Landscape ARCGIS Server](http://www.landscape.blm.gov/ArcGIS/rest/services)
+* [Oil and Gas Lease Sale Parcels ARCGIS Server](http://www.geocommunicator.gov/ARCGIS/REST/services/Oil_Gas/MapServer)
+* [Public Land Survey System ARCGIS Server](http://www.geocommunicator.gov/ARCGIS/REST/services/PLSS/MapServer)
+* [Rangeland ARCGIS Server](http://www.geocommunicator.gov/ARCGIS/REST/services/Rangeland/MapServer)
+* [Right-of-Way ARCGIS Server](http://www.geocommunicator.gov/ARCGIS/REST/services/ROW/MapServer)
+* [Solar ARCGIS Server](http://www.geocommunicator.gov/ARCGIS/REST/services/Solar/MapServer)
+* [Surface Management Agency ARCGIS Server](http://www.geocommunicator.gov/ARCGIS/REST/services/SMA/MapServer)
+* [Survey Exporter Service](http://www.blm.gov/nils/GeoComm/home_services.html#Data)
+* [Township Geocoder Service](http://www.blm.gov/nils/GeoComm/home_services.html#Data)
+
+
 
 ##Bureau of Ocean Energy Management
 * [BOEM ARCGIS Server](http://gis.boemre.gov/arcgis/sdk/rest/)
@@ -205,6 +249,7 @@
 * [Critical Habitat Portal](http://criticalhabitat.fws.gov/)
 * [Environmental Conservation Online System web services](http://ecos.fws.gov/tat_services/)
 * [Fish & Wildlife Service ARCGIS Service](http://gis.fws.gov/arcgis/)
+* [Threatened & Endangered Species Query Web Service](http://ecos.fws.gov/tat_services/web/html/TessQuery.html)
 
 ## National Park Service
 * [ArcGIS Server REST API](http://mapservices.nps.gov/arcgis/sdk/rest/index.html?query.html)
