@@ -63,7 +63,7 @@ More and more .gov developer hubs are also linking to each other in the fashion 
   * [Commerce - Automated Export System](http://www.aesdirect.gov/developers)
   * [Data.gov](http://developer.data.gov)
   * [DEA - E-Commerce Program](http://www.deaecom.gov/developer.html)
-  * [EnergyStar.gov](https://data.energystar.gov/)
+  * [EnergyStar.gov](https://data.energystar.gov/developers)
   * [FOIA.gov](http://www.foia.gov/developer.html)
   * [FuelEconomy.gov](http://www.fueleconomy.gov/ws)
   * [HealthData.gov](http://www.healthdata.gov/developer)
