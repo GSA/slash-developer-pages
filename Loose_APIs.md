@@ -283,42 +283,76 @@
 * [Consumer Complaint Database](http://www.consumerfinance.gov/complaintdatabase/)
 
 ## Consumer Product Safety Commission
-* [Several]()
 * [Recalls API](http://www.cpsc.gov/cgibin/CPSCUpcWS/CPSCUpcSvc.asmx)
 * [SaferProducts.gov API](http://www.saferproducts.gov/faq-developers.aspx)
 
 ## Enviromental Protection Agency
-* [Several](www.epa.gov/developer/)
-* [EnergyStar APIs](https://data.energystar.gov/developers)
-* [EnergyStar ABS](http://www.energystar.gov/index.cfm?c=spp_res.pt_host_preview_doc)
-* [EnergyStar 3rd-Party Certification](http://www.energystar.gov/index.cfm?c=third_party_certification.tpc_xml_forms)
-* [EnergyStar Portfolio APIs](http://portfoliomanager.energystar.gov/webservices)
-* [Regulations.gov](http://www.regulations.gov/#!developers)
-* [more](http://usgovxml.com/dataservice.aspx?ds=ENVFACTS)?
+* [Envirofacts API](http://www.epa.gov/developer/ef_api.html)
+* [Environmental Dataset Gateway](https://edg.epa.gov/metadata/catalog/components/components.page)
+* [Energy Star 3rd-Party Certification](http://www.energystar.gov/index.cfm?c=third_party_certification.tpc_xml_forms)
+* [Energy Star Automated Benchmarking System API](http://www.energystar.gov/index.cfm?c=spp_res.pt_host_preview_doc)
+* [Energy Star Certified Cloths Washers](https://data.energystar.gov/developers/docs/energy-star-certified-clothes-washers)
+* [Energy Star Certified Cordless Phones](https://data.energystar.gov/developers/docs/certified-cordless-phones)
+* [Energy Star Certified Residential Dishwashers](https://data.energystar.gov/developers/docs/energy-star-certified-residential-dishwashers)
+* [Energy Star Certified Roof Products](https://data.energystar.gov/developers/docs/energy-star-certified-roof-products)
+* [Energy Star Certified Geothermal Heatpumps](https://data.energystar.gov/developers/docs/energy-star-certified-geothermal-heatpumps)
+* [Energy Star Certified Air Cleaners](https://data.energystar.gov/developers/docs/energy-star-certified-room-air-cleaners)
+* [Energy Star Portfolio Manager Basic Account Services](http://portfoliomanager.energystar.gov/webservices/home/api/account)
+* [Energy Star Portfolio Manager Connection/Share Services](http://portfoliomanager.energystar.gov/webservices/home/api/connection)
+* [Energy Star Portfolio Manager Property Services](http://portfoliomanager.energystar.gov/webservices/home/api/property)
+* [Energy Star Portfolio Manager Building Services](http://portfoliomanager.energystar.gov/webservices/home/api/building)
+* [Energy Star Portfolio Manager Property Use Services](http://portfoliomanager.energystar.gov/webservices/home/api/propertyUse)
+* [Energy Star Portfolio Manager Meter Services](http://portfoliomanager.energystar.gov/webservices/home/api/meter)
+* [Energy Star Portfolio Manager Reporting Services](http://portfoliomanager.energystar.gov/webservices/home/api/reporting)
+* [Energy Star Portfolio Manager Target Finder Services](http://portfoliomanager.energystar.gov/webservices/home/api/targetFinder)
+* [My Right to Know API](http://epa.gov/developer/myRTK.html)
+* [Regulations.gov Document Search API](http://www.regulations.gov/#!developers)
+* [Regulations.gov Document Information API](http://www.regulations.gov/#!developers)
+* [Regulations.gov Docket Information API](http://www.regulations.gov/#!developers)
+* [Reusable Component REST Services](http://iaspub.epa.gov/sor_internet/registry/reusereg/searchandretrieve/search.do?executeSearch=&browseParam=assetTypeList:REST%20Web%20Service)
+* [Ultraviolet Index API](http://www.epa.gov/developer/uv.html)
 
 ## Federal Communications Commission
-* [Several](http://www.fcc.gov/developer)
-* [National Broadband Map APIs](http://www.broadbandmap.gov/developer/)
+* [Low Power FM API](http://www.fcc.gov/developers/lpfm-api)
+* [Section 43.61 API](http://www.fcc.gov/developers/section-4361-api)
+* [Public Inspection Files API](https://stations.fcc.gov/developer/)
+* [Accessibility Clearinghouse API](http://apps.fcc.gov/accessibilityclearinghouse/developers.html)
+* [FCC Census Block Conversions](http://www.fcc.gov/developers/census-block-conversions-api)
+* [FCC Content API](http://www.fcc.gov/developers/fcc-content-api)
+* [FCC Consumer Broadband Test](http://www.fcc.gov/developers/consumer-broadband-test-api)
+* [FCC Form 499 Filer Database API](http://apps.fcc.gov/cgb/form499/docs/index.htm)
+* [FCC Registration Number Conversions](http://www.fcc.gov/developers/frn-conversions-api)
+* [FCC License View](http://www.fcc.gov/developers/license-view-api)
+* [Spectrum Dashboard](http://www.fcc.gov/developers/spectrum-dashboard-api)
+* [Broadband Map APIs](http://broadbandmap.gov/developer)
 
 ## Federal Register
 * [Federal Register API](http://www.federalregister.gov/blog/learn/developers)
 
 ## Federal Reserve
-* Federal Reserve Bank of St. Louis - [FRED](http://research.stlouisfed.org/fred2), ALFRED
+* [Federal Reserve Bank of St. Louis - FRED](http://research.stlouisfed.org/fred2)
 
 ## General Services Administration
-* [Several](http://www.usa.gov/developer)
-* [Per Diem API](http://gsa.gov/portal/content/162379)
 * [BusinessUSA](http://business.usa.gov/apis)
+* [Data Center Consolidation API](https://explore.data.gov/developers/docs/federal-data-center-consolidation-initiative-fdcci-data-center-closings-2010-2013)
 * [FedBizOpps Documentation](https://www.fbo.gov/?s=generalinfo&mode=list&tab=list&tabmode=list&static=documentation)
+* [Federal Agency Directory API](http://www.usa.gov/About/developer-resources/federal-agency-directory/index.shtml)
 * [Federal Procurement Data System - FPDS API](https://www.fpds.gov/downloads/FPDS-Specifications-WebServices_Integration_Specifications_V1.4.doc)
 * [Federal Procurement Data System - FAADS API](https://www.fpds.gov/downloads/FAADS/FAADS-Specifications-WebServices_Integration_Specifications_V2.doc)
+* [Federal Forms API](http://www.usa.gov/About/developer-resources/forms.shtml)
+* [.Gov Domains API](https://explore.data.gov/developers/docs/federal-executive-agency-internet-domains)
 * [Go.USA.gov](http://go.usa.gov/api)
 * [Jobscenter](http://jobcenter.usa.gov/apis)
-* [My.USA.gov](My.USA.gov/developer)
-* [USA.gov](http://www.usa.gov/developer)
+* [Mobile App Gallery API](http://www.usa.gov/About/developer-resources/mobile-app-gallery/index.shtml)
+* [My.USA.gov Profile API](My.USA.gov/developer)
+* [My.USA.gov Tasks API](My.USA.gov/developer)
+* [My.USA.gov Notifications API](My.USA.gov/developer)
+* [Per Diem API](http://gsa.gov/portal/content/162379)
+* [Recalls API](http://usasearch.howto.gov/developer/recalls.html)
+* [Social Media Registry API](http://registry.usa.gov)
 * [USA.gov Featured Content](http://answers.usa.gov/system/egss_json.jsp?jsoncallback=)
-* [USASearch](http://usasearch.howto.gov/developer/)
+* [USAJOBS API](http://usasearch.howto.gov/developer/jobs.html)
+* [USASearch](http://usasearch.howto.gov/manual/api.html)
 
 ## International Trade Commission 
 * [ITC Documents](https://edis.usitc.gov/edis3-external/app)
@@ -327,56 +361,85 @@
 * [MCC API](http://data.mcc.gov/developer/)
 
 ## National Aeronautics and Space Administration
-* [Several](http://data.nasa.gov/api-info/)
+* [NASA Data API](http://data.nasa.gov/api-info/)
+* [Heliocentric Trajectories Web Services](http://sscweb.gsfc.nasa.gov/WebServices/helio/)
+* [Earth Observing System Clearing House](http://api.echo.nasa.gov/echo/)
 * [Satellite Situation Center API](http://sscweb.gsfc.nasa.gov/WebServices/)
 * [Coordinated Data Analysis System (CDAS) Web services](http://cdaweb.gsfc.nasa.gov/WebServices/)
 
 ## National Archives & Records Administration
-* []()
+* [Executive Orders API](https://explore.data.gov/Other/Executive-Orders-from-1994-to-2012/ps37-i6ce?)
 
 ## National Science Foundation
 * [Application Submission Web Services](http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_asws)
+* [Funding Rate History API](https://explore.data.gov/developers/docs/nsf-funding-rate-history)
+* [GRFP Awardees And Honorable Mentions API](https://explore.data.gov/developers/docs/nsf-grfp-awardees-and-honorable-mentions-2000-2012-)
 
 ## Nuclear Regulatory Commission
-* []()
+* [ADAMS API](http://www.nrc.gov/developer.html)
 
 ## Office of Personnel Management
 * []()
 
 ## Small Business Administration
-* [Several](http://www.sba.gov/api/)
+* [Business Licenses and Permits API](http://www.sba.gov/about-sba-services/7615)
+* [Content Share API](http://www.sba.gov/content/content-share-user-documentation)
+* [Loans and Grants Search API](http://www.sba.gov/about-sba-services/7616)
+* [Recommended Sites API](http://www.sba.gov/about-sba-services/7630)
 * [Small Business Innovation Research](http://www.sbir.gov/about/api)
+* [U.S. City and County Web Data API](http://www.sba.gov/about-sba-services/7617)
 
 ## Social Security Administration
+* [Average Wait Time Until Hearing Held Report](http://www.ssa.gov/developer/api/averWait.htm)
 * [Consent Based Social Security Number Verification Service](http://www.ssa.gov/cbsv/webservice.html)
-* [more](http://usgovxml.com/dataservice.aspx?ds=EREWS)
+* [Hearing Office Average Processing Time Ranking Report](http://www.ssa.gov/developer/api/hearingProcessing.htm)
+* [Hearing Office Workload Data](http://www.ssa.gov/developer/api/hearingWorkload.htm)
 
 ## US Courts
 * [PACER API](http://www.pacer.gov/cmecf/developer/)
 
 ## US Postal Service
 * [eCommerce APIs](https://www.usps.com/business/webtools.htm)
+* [Address Information APIs](https://www.usps.com/business/web-tools-apis/address-information.htm)
+* [Tracking & Delivery Information APIs](https://www.usps.com/business/web-tools-apis/delivery-information.htm)
+* [Price Calculator APIs](https://www.usps.com/business/web-tools-apis/price-calculators.htm)
+* [Shipping Labels API](https://www.usps.com/business/web-tools-apis/shipping-labels.htm)
+* [Package Pickup APIs](https://www.usps.com/business/web-tools-apis/package-pickup.htm)
+* [Service Standards and Commitments APIs](https://www.usps.com/business/web-tools-apis/service-standards-and-commitments.htm)
 * [Several](https://ribbs.usps.gov/intelligentmail_guides/documents/tech_guides/xmlspec/wsdls/wsdls.htm)
 
 ## US Agency for International Development
 * [GIS APIs](http://www.arcgis.com/home/group.html?owner=usaidgeocenter&title=USAID%20GeoCenter)
-
+* [USAID Development Credit Authority Guarantee Data: Loan Transactions](https://explore.data.gov/developers/docs/usaid-development-credit-authority-guarantee-data-loan-transactions)
+* [USAID Development Credit Authority Guarantee Data: Utilization and Claims](https://explore.data.gov/developers/docs/usaid-development-credit-authority-guarantee-data-utilization-and-claims)
+* [U.S. Overseas Loans and Grants (Greenbook)](https://explore.data.gov/developers/docs/u-s-overseas-loans-and-grants-greenbook)
+ 
 --------------------------
 
 # Programs
 
+## FuelEconomy.gov
+* [FuelEconomy.gov Web Services](http://www.fueleconomy.gov/feg/ws/index.shtml)
 
-* FOIA.gov
-* FuelEconomy.gov
-* Health Indicator Warehouse
-* NIEM?
-* Recovery.gov
-* Export.gov
-* 
+## Recovery.gov
+* [Recovery API](http://www.recovery.gov/FAQ/Developer/Pages/RecoveryAPI.aspx)
+* [ArcGIS Map API](http://www.recovery.gov/FAQ/Developer/Pages/arcgisapi.aspx)
+
+## Integrated Taxonomic Information System
+* [ITIS Web Services](http://www.itis.gov/ws_description.html)
+
+## Federal Financial Institutions Examination Council
+* [Central Data Repository API](https://cdr.ffiec.gov/public/PWS/Default.aspx)
+* [Appraisal Subcommittee National Registry API](https://www.asc.gov/wsvc/ASCQuerySvc.asmx)
+
+## Federal Geographic Data Committee
+* [Service Status Checker](http://registry.fgdc.gov/statuschecker/developers.php)
+
+## National Resource Directory
+* [Resources API](https://www.nrd.gov/home/api/resources)
+* [Veterans Job Bank Search API](https://www.nrd.gov/home/api/veterans_job_search)
 
 
-* [Integrated Taxonomic Information System](http://www.itis.gov/ws_description.html)
-* [Federal Financial Institutions Examination Council - Central Data Repository](https://cdr.ffiec.gov/public/PWS/Default.aspx)
-* [Federal Financial Institutions Examination Council - Appraisal Subcommittee](https://www.asc.gov/wsvc/ASCQuerySvc.asmx)
-* [Federal Geographic Data Committee - Service Status Checker](http://registry.fgdc.gov/statuschecker/developers.php)
-* [National Resource Directory](https://www.nrd.gov/home/api)
+
+
+
