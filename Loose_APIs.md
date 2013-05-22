@@ -189,6 +189,7 @@
 * [MetaMap API](http://metamap.nlm.nih.gov/#MetaMapJavaApi)
 * [National Drug File-Reference Terminology API](http://rxnav.nlm.nih.gov/NdfrtAPI.html)
 * [Pillbox API](http://pillbox.nlm.nih.gov/API-documentation.html)
+* [PubMed Central Open Access Web Service](http://www.ncbi.nlm.nih.gov/pmc/tools/oa-service/)
 * [PubChem Power User Gateway API](http://pubchem.ncbi.nlm.nih.gov/pug/pughelp.html)
 * [RxMix API](http://mor.nlm.nih.gov/RxMix/)
 * [RxNorm API](http://rxnav.nlm.nih.gov/RxNormAPI.html)
@@ -216,6 +217,7 @@
 * [ArcGIS Services](http://egis.hud.gov/ArcGIS/rest/services)
 * [Housing Counseling Information](http://data.hud.gov/housing_counseling.html)
 * [IMAX system](http://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/mfh/trx/trxdocs)
+* [Section 3 Housing Lookup](http://data.hud.gov/section3.html)
 
 # Department of the Interior
 
@@ -234,8 +236,6 @@
 * [Surface Management Agency ARCGIS Server](http://www.geocommunicator.gov/ARCGIS/REST/services/SMA/MapServer)
 * [Survey Exporter Service](http://www.blm.gov/nils/GeoComm/home_services.html#Data)
 * [Township Geocoder Service](http://www.blm.gov/nils/GeoComm/home_services.html#Data)
-
-
 
 ##Bureau of Ocean Energy Management
 * [BOEM ARCGIS Server](http://gis.boemre.gov/arcgis/sdk/rest/)
@@ -384,6 +384,7 @@
 * [Go.USA.gov](http://go.usa.gov/api)
 * [Jobscenter](http://jobcenter.usa.gov/apis)
 * [Mobile App Gallery API](http://www.usa.gov/About/developer-resources/mobile-app-gallery/index.shtml)
+* [My.USA.gov Discovery API](http://discovery.my.usa.gov/)
 * [My.USA.gov Profile API](My.USA.gov/developer)
 * [My.USA.gov Tasks API](My.USA.gov/developer)
 * [My.USA.gov Notifications API](My.USA.gov/developer)
@@ -401,11 +402,12 @@
 * [MCC API](http://data.mcc.gov/developer/)
 
 ## National Aeronautics and Space Administration
-* [NASA Data API](http://data.nasa.gov/api-info/)
-* [Heliocentric Trajectories Web Services](http://sscweb.gsfc.nasa.gov/WebServices/helio/)
-* [Earth Observing System Clearing House](http://api.echo.nasa.gov/echo/)
-* [Satellite Situation Center API](http://sscweb.gsfc.nasa.gov/WebServices/)
 * [Coordinated Data Analysis System (CDAS) Web services](http://cdaweb.gsfc.nasa.gov/WebServices/)
+* [Earth Observing System Clearing House](http://api.echo.nasa.gov/echo/)
+* [Heliocentric Trajectories Web Services](http://sscweb.gsfc.nasa.gov/WebServices/helio/)
+* [NASA Data API](http://data.nasa.gov/api-info/)
+* [Satellite Situation Center API](http://sscweb.gsfc.nasa.gov/WebServices/)
+* [SERVIR ArcGIS services](http://ags.servirlabs.net/ArcGIS/rest/services)
 
 ## National Archives & Records Administration
 * [Executive Orders API](https://explore.data.gov/Other/Executive-Orders-from-1994-to-2012/ps37-i6ce?)
