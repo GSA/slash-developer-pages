@@ -82,9 +82,6 @@
 * [Proteus API](https://adh.usace.army.mil/proteus/api/index.html#)
 * [PyADH API](https://adh.usace.army.mil/pyadh/api/index.html)
 
-# Department of Education
-* [Several](http://www.ed.gov/developers)
-
 # Department of Energy
 
 ## Energy Information Administration
@@ -206,8 +203,6 @@
 * [Content Repository APIs](http://store.samhsa.gov/developer)
 * [RecoveryMonth.gov web services](http://recoverymonth.gov/webservices/events.asmx)
 * [Store Developer APIs](http://store.samhsa.gov/developer)
-
-* [Information Tools](https://info.samhsa.gov/), [Documentation](http://info.samhsa.gov/api/docs)
 
 # Department of Homeland Security
 * [National Terrorism Advisory System](http://www.dhs.gov/ntas-api-documentation)
@@ -463,16 +458,6 @@
 
 # Programs
 
-## FuelEconomy.gov
-* [FuelEconomy.gov Web Services](http://www.fueleconomy.gov/feg/ws/index.shtml)
-
-## Recovery.gov
-* [Recovery API](http://www.recovery.gov/FAQ/Developer/Pages/RecoveryAPI.aspx)
-* [ArcGIS Map API](http://www.recovery.gov/FAQ/Developer/Pages/arcgisapi.aspx)
-
-## Integrated Taxonomic Information System
-* [ITIS Web Services](http://www.itis.gov/ws_description.html)
-
 ## Federal Financial Institutions Examination Council
 * [Central Data Repository API](https://cdr.ffiec.gov/public/PWS/Default.aspx)
 * [Appraisal Subcommittee National Registry API](https://www.asc.gov/wsvc/ASCQuerySvc.asmx)
@@ -480,19 +465,25 @@
 ## Federal Geographic Data Committee
 * [Service Status Checker](http://registry.fgdc.gov/statuschecker/developers.php)
 
+## FuelEconomy.gov
+* [FuelEconomy.gov Web Services](http://www.fueleconomy.gov/feg/ws/index.shtml)
+
+## Integrated Taxonomic Information System
+* [ITIS Web Services](http://www.itis.gov/ws_description.html)
+
 ## National Resource Directory
 * [Resources API](https://www.nrd.gov/home/api/resources)
 * [Veterans Job Bank Search API](https://www.nrd.gov/home/api/veterans_job_search)
 
-
-
+## Recovery.gov
+* [Recovery API](http://www.recovery.gov/FAQ/Developer/Pages/RecoveryAPI.aspx)
+* [ArcGIS Map API](http://www.recovery.gov/FAQ/Developer/Pages/arcgisapi.aspx)
  
 --------------------------
 
 # Interactive Datasets in Data.gov
 
 Datasets that are uploaded into Data.gov automatically generate APIs.  For each of the below datasets, [Socrata's Developer Documentation](http://dev.socrata.com) provides resources and background.  To access queryable parameters, click through to the individual dataset, then choose Export->API.  
-
 
 ## Coast Guard
 * [Marine Casualty and Pollution Database - Facility Pollution for 2002-2010](https://explore.data.gov/d/wxch-i4p2) - *([API Endpoint](http://explore.data.gov/resource/wxch-i4p2.json))*
@@ -501,7 +492,6 @@ Datasets that are uploaded into Data.gov automatically generate APIs.  For each 
 * [Marine Casualty and Pollution Database - Vessel 2002-2010](https://explore.data.gov/d/8gap-yij5) - *([API Endpoint](http://explore.data.gov/resource/8gap-yij5.json))*
 * [Marine Casualty and Pollution Database - Vessel Events for 2002-2010](https://explore.data.gov/d/vf29-pk33) - *([API Endpoint](http://explore.data.gov/resource/vf29-pk33.json))*
 * [Marine Casualty and Pollution Database - Vessel Pollution for 2002-2010](https://explore.data.gov/d/g66d-8aji) - *([API Endpoint](http://explore.data.gov/resource/g66d-8aji.json))*
-
 
 ## Department of Agriculture
 * [Federal Cost of School Food Program Data](https://explore.data.gov/d/ysmn-j7g2) - *([API Endpoint](http://explore.data.gov/resource/ysmn-j7g2.json))*
