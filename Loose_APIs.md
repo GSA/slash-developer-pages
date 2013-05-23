@@ -82,6 +82,10 @@
 * [Proteus API](https://adh.usace.army.mil/proteus/api/index.html#)
 * [PyADH API](https://adh.usace.army.mil/pyadh/api/index.html)
 
+## Department of Education 
+* [Integrated Postsecondary Education Data System (IPEDS): Institutional Characteristics - Directory Information (2011)](https://explore.data.gov/developers/docs/nces-ipeds-hd2011)
+* [Integrated Postsecondary Education Data System (IPEDS): Awards/degrees Conferred by Program (2011)](https://explore.data.gov/developers/docs/nces-ipeds-c2011_a)
+
 ## Department of Energy
 
 ### Energy Information Administration
