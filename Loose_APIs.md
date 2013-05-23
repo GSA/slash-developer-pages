@@ -202,7 +202,7 @@
 
 ## Substance Abuse and Mental Health Services Administration
 * [Content Repository APIs](http://store.samhsa.gov/developer)
-* [RecoveryMonth.gov web services](http://recoverymonth.gov/webservices/events.asmx)
+* [RecoveryMonth.gov Web Services](http://recoverymonth.gov/webservices/events.asmx)
 * [Store Developer APIs](http://store.samhsa.gov/developer)
 
 # Department of Homeland Security
@@ -242,7 +242,7 @@
 
 ## Fish and Wildlife Service
 * [Critical Habitat Portal](http://criticalhabitat.fws.gov/)
-* [Environmental Conservation Online System web services](http://ecos.fws.gov/tat_services/)
+* [Environmental Conservation Online System Web Services](http://ecos.fws.gov/tat_services/)
 * [Fish & Wildlife Service ARCGIS Service](http://gis.fws.gov/arcgis/)
 * [Threatened & Endangered Species Query Web Service](http://ecos.fws.gov/tat_services/web/html/TessQuery.html)
 
@@ -258,7 +258,7 @@
 * [NationalMap.gov Web Services](http://services.nationalmap.gov/)
 * [ScienceBase API](https://www.sciencebase.gov/confluence/display/sciencebase/ScienceBase+Item+Services)
 * [ScienceBase Web Services](https://www.sciencebase.gov/catalog/items?filter0=browseCategory%3DData)
-* [Streamstats web services](http://streamstatsags.cr.usgs.gov/webservices/wsui.htm)
+* [Streamstats Web Services](http://streamstatsags.cr.usgs.gov/webservices/wsui.htm)
 * [Water Quality Portal Web Services](http://www.waterqualitydata.us/webservices_documentation.jsp)
 * [Water Services](http://waterservices.usgs.gov/)
 
@@ -366,9 +366,6 @@
 * [Spectrum Dashboard](http://www.fcc.gov/developers/spectrum-dashboard-api)
 * [Broadband Map APIs](http://broadbandmap.gov/developer)
 
-## Federal Register
-* [Federal Register API](http://www.federalregister.gov/blog/learn/developers)
-
 ## Federal Reserve
 * [Federal Reserve Bank of St. Louis - FRED](http://research.stlouisfed.org/fred2)
 
@@ -411,6 +408,7 @@
 
 ## National Archives & Records Administration
 * [Executive Orders API](https://explore.data.gov/Other/Executive-Orders-from-1994-to-2012/ps37-i6ce?)
+* [Federal Register API](http://www.federalregister.gov/blog/learn/developers)
 
 ## National Science Foundation
 * [Application Submission Web Services](http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_asws)
@@ -421,7 +419,8 @@
 * [ADAMS API](http://www.nrc.gov/developer.html)
 
 ## Office of Personnel Management
-* []()
+* [Operating Status API](http://www.opm.gov/developer)
+* [USAJOBS.gov API](http://data.usajobs.gov)
 
 ## Small Business Administration
 * [Business Licenses and Permits API](http://www.sba.gov/about-sba-services/7615)
