@@ -211,7 +211,7 @@
 ### Coast Guard
 
 ### Federal Emergency Management Agency
-* [FEMA Enterprise GIS Services](http://gis.fema.gov/)
+* [FEMA Enterprise GIS Services](http://gis.fema.gov/REST/services)
 
 ## Department of Housing and Urban Development
 * [ArcGIS Services](http://egis.hud.gov/ArcGIS/rest/services)
