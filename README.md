@@ -73,7 +73,7 @@ More and more .gov developer hubs are also linking to each other in the fashion 
   * [HHS - Medicare](http://data.medicare.gov/)
   * [Integrated Taxonomic Information System](http://www.itis.gov/ws_description.html)
   * [ITDashboard.gov](http://www.itdashboard.gov/data_feeds)
-  * [My.USA.gov](http://my.usa.gov/developer/)
+  * [MyUSA](http://my.usa.gov/developer/)
   * [National Broadband Map](http://www.broadbandmap.gov/developer/)
   * [National Information Exchange Model](http://www.niem.gov/developers)
   * [National Resource Directory](http://www.nrd.gov/home/api)
