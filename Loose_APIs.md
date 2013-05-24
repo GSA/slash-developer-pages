@@ -194,6 +194,7 @@
 * [National Drug File-Reference Terminology API](http://rxnav.nlm.nih.gov/NdfrtAPI.html)
 * [Pillbox API](http://pillbox.nlm.nih.gov/API-documentation.html)
 * [PubMed Central Open Access Web Service](http://www.ncbi.nlm.nih.gov/pmc/tools/oa-service/)
+* [PubMed Central Open Archives Initiative Web Service](http://www.ncbi.nlm.nih.gov/pmc/tools/oai/)
 * [PubChem Power User Gateway API](http://pubchem.ncbi.nlm.nih.gov/pug/pughelp.html)
 * [RxMix API](http://mor.nlm.nih.gov/RxMix/)
 * [RxNorm API](http://rxnav.nlm.nih.gov/RxNormAPI.html)
