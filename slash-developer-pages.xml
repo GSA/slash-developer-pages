@@ -231,7 +231,7 @@ consum<?xml version="1.0"?>
       <developer_url>http://www.itdashboard.gov/data_feeds</developer_url>
     </agency>    
     <agency id="">
-      <name>My.USA.gov</name>
+      <name>MyUSA</name>
       <url>http://my.usa.gov/</url>
       <developer_url>http://my.usa.gov/developer</developer_url>
     </agency> 
