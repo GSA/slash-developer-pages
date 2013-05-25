@@ -64,6 +64,9 @@
 * [Severe Weather Data Inventory Web Service](http://www.ncdc.noaa.gov/swdiws/)
 * [Space Physics Interactive Data Resource Web Services](http://spidr.ngdc.noaa.gov/spidr/docs/SPIDR.REST.WSGuide.en.pdf)
 
+### National Telecommunications and Information Administration
+* [Broadband Technology Opportunities Program API](http://www2.ntia.doc.gov/BTOPmap/api)
+
 ### Patent and Trademark Office
 * [Trademark Status & Document Retrieval](http://tsdr.uspto.gov/)
 
