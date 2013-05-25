@@ -91,6 +91,23 @@
 
 ## Department of Energy
 
+### Argonne National Laboratory
+* [Channel Access API](http://www.aps.anl.gov/bcda/epicsgettingstarted/developtools/introductionchannelaccess.html)
+* [EZ Channel Access API](http://www.aps.anl.gov/epics/extensions/ezca/)
+* [AWE API](http://press.igsb.anl.gov/mgrdev/developers/the-awe-api/)
+* [SHOCK API](http://press.igsb.anl.gov/mgrdev/developers/shock-api/)
+* [M5nr API](http://press.igsb.anl.gov/mgrdev/under-the-hood/mg-rast-tools/m5nr/the-m5nr-api/)
+* [MG-RAST API](http://press.igsb.anl.gov/mgrdev/developers/)
+* [NEOS API](http://neos.mcs.anl.gov/neos/NEOS-API.html)
+
+### Brookhaven National Laboratory
+* [Maven 1 API](https://www.racf.bnl.gov/Facility/GUMS/1.3/apidocs/)
+* [NuWa Python API](http://dayabay.bnl.gov/oum/api/)
+* [PerfSonar Network Monitoring Framework Data Access API](https://www.racf.bnl.gov/experiments/usatlas/griddev/new-perfsonar-application-framework/overview)
+* [Star DB C++ API](http://drupal.star.bnl.gov/STAR/comp/db/development/db_cppapi)
+* [Terepaths API](https://www.racf.bnl.gov/terapaths/software/the-terapaths-api)
+* [STAR Scheduler Standard API](http://www.star.bnl.gov/public/comp/Grid/scheduler/javadoc/overview-summary.html)
+
 ### Energy Information Administration
 * [Energy Information Administration API](http://www.eia.gov/developer/)
 
@@ -260,6 +277,7 @@
 * [NPMap](http://www.nps.gov/npmap/support/api.html)
 
 ### US Geological Survey
+* [Biodiversity Information Serving Our Nation API](http://bison.usgs.ornl.gov/services.html)
 * [Eastern Geographic Science Center Map Web Services](http://sscweb.gsfc.nasa.gov/WebServices/)
 * [Grand Canyon Monitoring and Research Center](http://www.gcmrc.gov/WebService.asmx)
 * [Map-A-Planet: Web Map Service](http://www.mapaplanet.gov/explorer/help/wmsUserDoc.html)
