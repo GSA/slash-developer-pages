@@ -270,6 +270,7 @@
 * [Critical Habitat Portal](http://criticalhabitat.fws.gov/)
 * [Environmental Conservation Online System Web Services](http://ecos.fws.gov/tat_services/)
 * [Fish & Wildlife Service ARCGIS Service](http://gis.fws.gov/arcgis/)
+* [National Wetlands Inventory Web Map Services](http://www.fws.gov/wetlands/Data/Web-Map-Services.html)
 * [Threatened & Endangered Species Query Web Service](http://ecos.fws.gov/tat_services/web/html/TessQuery.html)
 
 ### National Park Service
@@ -279,6 +280,7 @@
 ### US Geological Survey
 * [Biodiversity Information Serving Our Nation API](http://bison.usgs.ornl.gov/services.html)
 * [Eastern Geographic Science Center Map Web Services](http://sscweb.gsfc.nasa.gov/WebServices/)
+* [Earthquake Hazards API](http://comcat.cr.usgs.gov/fdsnws/event/1/)
 * [Grand Canyon Monitoring and Research Center](http://www.gcmrc.gov/WebService.asmx)
 * [Map-A-Planet: Web Map Service](http://www.mapaplanet.gov/explorer/help/wmsUserDoc.html)
 * [National Atlas Web Map Services](http://nationalatlas.gov/infodocs/webservices.html)
