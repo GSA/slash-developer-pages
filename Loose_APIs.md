@@ -284,7 +284,7 @@
 * [Grand Canyon Monitoring and Research Center](http://www.gcmrc.gov/WebService.asmx)
 * [Map-A-Planet: Web Map Service](http://www.mapaplanet.gov/explorer/help/wmsUserDoc.html)
 * [National Atlas Web Map Services](http://nationalatlas.gov/infodocs/webservices.html)
-* [NationalMap.gov Web Services](http://services.nationalmap.gov/)
+* [NationalMap.gov Web Services](http://viewer.nationalmap.gov/example/services.html)
 * [ScienceBase API](https://www.sciencebase.gov/confluence/display/sciencebase/ScienceBase+Item+Services)
 * [ScienceBase Web Services](https://www.sciencebase.gov/catalog/items?filter0=browseCategory%3DData)
 * [Streamstats Web Services](http://streamstatsags.cr.usgs.gov/webservices/wsui.htm)
