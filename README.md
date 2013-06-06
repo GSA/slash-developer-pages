@@ -76,6 +76,7 @@ More and more .gov developer hubs are also linking to each other in the fashion 
   * [MyUSA](http://my.usa.gov/developer/)
   * [National Broadband Map](http://www.broadbandmap.gov/developer/)
   * [National Information Exchange Model](http://www.niem.gov/developers)
+  * [National Map](http://viewer.nationalmap.gov/example/services.html)
   * [National Resource Directory](http://www.nrd.gov/home/api)
   * [Performance.gov Permits](http://permits.performance.gov/developers-api)
   * [Recovery.gov](http://www.recovery.gov/FAQ/Developer/)
