@@ -55,6 +55,7 @@ More and more .gov developer hubs are also linking to each other in the fashion 
   * [National Science Foundation](http://nsf.gov/developer/)
   * [Nuclear Regulatory Commission](http://www.nrc.gov/developer.html)
   * [Office of Personnel Management](http://www.opm.gov/developer)
+  * [Office of the Program Manager for the Information Sharing Environment](http://ise.gov/developers)
   * [Small Business Administration](http://www.sba.gov/api/)
   * [Social Security Administration](http://www.ssa.gov/developer)
   * [U.S. Agency for International Development](http://www.usaid.gov/developer)
