@@ -9,6 +9,9 @@
 * https://edg.epa.gov/metadata/catalog/main/home.page
 * https://openpv.nrel.gov/data
 * http://panomics.pnnl.gov/data/
+* http://www.fema.gov/data-feeds
+* http://www.fec.gov/disclosure.shtml
+* 
 
 
 ------------------------------------
