@@ -11,7 +11,9 @@
 * http://panomics.pnnl.gov/data/
 * http://www.fema.gov/data-feeds
 * http://www.fec.gov/disclosure.shtml
-* 
+* http://www.afdc.energy.gov/
+* http://www.aviationweather.gov/adds/
+* http://www.nndc.bnl.gov/
 
 
 ------------------------------------
