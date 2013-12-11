@@ -1,3 +1,20 @@
+## Need to process
+
+* http://open.commerce.gov/data-sets
+* http://www.chbr.noaa.gov/data/
+* http://www.ahrq.gov/data/
+* http://seer.cancer.gov/data/
+* http://aviationweather.gov/data/
+* http://www.va.gov/vetdata/
+* https://edg.epa.gov/metadata/catalog/main/home.page
+* https://openpv.nrel.gov/data
+* http://panomics.pnnl.gov/data/
+
+
+------------------------------------
+
+*The below is now maintained at Project Open Data (/data-hubs)*
+
 ### Agriculture
 * http://www.usda.gov/data/
 * http://www.usda.gov/wps/portal/usda/usdahome?navid=DATA_STATISTICS
