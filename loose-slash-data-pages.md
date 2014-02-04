@@ -25,7 +25,7 @@
 * http://www.usda.gov/wps/portal/usda/usdahome?navid=DATA_STATISTICS
 * http://www.ers.usda.gov/data-products.aspx
 * http://www.fns.usda.gov/data-and-statistics
-* http://www.fas.usda.gov/data.asp
+* http://www.fas.usda.gov/data
 * http://www.nass.usda.gov/Data_and_Statistics/
 
 
