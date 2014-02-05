@@ -45,12 +45,11 @@ More and more .gov developer hubs are also linking to each other in the fashion 
 * [Department of the Treasury](http://www.treasury.gov/developer)
 * [Department of Veterans Affairs](http://www.va.gov/developer)
   
-## Independent Agencies
+## Agencies
   * [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/developers/)
   * [Consumer Product Safety Commission](http://www.cpsc.gov/en/Recalls/CPSC-Recalls-Application-Program-Interface-API-Information/)
   * [Environmental Protection Agency](http://www.epa.gov/developer/)
   * [Federal Communications Commission](http://www.fcc.gov/developers)
-  * [Federal Register](http://www.federalregister.gov/blog/learn/developers)
   * [Federal Reserve Bank of St. Louis](http://api.stlouisfed.org/)
   * [General Services Administration](http://www.gsa.gov/developers/)
   * [Millenium Challenge Corporation](http://data.mcc.gov/developer/)
