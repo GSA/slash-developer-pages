@@ -31,7 +31,7 @@ More and more .gov developer hubs are also linking to each other in the fashion 
 * [Department of the Interior](http://www.doi.gov/developer)
   * [U.S. Geological Survey](http://data.usgs.gov/)
 * [Department of Justice](http://www.justice.gov/developer)
-  * [Bureau of Alcohol, Tobacco, Firearms, and Explosives](https://www.atf.gov/content/developer)
+  * [Bureau of Alcohol, Tobacco, Firearms, and Explosives](https://www.atf.gov/content/About/statistics/developer)
   * [Bureau of Justice Statistics](http://www.bjs.gov/developer/)
   * [Office of Justice Programs](http://data.ojp.gov/developer/)
 * [Department of Labor](http://developer.dol.gov/)
