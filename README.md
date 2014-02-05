@@ -93,7 +93,7 @@ More and more .gov developer hubs are also linking to each other in the fashion 
   * [Sustainable Facilities Tools](http://sftool.gov/developers)
   * [Small Business Innovation Research](http://www.sbir.gov/apis)
   * [USA.gov](http://www.usa.gov/developer)
-  * [USAJOBS.gov](http://data.usajobs.gov)
+  * [USAJOBS.gov](https://data.usajobs.gov)
   * [USASearch](http://usasearch.howto.gov/developer/)
   * [USASpending.gov](http://www.usaspending.gov/data?tab=API)
   * [U.S. Courts - PACER](  http://www.pacer.gov/cmecf/developer/)
