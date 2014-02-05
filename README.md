@@ -74,7 +74,7 @@ More and more .gov developer hubs are also linking to each other in the fashion 
   * [ForeignAssistance.gov](http://www.foreignassistance.gov/web/Developer.aspx)
   * [FuelEconomy.gov](http://www.fueleconomy.gov/ws)
   * [Geoplatform.gov](http://www.geoplatform.gov/developer-pathway)
-  * [Healthcare.gov](http://www.healthcare.gov/developer)
+  * [Healthcare.gov](http://www.healthcare.gov/developers)
   * [HealthData.gov](http://www.healthdata.gov/developer)
   * [HealthFinder.gov](http://healthfinder.gov/developers/)
   * [HHS - Health Indicator Warehouse](http://healthindicators.gov/Developers/)
