@@ -6,7 +6,7 @@
 
 *For Developer Hubs -*  
 
-Environmental Protection Agency:  
+Environmental Protection Agency:    
     url: http://www.epa.gov/developer/  
  
 *For Individual APIs -*  
@@ -17,7 +17,7 @@ Farmers Market Directory API:
   department: Agriculture   
   
 Economic Research Service Content API:  
-  homepage: http://ers.usda.gov/developer/website-content-api.aspx
+  homepage: http://ers.usda.gov/developer/website-content-api.aspx  
   agency: Economic Research Service  
   department: Agriculture  
   
