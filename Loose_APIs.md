@@ -119,8 +119,10 @@
 
 ### Lawrence Berkeley National Laboratory
 * [National Energy Research Scientific Computing Center's NEWT](https://newt.nersc.gov/)
-* [Buildings APIs](https://developers.buildingsapi.lbl.gov/)
-* [Home Energy Saver](http://homeenergysaver.lbl.gov/consumer/licensing)
+* [Home Energy Saver](https://developers.buildingsapi.lbl.gov/hes/documentation/api-definitions)
+* [Home Energy Saver Multifamily](https://developers.buildingsapi.lbl.gov/hes/documentation/mf-api-definitions)
+* [Home Energy Score](https://developers.buildingsapi.lbl.gov/hescore/documentation/hescore-api-definitions)
+* [Energy IQ](https://developers.buildingsapi.lbl.gov/eiq/documentation)
 * [Colt API](http://acs.lbl.gov/software/colt/)
 
 ### Office of Scientific & Technical Information
