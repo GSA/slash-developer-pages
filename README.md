@@ -5,6 +5,8 @@ More and more .gov developer hubs are also linking to each other in the fashion 
 ==========================
 
 
-... Add in new url 
+List of developer hubs [now maintained here](http://18f.github.io/API-All-the-X/pages/status).  
+
+
 
 *[Suggest more](https://github.com/GSA/slash-developer-pages/issues)*
