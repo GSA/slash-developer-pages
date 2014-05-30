@@ -63,7 +63,7 @@
          "id": "ERS",
          "name": "Economic Research Service",
          "url": "http:\/\/www.ers.usda.gov",
-         "developer_url": "http:\/\/www.ers.usda.gov\/developer.aspx\/"
+         "developer_url": "http:\/\/www.ers.usda.gov\/developer.aspx"
        },
        {
          "id": "EIA",
@@ -116,7 +116,7 @@
          "id": "GSA",
          "name": "Millenium Challenge Corporation",
          "url": "http:\/\/www.mcc.gov",
-         "developer_url": "http:\/\/data.mcc.gov\/developer"
+         "developer_url": "http:\/\/data.mcc.gov"
        },
        {
          "id": "NASA",
@@ -202,7 +202,7 @@
        {
          "name": "Commerce - Automated Export System",
          "url": "http:\/\/www.aesdirect.gov\/",
-         "developer_url": "http:\/\/www.aesdirect.gov\/developers"
+         "developer_url": "http://aesdirect.census.gov/developers.html"
        },
        {
          "name": "DATA.gov",
@@ -274,7 +274,7 @@
        {
          "name": "National Information Exchange Model",
          "url": "http:\/\/www.niem.gov\/",
-         "developer_url": "https:\/\/www.niem.gov\/developers"
+         "developer_url": "https://www.niem.gov/tools-catalog/Pages/tools.aspx"
        },
        {
          "name": "National Resource Directory",
@@ -285,11 +285,6 @@
          "name": "Performance.gov Permits",
          "url": "http:\/\/www.performance.gov\/",
          "developer_url": "http:\/\/permits.performance.gov\/developers-api"
-       },
-       {
-         "name": "Recovery.gov",
-         "url": "http:\/\/www.recovery.gov\/",
-         "developer_url": "http:\/\/www.recovery.gov\/FAQ\/Developer\/"
        },
        {
          "name": "Regulations.gov",

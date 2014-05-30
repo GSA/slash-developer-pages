@@ -98,7 +98,7 @@ consum<?xml version="1.0"?>
     <agency id="MCC">
       <name>Millenium Challenge Corporation</name>
       <url>http://www.mcc.gov</url>
-      <developer_url>http://data.mcc.gov/developer/</developer_url>
+      <developer_url>http://data.mcc.gov/</developer_url>
     </agency>
     <agency id="NASA">
       <name>National Aeronautics and Space Administration</name>
@@ -173,7 +173,7 @@ consum<?xml version="1.0"?>
     <agency id="">
       <name>Commerce - Automated Export System</name>
       <url>http://www.aesdirect.gov/</url>
-      <developer_url>http://www.aesdirect.gov/developers</developer_url>
+      <developer_url>http://aesdirect.census.gov/developers.html</developer_url>
     </agency>    
     <agency id="">
       <name>DATA.gov</name>
@@ -243,7 +243,7 @@ consum<?xml version="1.0"?>
     <agency id="">
       <name>National Information Exchange Model</name>
       <url>http://www.niem.gov/</url>
-      <developer_url>https://www.niem.gov/developers</developer_url>
+      <developer_url>https://www.niem.gov/tools-catalog/Pages/tools.aspx</developer_url>
     </agency>    
     <agency id="">
       <name>National Resource Directory</name>
