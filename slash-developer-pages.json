@@ -1,0 +1,268 @@
+{
+    "agencies": [{
+            "id": "USDA",
+            "name": "Department of Agriculture",
+            "url": "http:\/\/www.usda.gov",
+            "developer_url": "http:\/\/www.usda.gov\/developers"
+        }, {
+            "id": "ED",
+            "name": "Department of Education",
+            "url": "http:\/\/www.ed.gov",
+            "developer_url": "http:\/\/www.ed.gov\/developers"
+        }, {
+            "id": "DOE",
+            "name": "Department of Energy",
+            "url": "http:\/\/www.energy.gov",
+            "developer_url": "http:\/\/www.energy.gov\/developers"
+        }, {
+            "id": "HHS",
+            "name": "Department of Health &amp; Human Services",
+            "url": "http:\/\/www.hhs.gov",
+            "developer_url": "http:\/\/www.hhs.gov\/developer"
+        }, {
+            "id": "DOL",
+            "name": "Department of Labor",
+            "url": "http:\/\/www.dol.gov",
+            "developer_url": "http:\/\/developer.dol.gov\/"
+        }, {
+            "id": "DOT",
+            "name": "Department of Transportation",
+            "url": "http:\/\/www.dot.gov",
+            "developer_url": "http:\/\/www.dot.gov\/developer"
+        }, {
+            "id": "CENSUS",
+            "name": "Bureau of the Census",
+            "url": "http:\/\/www.census.gov\/",
+            "developer_url": "http:\/\/www.census.gov\/developers\/"
+        }, {
+            "name": "Centers for Medicare & Medicaid Services",
+            "url": "http:\/\/www.cms.gov\/",
+            "developer_url": "http:\/\/data.cms.gov\/"
+        }, {
+            "id": "CFPB",
+            "name": "Consumer Financial Protection Bureau",
+            "url": "http:\/\/www.consumerfinance.gov",
+            "developer_url": "http:\/\/www.consumerfinance.gov\/developers\/"
+        }, {
+            "id": "CPSC",
+            "name": "Consumer Product Safety Commission",
+            "url": "http:\/\/www.cpsc.gov",
+            "developer_url": "http://www.cpsc.gov\/en\/Recalls\/CPSC-Recalls-Application-Program-Interface-API-Information\/"
+        }, {
+            "id": "ERS",
+            "name": "Economic Research Service",
+            "url": "http:\/\/www.ers.usda.gov",
+            "developer_url": "http:\/\/www.ers.usda.gov\/developer.aspx\/"
+        }, {
+            "id": "EIA",
+            "name": "Energy Information Administration",
+            "url": "http:\/\/www.eia.gov",
+            "developer_url": "http:\/\/www.eia.gov\/developer\/"
+        }, {
+            "id": "EPA",
+            "name": "Environmental Protection Agency",
+            "url": "http:\/\/www.epa.gov",
+            "developer_url": "http:\/\/www.epa.gov\/developer\/"
+        }, {
+            "id": "FAA",
+            "name": "Federal Aviation Administration",
+            "url": "http:\/\/www.faa.gov\/",
+            "developer_url": "http:\/\/services.faa.gov\/"
+        }, {
+            "id": "FCC",
+            "name": "Federal Communications Commission",
+            "url": "http:\/\/www.fcc.gov",
+            "developer_url": "http:\/\/www.fcc.gov\/developers"
+        }, {
+            "id": "FMCSA",
+            "name": "Federal Motor Carrier Safety Administration",
+            "url": "http:\/\/www.fmcsa.dot.gov\/",
+            "developer_url": "https:\/\/mobile.fmcsa.dot.gov\/developer"
+        }, {
+            "id": "FR",
+            "name": "Office of the Federal Register",
+            "url": "http:\/\/www.federalregister.gov\/",
+            "developer_url": "http:\/\/www.federalregister.gov\/blog\/learn\/developers"
+        }, {
+            "name": "Federal Reserve Bank of St. Louis",
+            "url": "http:\/\/www.stlouisfed.org",
+            "developer_url": "http:\/\/api.stlouisfed.org\/"
+        }, {
+            "id": "GSA",
+            "name": "General Services Administration",
+            "url": "http:\/\/www.gsa.gov",
+            "developer_url": "http:\/\/www.gsa.gov\/developers"
+        }, {
+            "id": "GSA",
+            "name": "Millenium Challenge Corporation",
+            "url": "http:\/\/www.mcc.gov",
+            "developer_url": "http:\/\/data.mcc.gov\/developer"
+        }, {
+            "id": "NASA",
+            "name": "National Aeronautics and Space Administration",
+            "url": "http:\/\/www.nasa.gov",
+            "developer_url": "http:\/\/data.nasa.gov\/api-info\/"
+        }, {
+            "id": "NARA",
+            "name": "National Archives and Records Administration",
+            "url": "http:\/\/www.archives.gov",
+            "developer_url": "http:\/\/www.archives.gov\/developers\/"
+        }, {
+            "name": "National Climate Data Center",
+            "url": "http:\/\/www.ncdc.noaa.gov",
+            "developer_url": "http:\/\/www.ncdc.noaa.gov\/cdo-web\/"
+        }, {
+            "name": "National Institute on Drug Abuse",
+            "url": "http:\/\/www.drugabuse.gov",
+            "developer_url": "http:\/\/www.drugabuse.gov\/developer"
+        }, {
+            "id": "NLM",
+            "name": "National Library of Medicine",
+            "url": "http:\/\/www.nlm.nih.gov",
+            "developer_url": "http:\/\/www.nlm.nih.gov\/api\/"
+        }, {
+            "id": "NREL",
+            "name": "National Renewable Energy Laboratory",
+            "url": "http:\/\/www.nrel.gov",
+            "developer_url": "http:\/\/developer.nrel.gov\/"
+        }, {
+            "id": "NHTSA",
+            "name": "National Highway Traffic Safety Administration",
+            "url": "http:\/\/www.nhtsa.gov",
+            "developer_url": "http:\/\/www.nhtsa.gov\/webapi\/Default.aspx"
+        }, {
+            "id": "NWS",
+            "name": "National Wether Service",
+            "url": "http:\/\/www.weather.gov",
+            "developer_url": "http:\/\/graphical.weather.gov\/xml\/"
+        }, {
+            "id": "SBA",
+            "name": "Small Business Administration",
+            "url": "http:\/\/www.sba.gov",
+            "developer_url": "http:\/\/www.sba.gov\/api\/"
+        }, {
+            "id": "SSA",
+            "name": "Social Security Administration",
+            "url": "http:\/\/www.ssa.gov",
+            "developer_url": "http:\/\/www.ssa.gov\/edds"
+        }, {
+            "id": "SAMHSA",
+            "name": "Substance Abuse and Mental Health Services Administration",
+            "url": "http:\/\/www.samhsa.gov\/",
+            "developer_url": "http:\/\/store.samhsa.gov\/developer"
+        }, {
+            "id": "USGS",
+            "name": "United States Geological Survey",
+            "url": "http:\/\/www.usgs.gov\/",
+            "developer_url": "http:\/\/data.usgs.gov\/"
+        }, {
+            "id": "EOP",
+            "name": "Executive Office of the President",
+            "url": "http:\/\/www.whitehouse.gov",
+            "developer_url": "http:\/\/www.whitehouse.gov\/developers"
+        }, {
+            "name": "BusinessUSA",
+            "url": "http:\/\/business.usa.gov\/",
+            "developer_url": "http:\/\/business.usa.gov\/apis"
+        }, {
+            "name": "Commerce - Automated Export System",
+            "url": "http:\/\/www.aesdirect.gov\/",
+            "developer_url": "http:\/\/www.aesdirect.gov\/developers"
+        }, {
+            "name": "DATA.gov",
+            "url": "http:\/\/www.data.gov\/",
+            "developer_url": "http:\/\/developer.data.gov"
+        }, {
+            "name": "DEA - E-Commerce Program",
+            "url": "http:\/\/www.deaecom.gov",
+            "developer_url": "http:\/\/www.deaecom.gov\/developer.html"
+        }, {
+            "name": "EnergyStar.gov",
+            "url": "http:\/\/www.energystar.gov",
+            "developer_url": "https:\/\/data.energystar.gov\/developers"
+        }, {
+            "name": "FOIA.gov",
+            "url": "http:\/\/www.foia.gov\/",
+            "developer_url": "http:\/\/www.foia.gov\/developer.html"
+        }, {
+            "name": "FuelEconomy.gov",
+            "url": "http:\/\/www.fueleconomy.gov\/",
+            "developer_url": "http:\/\/www.fueleconomy.gov\/ws"
+        },
+
+
+        {
+            "name": "Healthdata.gov",
+            "url": "http:\/\/www.healthdata.gov\/",
+            "developer_url": "http:\/\/www.healthdata.gov\/developer"
+        }, {
+            "name": "Healthfinder.gov",
+            "url": "http:\/\/www.healthfinder.gov\/",
+            "developer_url": "http:\/\/healthfinder.gov\/developers\/"
+        }, {
+            "name": "HHS - Health Indicator Warehouse",
+            "url": "http:\/\/www.healthindicators.gov\/",
+            "developer_url": "http:\/\/healthindicators.gov\/Developers\/"
+        }, {
+            "name": "HHS - Medicare",
+            "url": "http:\/\/www.medicare.gov\/",
+            "developer_url": "http:\/\/data.medicare.gov\/"
+        }, {
+            "name": "Integrated Taxonomic Information System",
+            "url": "http:\/\/www.itis.gov\/",
+            "developer_url": "http:\/\/www.itis.gov\/ws_description.html"
+        }, {
+            "name": "ITDashboard.gov",
+            "url": "http:\/\/www.itdashboard.gov\/",
+            "developer_url": "http:\/\/www.itdashboard.gov\/data_feeds"
+        }, {
+            "name": "MyUSA",
+            "url": "http:\/\/my.usa.gov\/",
+            "developer_url": "https:\/\/my.usa.gov\/developer"
+        }, {
+            "name": "National Broadband Map",
+            "url": "http:\/\/www.broadbandmap.gov\/",
+            "developer_url": "http:\/\/www.broadbandmap.gov\/developer\/"
+        }, {
+            "name": "National Information Exchange Model",
+            "url": "http:\/\/www.niem.gov\/",
+            "developer_url": "https:\/\/www.niem.gov\/developers"
+        }, {
+            "name": "National Resource Directory",
+            "url": "http:\/\/www.nrd.gov\/",
+            "developer_url": "https:\/\/www.nrd.gov\/home\/api"
+        }, {
+            "name": "Performance.gov Permits",
+            "url": "http:\/\/www.performance.gov\/",
+            "developer_url": "http:\/\/permits.performance.gov\/developers-api"
+        }, {
+            "name": "Recovery.gov",
+            "url": "http:\/\/www.recovery.gov\/",
+            "developer_url": "http:\/\/www.recovery.gov\/FAQ\/Developer\/"
+        }, {
+            "name": "Regulations.gov",
+            "url": "http:\/\/www.regulations.gov\/",
+            "developer_url": "http:\/\/www.regulations.gov\/#!developers"
+        }, {
+            "name": "Small Business Innovation Research",
+            "url": "http:\/\/www.sbir.gov\/",
+            "developer_url": "http:\/\/www.sbir.gov\/apis"
+        }, {
+            "name": "USA.gov",
+            "url": "http:\/\/www.usa.gov\/",
+            "developer_url": "http:\/\/www.usa.gov\/developer"
+        }, {
+            "name": "USASearch",
+            "url": "http:\/\/usasearch.howto.gov\/",
+            "developer_url": "http:\/\/usasearch.howto.gov\/developer"
+        }, {
+            "name": "USASpending.gov",
+            "url": "http:\/\/www.usaspending.gov\/",
+            "developer_url": "http:\/\/www.usaspending.gov\/data?tab=API"
+        }, {
+            "name": "U.S. Courts - PACER",
+            "url": "http:\/\/www.pacer.gov\/",
+            "developer_url": "http:\/\/www.pacer.gov\/cmecf\/developer\/"
+        }
+    ]
+}
