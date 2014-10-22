@@ -170,7 +170,7 @@
 * [Wonder Data](http://wonder.cdc.gov/wonder/help/WONDER-API.html)
 
 ### Food and Drug Administration
-* [Tobacco Content API](http://tools.fda.gov/CSStorefront/api.aspx)
+* [OpenFDA](https://open.fda.gov/)
 
 ### Health Resources and Services Administration
 * [Ryan White HIV/AIDS Medical Care Providers API](http://datawarehouse.hrsa.gov/HDWDataServiceExternal/HdwDataWebServiceExternal.asmx?op=FindHIVAIDSCareProvidersAroundALocation)
